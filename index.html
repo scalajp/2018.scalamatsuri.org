@@ -291,8 +291,23 @@ layout: null
 				<p class="subTtlSm">Sponsor</p>
 			</header>
 			<div class="txtBlock">
-				<p>募集開始は10月頃を予定しております。</p>
+				<p>募集開始は10月末頃を予定しております。</p>
 			</div>
+
+			<div class="sectionStyle7Inner">
+				<article class="spBox">
+  					<h3 class="ttlspBox1 spLv6">奉行スポンサー</h3>
+  						<ul class="clearfix shuffle">
+	    					  {% for logo in site.data.logos.bugyo %}
+	   					   <li>
+		          				<div class="bugyoLogo">
+				        			<p>{{ logo.category_ja }}</p>
+				              			<a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a>
+				           		 </div>
+			          		  </li>
+						  {% endfor %}
+  						</ul>
+				</article>  
 		</section>
 
 		{% include footer.html %}
