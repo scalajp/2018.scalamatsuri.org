@@ -5,7 +5,7 @@ layout: default_en
 
 Come share your stories at Scala Matsuri 2018!
 
-We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 1st 23:59 JST**.
+We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 16th 23:59 JST**.
 
 Matsuri, meaning festival, is about time and space out of the everyday. It’s about mustering up the courage to do something cool (even though we are normally shy).
 We want to make it a fun experience, regardless of gender, race, and many different backgrounds.
