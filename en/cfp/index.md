@@ -15,7 +15,7 @@ In particular, we want to make it a fun event for those visiting Japan from over
 So here are some of the things we will do this year:
 
 - CFP in English and Japanese < you are here
-- Speakers will be decided using survey and social score (more on this TBA) as a reference
+- Speakers will be decided using survey and social shares (more on this TBA) as a reference
 - All slides in English
 - Professional interpreters (English/Japanese bidirection) in two main halls
 - Travel grant for speakers with most votes (See [travel grant](/en/cfp/#Travel-grant))
