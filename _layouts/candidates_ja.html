@@ -33,7 +33,7 @@ layout: default_ja
     {% case page.length %}
     {% when 15 %} 15分
     {% when 40 %} 40分
-    {% when 50 %} 50分
+    {% when 90 %} 90分
     {% endcase %}
   </dd>
 
@@ -55,6 +55,12 @@ layout: default_ja
     {% endcase %}
   </dd>
 
+  <dt>こんな人におすすめ</dt>
+  <dd>
+    {% for suggestion in page.suggestions %}
+      {{ suggestion }}</br>
+    {% endfor %}        
+  </dd>
 
   <dt>発表者</dt>
   <dd>

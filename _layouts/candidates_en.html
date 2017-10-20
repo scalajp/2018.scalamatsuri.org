@@ -32,7 +32,7 @@ layout: default_en
     {% case page.length %}
     {% when 15 %} 15 minutes
     {% when 40 %} 40 minutes
-    {% when 50 %} 50 minutes
+    {% when 90 %} 90 minutes
     {% endcase %}
   </dd>
 
@@ -54,6 +54,12 @@ layout: default_en
     {% endcase %}
   </dd>
 
+  <dt>Who is your session intended to</dt>
+  <dd>
+    {% for suggestion in page.suggestions %}
+      {{ suggestion }}</br>
+    {% endfor %}        
+  </dd>
 
   <dt>Speaker</dt>
   <dd>
