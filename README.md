@@ -79,6 +79,8 @@ front matter (ファイル先頭の `---` と `---` で囲まれた部分) に�
 * github: Github アカウント (連名の場合はカンマ区切りで記載する。例: `taro,hanako`)
 * icon: アイコンのURL
 * organization: 所属組織
+* tags: タグ
+* suggestions: 聴くのをおすすめする人
 
 front matter は YAML 形式です。文字列中に `:` を含む場合は `""` でクォートします。
 
@@ -98,6 +100,10 @@ organization: X
 tags:
   - tag1
   - tag2
+suggestions:
+  - sample 1
+  - sample 2
+  - sample 3
 ---
 ここにセッションの内容を markdown で書きます。
 ```
