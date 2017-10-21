@@ -28,6 +28,35 @@ title: 応募セッション一覧
   </p>
 </div>
 
+<h2>90分英語</h2>
+<div class="shuffle-session">
+	{% assign has_90en = false %}
+	{% for candidate in site.candidates_ja %}
+	  {% if candidate.length == 90 and candidate.language == "English" %}
+	      {% include_relative element.html candidate=candidate %}
+	          {% assign has_90en = true %}
+		    {% endif %}
+		    {% endfor %}
+</div>
+{% unless has_90en %}
+  <div class="text-muted">まだ応募がありません。</div>
+  {% endunless %}
+
+  <h2>90分日本語</h2>
+  <div class="shuffle-session">
+	  {% assign has_90ja = false %}
+	  {% for candidate in site.candidates_ja %}
+	    {% if candidate.length == 90 and candidate.language != "English" %}
+	        {% include_relative element.html candidate=candidate %}
+		    {% assign has_90ja = true %}
+		      {% endif %}
+		      {% endfor %}
+  </div>
+  {% unless has_90ja %}
+    <div class="text-muted">まだ応募がありません。</div>
+    {% endunless %}
+
+
 <h2>40分英語</h2>
 <div class="shuffle-session">
 {% assign has_40en = false %}
@@ -56,31 +85,31 @@ title: 応募セッション一覧
   <div class="text-muted">まだ応募がありません。</div>
 {% endunless %}
 
-<h2>15分英語</h2>
+<h2>10分英語</h2>
 <div class="shuffle-session">
-{% assign has15_en = false %}
+{% assign has10_en = false %}
 {% for candidate in site.candidates_ja %}
-  {% if candidate.length == 15 and candidate.language == "English" %}
+  {% if candidate.length == 10 and candidate.language == "English" %}
     {% include_relative element.html candidate=candidate %}
-    {% assign has15_en = true %}
+    {% assign has10_en = true %}
   {% endif %}
 {% endfor %}
 </div>
-{% unless has15_en %}
+{% unless has10_en %}
   <div class="text-muted">まだ応募がありません。</div>
 {% endunless %}
 
-<h2>15分日本語</h2>
+<h2>10分日本語</h2>
 <div class="shuffle-session">
-{% assign has15_ja = false %}
+{% assign has10_ja = false %}
 {% for candidate in site.candidates_ja %}
-  {% if candidate.length == 15 and candidate.language != "English" %}
+  {% if candidate.length == 10 and candidate.language != "English" %}
     {% include_relative element.html candidate=candidate %}
-    {% assign has15_ja = true %}
+    {% assign has10_ja = true %}
   {% endif %}
 {% endfor %}
 </div>
-{% unless has15_ja %}
+{% unless has10_ja %}
   <div class="text-muted">まだ応募がありません。</div>
 {% endunless %}
 
