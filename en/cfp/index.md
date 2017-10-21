@@ -7,6 +7,8 @@ Come share your stories at Scala Matsuri 2018!
 
 We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 16th 23:59 JST**.
 
+For your reference:[ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
+
 Matsuri, meaning festival, is about time and space out of the everyday. It’s about mustering up the courage to do something cool (even though we are normally shy).
 We want to make it a fun experience, regardless of gender, race, and many different backgrounds.
 All participants, including speakers and sponsors, are asked to be respectful to each other and follow the [code of conduct](/en/code-of-conduct/).
@@ -15,7 +17,7 @@ In particular, we want to make it a fun event for those visiting Japan from over
 So here are some of the things we will do this year:
 
 - CFP in English and Japanese < you are here
-- Speakers will be decided using survey and social shares (more on this TBA) as a reference
+- Speakers will be decided using survey and social impact as a reference
 - All slides in English
 - Professional interpreters (English/Japanese bidirection) in two main halls
 - Travel grant for speakers with most votes (See [travel grant](/en/cfp/#Travel-grant))
@@ -24,7 +26,7 @@ So here are some of the things we will do this year:
 We are looking for topics that you think Scala community or new learners of Scala would be interested. We have tree session length: 10 minutes, 40 minutes, and 90 minutes. Prepare an abstract of your talk (600 characters or less), and submit your proposal.
 
 We'll conduct a survey on which talks your fellow Matsuri would want to go to,
-and the organizers will decide the talks using the survey result as a reference.
+and the organizers will decide the talks using the survey result and social impact as a reference.
 In addition to the CFP, we might invite a few speakers to make Matsuri more fun experience.
 
 You are allowed up to three submissions. However, please note that it might end up splitting your votes,
