@@ -28,6 +28,34 @@ layout: default_en
   </p>
 </div>
 
+<h2>90-minute sessions in English</h2>
+<div class="shuffle-session">
+	{% assign has_90en = false %}
+	{% for candidate in site.candidates_en %}
+	  {% if candidate.length == 90 and candidate.language == "English" %}
+	      {% include_relative element.html candidate=candidate %}
+	          {% assign has_90en = true %}
+		    {% endif %}
+		    {% endfor %}
+</div>
+{% unless has_90en %}
+  <div class="text-muted">No candidates yet</div>
+  {% endunless %}
+
+<h2>90-minute sessions in Japanese</h2>
+<div class="shuffle-session">
+	  {% assign has_90ja = false %}
+	  {% for candidate in site.candidates_en %}
+	    {% if candidate.length == 90 and candidate.language != "English" %}
+	        {% include_relative element.html candidate=candidate %}
+		    {% assign has_90ja = true %}
+		      {% endif %}
+		      {% endfor %}
+  </div>
+  {% unless has_90ja %}
+    <div class="text-muted">No candidates yet</div>
+    {% endunless %}
+
 
 <h2>40-minute sessions in English</h2>
 <div class="shuffle-session">
@@ -57,31 +85,31 @@ layout: default_en
   <div class="text-muted">No candidates yet</div>
 {% endunless %}
 
-<h2>15-minute sessions in English</h2>
+<h2>10-minute sessions in English</h2>
 <div class="shuffle-session">
-{% assign has15_en = false %}
+{% assign has10_en = false %}
 {% for candidate in site.candidates_en %}
-  {% if candidate.length == 15 and candidate.language == "English" %}
+  {% if candidate.length == 10 and candidate.language == "English" %}
     {% include_relative element.html candidate=candidate %}
-    {% assign has15_en = true %}
+    {% assign has10_en = true %}
   {% endif %}
 {% endfor %}
 </div>
-{% unless has15_en %}
+{% unless has10_en %}
   <div class="text-muted">No candidates yet</div>
 {% endunless %}
 
-<h2>15-minute sessions in Japanese</h2>
+<h2>10-minute sessions in Japanese</h2>
 <div class="shuffle-session">
-{% assign has15_ja = false %}
+{% assign has10_ja = false %}
 {% for candidate in site.candidates_en %}
-  {% if candidate.length == 15 and candidate.language != "English" %}
+  {% if candidate.length == 10 and candidate.language != "English" %}
     {% include_relative element.html candidate=candidate %}
-    {% assign has15_ja = true %}
+    {% assign has10_ja = true %}
   {% endif %}
 {% endfor %}
 </div>
-{% unless has15_ja %}
+{% unless has10_ja %}
   <div class="text-muted">No candidates yet</div>
 {% endunless %}
 
@@ -92,7 +120,7 @@ layout: default_en
 </div>
 
 <hr>
-{% include voting_en.html %}
+<!--{% include voting_en.html %}-->
 
 <script src="/js/lodash.min.js"></script>
 <script src="/js/cfp-tag.js"></script>
