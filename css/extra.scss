@@ -150,3 +150,35 @@ body {
   width: 100% !important;
   height: 100% !important;
 }
+
+.sns-button-list {
+  text-align: center;
+  list-style: none;
+  font-size: 0;
+  padding-left: 0;
+}
+ 
+.sns-button-list > li {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 7px;
+}
+ 
+.sns-button-list > li:first-child {
+	margin-left: 0;
+}
+ 
+.sns-button-list > li:last-child {
+	margin-right: 0;
+}
+ 
+.sns-button-list iframe {
+	margin: 0 !important;
+}
+ 
+@media screen and (max-width: 780px){
+	.sns-button-list > li{
+		width: auto !important;
+		margin: 0 4px 10px 0;
+	}
+}
