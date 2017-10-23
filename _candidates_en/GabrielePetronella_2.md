@@ -9,7 +9,8 @@ github: gabro
 icon: https://avatars3.githubusercontent.com/u/691940?s=460&v=4
 organization: buildo / co-founder
 tags:
-  - Functional Programming, Best Practices
+  - Functional Programming
+  - Best Practices
 suggestions:
   - Scala developers to are interesting in learning new FP abstractions to make their life simpler :)
 ---
