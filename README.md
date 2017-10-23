@@ -65,7 +65,7 @@ _config.yml が基本設定です。
 
 ### セッション応募ページの追加方法
 
-`_candidates_ja/`, `_candidates_en/` 以下にそれぞれ `(氏名)_(連番).md` を作り、日本語、英語の内容を記載します。
+`_candidates_ja/`, `_candidates_en/` 以下にそれぞれ `$firstName$lastName_$連番.md` を作り、日本語、英語の内容を記載します。
 例えば鈴木一郎 (Ichiro Suzuki) さんの最初の応募に対しては `IchiroSuzuki_1.md` となります。
 
 front matter (ファイル先頭の `---` と `---` で囲まれた部分) に次の内容を書きます。
