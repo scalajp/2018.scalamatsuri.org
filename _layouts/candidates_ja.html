@@ -81,15 +81,18 @@ layout: default_ja
 
 <div class="text-center">
   <ul class="sns-button-list">
-    <!-- <li>
-      <a class="twitter-share-button"
+    <li>
+      <a class="twitter-share-buttoon"
         href="https://twitter.com/intent/tweet"
+        data-url="{{ site.url }}{{ page.url }}"
         data-via="{{ site.ja.twitter }}"
         data-hashtags="ScalaMatsuri"
-        data-related="{{ site.ja.twitter }}{% if page.twitter %},{{ page.twitter }}{% endif %}">
-        Tweet
-      </a>    
-    </li> -->
+        data-count="vertical"
+        data-lang="ja"
+        data-text="{{ page.title }}">
+        ツイート
+      </a>
+    </li>
     <li>
       <div class="fb-like" 
         data-href="{{ entry.url }}" 
