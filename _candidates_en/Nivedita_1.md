@@ -1,7 +1,7 @@
 ---
 name: Nivedita
 title: "Baby steps to learning Scala"
-length: 40 minutes
+length: 40
 audience: Beginner
 language: English
 twitter: https://twitter.com/nivedita_musku
