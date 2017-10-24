@@ -22,8 +22,8 @@ On the other hand, it is exceedingly difficult and cumbersome to manage complex 
 
 From such a point of view, I wrote some applications, displayed below, using Scala.js and Electron or ReactNative for rapid development of the UI layer and robust development of the core layer.
 
-- [NekogataDrumSequencer](https://shinpeim.github.io/ScalaJsDrumSequencer/web/build/) (web app)
-- [Backlog](https://www.backlog.jp/) client app (desktop app powered by Vue.js)
+- [NekogataDrumSequencer](https://shinpeim.github.io/ScalaJsDrumSequencer/web/build/) (web app powered by Vue.js)
+- [Backlog](https://www.backlog.jp/) client app (desktop app powered by Vue.js and Electron)
 - chord score editor(WIP) (iOS app powered by ReactNative)
 
 In this session, I'll share the knowledge I obtained while writing those applications with Scala.js. The following content will be included.

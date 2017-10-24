@@ -22,8 +22,8 @@ suggestions:
 
 そのような考えから、Scala.jsとElectronやReactNativeを併用しながら、ラピッドにUIを作りつつも、コア部分は静的型付けとScalaの強力な言語機能に守られながらネイティブアプリを作るという試みを行ってきました。その成果物としては以下のようなものが挙げられます。
 
-- [猫型ドラムシーケンサー](https://shinpeim.github.io/ScalaJsDrumSequencer/web/build/) (web app)
-- [Backlog](https://www.backlog.jp/)クライアント (desktop app powered by Vue.js)
+- [猫型ドラムシーケンサー](https://shinpeim.github.io/ScalaJsDrumSequencer/web/build/) (web app powered by Vue.js)
+- [Backlog](https://www.backlog.jp/)クライアント (desktop app powered by Vue.js and Electron)
 - コード譜エディタ(WIP) (iOS app powered by ReactNative)
 
 このセッションでは、それらのアプリケーションをScala.jsで書いていくにあたって得てきた知見を共有します。以下のような内容が含まれる予定です。
