@@ -2,7 +2,7 @@
 name: Raul Raja
 title: "Building Microservices with Freestyle"
 length: 40
-audience: "Intermediate: Familiar with principles, not well versed in specifics"
+audience: Intermediate
 language: English
 twitter: raulraja
 github: raulraja
