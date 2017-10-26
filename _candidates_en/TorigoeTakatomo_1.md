@@ -1,6 +1,6 @@
 ---
-name: 鳥越貴智（piyo7）
-title: "Pretty simulation of quantum computers in Scala"
+name: Takatomo Torigoe（piyo7）
+title: "Let's Simulate a Quantum Computer with Pretty Scala"
 length: 40
 audience: Beginner
 language: Japanese
