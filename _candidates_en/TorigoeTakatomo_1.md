@@ -5,7 +5,7 @@ length: 40
 audience: Beginner
 language: Japanese
 twitter:
-github: https://github.com/piyo7
+github: piyo7
 icon: https://www.gravatar.com/avatar/e650d601c28f8accb2eeacca8fc2b092?s=200
 organization: CyberAgent, Inc.
 tags:
