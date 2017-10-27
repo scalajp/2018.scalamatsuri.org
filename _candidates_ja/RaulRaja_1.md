@@ -18,4 +18,4 @@ suggestions:
 ---
 このトークではfree algebraとtagles algebraを用いたハイブリッドなマイクロサービス/ライブラリに関する設計について話します。
 これはライブラリとして公開することも、マイクロサービスとしてデプロイすることもでき、
-Freestyleライブラリhttp://frees.ioによる純粋関数型パターンに基づいています。
+Freestyleライブラリ [http://frees.io](http://frees.io)による純粋関数型パターンに基づいています。
