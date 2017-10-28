@@ -2,7 +2,7 @@
 name: Martin Thompson
 title: “関数型プログラミングによるパフォーマンス"
 length: 40
-audience: Intermediate: 仕様に精通していなく、原則に馴染みがある人向け
+audience: Intermediate 仕様に精通していなく、原則に馴染みがある人向け
 language: English
 twitter: mjpt777
 github: mjpt777
