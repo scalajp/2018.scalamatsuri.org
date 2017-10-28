@@ -1,6 +1,6 @@
 ---
 name: Gabriele Petronella
-title: "プログラマのためのモナド変換子"
+title: "仕事で役立つモナド変換子"
 length: 40
 audience: Intermediate
 language: English
