@@ -4,8 +4,8 @@ title: "Scalaを学ぶ小さな一歩"
 length: 40
 audience: Beginner
 language: English
-twitter: https://twitter.com/nivedita_musku
-github: https://github.com/nmusku
+twitter: nivedita_musku
+github: nmusku
 icon: https://media-exp2.licdn.com/media/AAEAAQAAAAAAAA01AAAAJDQ3ZWQwZDQ0LTYxZGMtNDU0Ni05YzgzLTlmYmEyZWIxOWExMQ.jpg
 organization: Senior Software Developer/ Twilio
 tags:
