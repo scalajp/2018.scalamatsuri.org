@@ -22,4 +22,4 @@ but only a single person implements the server side, and the other members work 
 The server-side engineer in such a project takes care of a wide variety of work, 
 not only servers, but also the infrastructure, implementation of the protocol to talk to clients.
 As we usually develop large-scale games, we continuously add new features, new game events, etc.
-So I am also going to show how we leverage the strength of Scala to improve operational efficiency.
+So I am going to show how we leverage the strength of Scala to improve operational efficiency.
