@@ -9,7 +9,9 @@ github: takezoux2
 icon: https://ja.gravatar.com/userimage/10668836/0905b1ee905d03db3f242d210785ee64.jpeg
 organization: Geisha Tokyo Entertainment Inc.
 tags:
-  - Functional Programming / DevOps / Software Design and Architecture
+  - Functional Programming 
+  - DevOps 
+  - Software Design and Architecture
 suggestions:
   - People who are concerned with increase in the cost of communication
   - People who want to improve operational efficiency
