@@ -21,7 +21,3 @@ In order to use Akka in production, we also need to pay attention to quality cha
 In this session, I will introduce a library called squbs developed by PayPal in order to achieve this.
 squbs's design principal and tools are completely different from all-in-one frameworks. Unfortunately they do not have enough information in Japanese. So, it would be happy for me if this session cloud provide useful information to you.
 (By the way, I am not a contributor. I just want to let you know my favorite tool ;-D)
-Akka は豊富なツールセットを持ちますが、プロダクションレベルで運用するには、ログやモニタリング、アプリケーションライフサイクルなど品質特性にも目を配る必要があります。
-本セッションでは、これらを実現するためにPayPalが開発したsqubsというライブラリをご紹介したいと思います。
-squbsの設計原則、そして、提供されるツールはオールインワンなフレームワークとは一線を画すものです。残念ながら日本語の情報があまりない状況ですが、この機会にあなたの引き出しの一つとなれば幸いです。
-（なお、私はコントリビューターでもなんでもありませんが、ただただ良いと思ったものを布教したいだけです;-D）
