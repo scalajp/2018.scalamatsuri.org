@@ -1,7 +1,7 @@
 ---
 name: Michał Matłoka
 title: "Machine learning by example"
-length: 40 minutes
+length: 40
 audience: Beginner
 language: English
 twitter: mmatloka
