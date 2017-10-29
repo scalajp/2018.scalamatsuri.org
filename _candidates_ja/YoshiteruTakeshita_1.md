@@ -11,9 +11,9 @@ organization: 芸者東京エンターテインメント株式会社
 tags:
   - Functional Programming, DevOps, Software Design and Architecture
 suggestions:
-  - コミュニケーションコスト増加にお悩みの方
-業務効率化をしたい人
-Scalaの言語特性の強みを知りたい人
+  - コミュニケーションコスト増加にお悩みの方
+  - 業務効率化をしたい人
+  - Scalaの言語特性の強みを知りたい人
 
 ---
 日本で最古参のScala企業 芸者東京エンターテインメント株式会社でリードエンジニアを務めている竹下義晃です。
