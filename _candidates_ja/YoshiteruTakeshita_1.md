@@ -9,7 +9,9 @@ github: takezoux2
 icon: https://ja.gravatar.com/userimage/10668836/0905b1ee905d03db3f242d210785ee64.jpeg
 organization: 芸者東京エンターテインメント株式会社
 tags:
-  - Functional Programming, DevOps, Software Design and Architecture
+  - Functional Programming
+  - DevOps
+  - Software Design and Architecture
 suggestions:
   - コミュニケーションコスト増加にお悩みの方
   - 業務効率化をしたい人
