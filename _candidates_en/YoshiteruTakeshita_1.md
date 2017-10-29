@@ -4,7 +4,7 @@ title: "Developing large-scale smart-phone game servers by a single person"
 length: 40
 audience: Advanced
 language: Japanese
-twitter: @takezoux2
+twitter: takezoux2
 github: takezoux2
 icon: https://ja.gravatar.com/userimage/10668836/0905b1ee905d03db3f242d210785ee64.jpeg
 organization: Geisha Tokyo Entertainment Inc.
