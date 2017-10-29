@@ -2,8 +2,8 @@
 name: 奥田 佳享
 title: "ScalikeJDBC streams開発を通して学んだFlow API実装のポイント"
 length: 40
-audience: 中級者
-language: 日本語
+audience: Intermediate
+language: Japanese
 twitter: https://twitter.com/yoskhdia
 github: https://github.com/yoskhdia
 icon: https://pbs.twimg.com/profile_images/814301502516826112/tkeIfq1H_400x400.jpg
