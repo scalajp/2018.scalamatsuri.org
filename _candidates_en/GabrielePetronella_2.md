@@ -12,7 +12,7 @@ tags:
   - Functional Programming
   - Best Practices
 suggestions:
-  - Scala developers to are interesting in learning new FP abstractions to make their life simpler :)
+  - Scala developers who are interested in learning new FP abstractions to make their life simpler :)
 ---
 Monad Transformers. "WAT?" "Exactly"
 In this session we'll see what monad transformers are, where their need comes from and how to use them effectively
