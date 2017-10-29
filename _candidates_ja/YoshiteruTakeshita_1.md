@@ -1,9 +1,9 @@
 ---
 name: 竹下義晃
 title: "１人で作る大規模スマホゲームサーバー"
-length: 40分
-audience: 上級者
-language: 日本語
+length: 40
+audience: Advanced
+language: Japanese
 twitter: takezoux2
 github: takezoux2
 icon: https://ja.gravatar.com/userimage/10668836/0905b1ee905d03db3f242d210785ee64.jpeg
