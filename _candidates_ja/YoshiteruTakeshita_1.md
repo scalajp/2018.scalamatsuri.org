@@ -4,7 +4,7 @@ title: "１人で作る大規模スマホゲームサーバー"
 length: 40分
 audience: Advanced
 language: 日本語
-twitter: @takezoux2
+twitter: takezoux2
 github: takezoux2
 icon: https://ja.gravatar.com/userimage/10668836/0905b1ee905d03db3f242d210785ee64.jpeg
 organization: 芸者東京エンターテインメント株式会社
