@@ -2,8 +2,8 @@
 name: 奥田 佳享
 title: "squbs、イイよ"
 length: 10
-audience: 初心者
-language: 日本語
+audience: Beginner
+language: Japanese
 twitter: https://twitter.com/yoskhdia
 github: https://github.com/yoskhdia
 icon: https://pbs.twimg.com/profile_images/814301502516826112/tkeIfq1H_400x400.jpg
