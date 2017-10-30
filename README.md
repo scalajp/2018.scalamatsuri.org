@@ -1,4 +1,4 @@
-Scala Matsuri
+ScalaMatsuri
 ===========================================================
 
 [![Build Status](https://travis-ci.org/scalajp/2018.scalamatsuri.org.svg?branch=master)](https://travis-ci.org/scalajp/2018.scalamatsuri.org)

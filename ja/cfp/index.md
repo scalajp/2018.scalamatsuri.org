@@ -1,12 +1,12 @@
 ---
-title: Scala Matsuri 2018 セッションの募集
+title: ScalaMatsuri 2018 セッションの募集
 ---
 
-Scala Matsuri 2018 で話を聞かせてください!
+ScalaMatsuri 2018 で話を聞かせてください!
 
 ----
 
-5回目の ScalaMatsuri として、 2018年3月16日(金)、17日(土)、18日(日)、東京国際交流会館にて Scala Matsuri 2017
+5回目の ScalaMatsuri として、 2018年3月16日(金)、17日(土)、18日(日)、東京国際交流会館にて ScalaMatsuri 2017
 を開催します。17日(土) もしくは 18日(日) の一般セッションの応募を募集します。ふるって応募して下さい。締め切りは **12月16日23:59 JST**です。
 
 参考:[ScalaMatsuri 2018 セッション募集が始まります！ \- ScalaMatsuri運営ブログ](http://blog.scalamatsuri.org/entry/2018/CFP)
