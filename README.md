@@ -7,7 +7,7 @@ ScalaMatsuri
 
 ## scalamatsuri.org の更新
 
-gh-pagesブランチに変更内容をpushします。
+masterブランチに変更内容をpushします。
 
 ## サイトの管理
 
