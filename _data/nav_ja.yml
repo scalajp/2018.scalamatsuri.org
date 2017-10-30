@@ -12,8 +12,8 @@
 #  title: イベント
 # - href: "/#tickets"
 #   title: チケット
-# - href: "/#sp"
-#   title: スポンサー
+- href: "/#sp"
+  title: スポンサー
 # - href: "/ja/commercial"
 #   title: CM
 # - href: "/ja/staff"
