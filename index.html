@@ -140,14 +140,40 @@ layout: null
 
 			<div class="mainVisInner">
 
+      <div class="mainVisInner">
 				<h1><img src="img/common/img_main_txt.png" alt="ScalaMatsuri 2014" /></h1>
 				<p class="timeData">
-					2018<span>年</span>3<span>月</span>16〜18<span>日</span></p>
+          2018<span>年</span>3<span>月</span>16〜18<span>日</span>
+        </p>
 				<p class="txtData">
 					Scala をテーマにした<br>
-					日本最大級のカンファレンスが開催されます。</p>
-				<br/>
+          日本最大級のカンファレンスが開催されます。
+        </p>
 				<p>※ 16日は日本語でのトレーニングDay、17~18日は日本語/英語でのカンファレンスとアンカンファレンスが開催されます。</p>
+        <div class="logoArea">
+					<h2 class="clearfix">
+						<span class="ttlSpAreaTop">将軍スポンサー</span>
+						<span class="linelSpAreaTop"><img src="img/common/ttl_main_line.png" alt="" /></span>
+						<span class="linerSpAreaTop"><img src="img/common/ttl_main_line.png" alt="" /></span>
+					</h2>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.shogun %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</section>
+
+    <section class="sectionStyle7 smVer topBannerArea">
+			<div class="sectionStyle7Inner">
+				<article class="spBox">
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.shogun %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</article>
 			</div>
 		</section>
 
@@ -286,7 +312,8 @@ layout: null
 		</section>
 
 		<section class="sectionInquiry" id="sp">
-			<header class="sectionHeadArea">
+
+      <header class="sectionHeadArea">
 				<h2 class="clearfix">
 					<span class="ttlSubLCenter">スポンサー</span>
 					<span class="ttlSubLLeft"><img src="img/common/ttl_dots_left.png"></span>
@@ -294,12 +321,57 @@ layout: null
 				</h2>
 				<p class="subTtlSm">Sponsor</p>
 			</header>
-			<div class="txtBlock">
-				<p>2017 10/31 (火) 15:00 JSTより、募集開始致します</p>
-			</div>
 
-			<div class="sectionStyle7Inner">
+      <div class="sectionStyle7Inner">
+
+        <article class="spBox">
+					<h3 class="ttlspBox1">将軍スポンサー</h3>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.shogun %}
+						<li class="shogunLogo">
+              <a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a>
+            </li>
+						{% endfor %}
+					</ul>
+				</article>
+
 				<article class="spBox">
+					<h3 class="ttlspBox1 spLv2">大老スポンサー</h3>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.tairo %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</article>
+
+        <article class="spBox">
+					<h3 class="ttlspBox1 spLv3">大名スポンサー</h3>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.daimyo %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</article>
+
+        <article class="spBox">
+					<h3 class="ttlspBox1 spLv4">侍スポンサー</h3>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.samurai %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</article>
+
+        <article class="spBox">
+					<h3 class="ttlspBox1 spLv5">忍者スポンサー</h3>
+					<ul class="clearfix shuffle">
+						{% for logo in site.data.logos.ninja %}
+						<li><a href="{{ logo.href }}"><img src="{{ logo.img }}" alt="{{ logo.title }}" /></a></li>
+						{% endfor %}
+					</ul>
+				</article>
+
+        <article class="spBox">
   					<h3 class="ttlspBox1 spLv6">奉行スポンサー</h3>
   						<ul class="clearfix shuffle">
 	    					  {% for logo in site.data.logos.bugyo %}
