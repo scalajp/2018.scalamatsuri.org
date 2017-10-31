@@ -5,6 +5,8 @@ layout: default_zh-cn
 
 来 ScalaMatsuri 2018 分享您的故事！
 
+----
+
 我们很高兴的宣布，第五届的 ScalaMatsuri 将会在2018年的3月16日(星期五)、3月17日(星期六)、3月18日(星期日)，在东京国际交流会馆举办。17日以及18日的综合会议，现在正在募集演讲者，请踊跃投稿您的发表主题，截止时间为**12月16日23:59(日本时间)**。
 
 详情可参阅: [ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
