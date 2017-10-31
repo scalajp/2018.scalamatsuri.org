@@ -13,6 +13,11 @@
   img: "/img/logo/kintone.png"
   category_ja: 筋斗雲奉行
   category_en: Kintone Bugyo
+- href: "http://hatenacorp.jp/"
+  title: hatena
+  img: "/img/logo/hatena.png"
+  category_ja: 瓦版奉行
+  category_en: Kawara-ban Bugyo
 #- href: "http://www.doorkeeper.jp/"
 #  title: doorkeeper
 #  img: "/img/logo/doorkeeper.png"
