@@ -4,8 +4,8 @@ title: "ScalikeJDBC streams開発を通して学んだFlow API実装のポイン
 length: 40
 audience: Intermediate
 language: Japanese
-twitter: https://twitter.com/yoskhdia
-github: https://github.com/yoskhdia
+twitter: yoskhdia
+github: yoskhdia
 icon: https://pbs.twimg.com/profile_images/814301502516826112/tkeIfq1H_400x400.jpg
 organization: Supership株式会社
 tags:
