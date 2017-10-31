@@ -1,70 +1,63 @@
 ---
-title: ScalaMatsuri 2018 Call for Proposal
+title: ScalaMatsuri 2018 投稿募集
 layout: default_zh-cn
 ---
 
-Come share your stories at ScalaMatsuri 2018!
+来 ScalaMatsuri 2018 分享您的故事！
 
-We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 16th 23:59 JST**.
+我们很高兴的宣布，第五届的 ScalaMatsuri 将会在2018年的3月16日(星期五)、3月17日(星期六)、3月18日(星期日)，在东京国际交流会馆举办。17日以及18日的综合会议，现在正在募集演讲者，请踊跃投稿您的发表主题，截止时间为**12月16日23:59(日本时间)**。
 
-For your reference:[ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
+详情可参阅: [ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
 
-Matsuri, meaning festival, is about time and space out of the everyday. It’s about mustering up the courage to do something cool (even though we are normally shy).
-We want to make it a fun experience, regardless of gender, race, and many different backgrounds.
-All participants, including speakers and sponsors, are asked to be respectful to each other and follow the [code of conduct](/en/code-of-conduct/).
+「Matsuri」是庆典，而非日常的时间与空间。也许平时有点害羞，也请鼓起勇气参加看看。不论性别、种族等，与拥有多样背景的人们一起度过互相尊重和欢乐的时间。在会议期间，发表者、参加者及赞助商都请遵守活动官方的[行为准则](/en/code-of-conduct/)。
 
-In particular, we want to make it a fun event for those visiting Japan from overseas.
-So here are some of the things we will do this year:
+此外，作为亚洲最大的Scala国际会议，为了让日本及来自海外的参加者都能愉快参加，所以我们今年也将会做以下这些事：
 
-- CFP in English and Japanese < you are here
-- Speakers will be decided using survey and social impact as a reference
-- All slides in English
-- Professional interpreters (English/Japanese bidirection) in two main halls
-- Travel grant for speakers with most votes (See [travel grant](/en/cfp/#Travel-grant))
-- We'll plan hangouts at bars after the conference if you're up for it
+- 英语或日语的演讲募集 < 就是这里！
+- 演讲者将以投票结果及社群影响作为入选决定依据
+- 简报请使用英文（如果有疑问的话，我们可以提供翻译的协助）
+- 两个主要会场皆有专业的日文／英文口译人员
+- 将提供旅行津贴给投票入选的演讲者（请参考[旅行津贴](/zh-cn/cfp/#旅行津贴)）
+- 在会议之后，我们将一起到居酒屋聚餐
 
-We are looking for topics that you think Scala community or new learners of Scala would be interested. We have tree session length: 10 minutes, 40 minutes, and 90 minutes. Prepare an abstract of your talk (600 characters or less), and submit your proposal.
+我们正在募集您认为 Scala 的初学者或 Scala 社群会有兴趣的主题演讲，投稿形式以长度区分为三种：10分钟、40分钟以及90分钟，请准备600字元以内的演讲摘要并提出申请。
 
-We'll conduct a survey on which talks your fellow Matsuri would want to go to,
-and the organizers will decide the talks using the survey result and social impact as a reference.
-In addition to the CFP, we might invite a few speakers to make Matsuri more fun experience.
+发表的决定将综合 Matsuri 参加者的投票结果及社群影响作为决定依据。此外，我们也会邀请几位演讲者以让 ScalaMatsuri 更有趣。
 
-You are allowed up to three submissions. However, please note that it might end up splitting your votes,
-and that we'll ask you to select one talk even if multiple talks qualified via the survey.
+每个人最多提出三项发表申请，如果有复数以上的发表主题入选，将请您选择其中一项。
 
 
-### Submit
+### 投稿
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScoSjPHd-HpGXn5owvs8ol9PKDqDVJhVQZMfDpxVha9LPv8NQ/viewform" class="btn btn-primary">Submit my talk</a>
-
-
-### Travel grant
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScoSjPHd-HpGXn5owvs8ol9PKDqDVJhVQZMfDpxVha9LPv8NQ/viewform" class="btn btn-primary">提出申請</a>
 
 
-ScalaMatsuri wants diverse speakers from all over the world. To help break down the barriers, we're excited to offer travel grant.
+### 旅行津贴
 
-Because ScalaMatsuri is run by a non-profit association, the travel grant must only be used for something that we can file as an expense. Here are the categories that is ok:
 
-1. Airfare and other transportation to Tokyo.
-2. Other transportation during ScalaMatsuri
-3. Hotel fares during ScalaMatsuri general sessions. (three nights for March 16th, 17th, and 18th)
+ScalaMatsuri 向来自世界各地的演讲者募集发表主题，为了降低距离带来的障碍，我们将提供旅行津贴给入选的演讲者。
 
-Any other expenses, including ones incurred from sightseeing or hotel fares (priced per person in Japan) for accompanying travellers, cannot be expensed by us.
+由于 ScalaMatsuri 是由非营利法人 Japan Scala Association 所举办，经费的用途有所规范，属于以下三类别时可以提出旅行津贴申请：
 
-We'll accept expense requests after ScalaMatsuri for a month. All items must have either an email forward from an airline or scans/photos of a receipt. If you need earlier financial support, we will do our best to accomodate you.
+1. 到东京的机票及其他交通费用。
+2. ScalaMatsuri 举办期间的其他交通费用。
+3. ScalaMatsuri 综合会议期间的酒店住宿费用。（3/16,17,18三晚）
 
-The maximum amount of the travel grant is fixed by the origin of your travel:
+观光、同伴的住宿费用以及其他花费均无法向 ScalaMatsuri 提出申请。
 
-- Japan $800 USD
-- [East Asia and Southeast Asia](https://en.wikipedia.org/wiki/United_Nations_geoscheme_for_Asia) (China, Korea, Philippines etc) $900 USD
-- Other Asia (India, Turkey, Israel, etc) $1500 USD
-- Oceania $1300 USD
-- Europe $1500 USD
-- Africa $2000 USD
-- North America $1500 USD
-- South America $2000 USD
+所有的费用需在 ScalaMatsuri 结束的一个月内提出申请。全部凭据请以 e-mail 寄送，机票费用的申请需转寄航空公司的邮件，其他交通工具的收据证明则请扫描或拍照上传。如果需要 ScalaMatsuri 提供事前的旅行津贴，请与我们连系。
 
-Note that the amount offered as travel grant will NOT exceed the actual travel expense.
-Suppose you've been approved for the grant and the travel expense was $1000 from Europe, the maximum amount the ScalaMatsuri will reimburse will be $1000.
+旅行津贴的上限由出发地决定：
 
-Your expenses will NOT be accepted in the event that you do not attend the conference. At the sole discretion of ScalaMatsuri, some expenses may be reimbursed upon a natural disaster, death or illness of the speaker or a family member. We suggest you purchase travel insurance if these terms are not sufficient.
+- 日本 $800 USD
+- [东亚及南亚](https://en.wikipedia.org/wiki/United_Nations_geoscheme_for_Asia)（包含中国、菲律宾等）$900 USD
+- 其他亚洲国家（印度、土耳其、以色列等）$1500 USD
+- 大洋洲 $1300 USD
+- 欧洲 $1500 USD
+- 非洲 $2000 USD
+- 北美洲 $1500 USD
+- 南美洲 $2000 USD
+
+旅行津贴的给付金额不会超过实际的申请金额。举例而言，如果您由欧洲前来，通过的旅行津贴金额为1000 USD，则 ScalaMatsuri 日后给付的费用为1000 USD。
+
+如果您没有前来参加会议，您的旅行津贴申请将不被受理。经由 ScalaMatsuri 主办方的裁量，如果是由于天灾、演讲者或其亲属意外死亡或重病等因素，部分的旅行津贴有受理的可能性。如果不足，请考虑旅游综合保险。
