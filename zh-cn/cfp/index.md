@@ -1,6 +1,6 @@
 ---
 title: ScalaMatsuri 2018 Call for Proposal
-layout: default_en
+layout: default_zh-cn
 ---
 
 Come share your stories at ScalaMatsuri 2018!

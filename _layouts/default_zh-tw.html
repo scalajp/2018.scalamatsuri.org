@@ -89,12 +89,14 @@
         </ul> -->
         <ul class="clearfix">
           <li>
-            <a href="/index_en.html#top">Top</a>
+            <a href="/index_zh-tw.html#top">首頁</a>
           </li>    
-          {% for item in site.data.nav_en %}
+          {% for item in site.data.nav_zh-TW %}
             <li><a href="{{ item.href }}">{{ item.title }}</a></li>
           {% endfor %}
           <li><a href="/">日本語</a></li>
+          <li><a href="/index_en.html">English</a></li>
+          <li><a href="/index_zh-cn.html">简体中文</a></li>
         </ul>
       </nav>
     </header>
