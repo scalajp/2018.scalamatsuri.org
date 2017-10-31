@@ -1,70 +1,63 @@
 ---
-title: ScalaMatsuri 2018 Call for Proposal
+title: ScalaMatsuri 2018 投稿募集
 layout: default_zh-tw
 ---
 
-Come share your stories at ScalaMatsuri 2018!
+來 ScalaMatsuri 2018 分享您的故事！
 
-We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 16th 23:59 JST**.
+我們很高興的宣布，第五屆的 ScalaMatsuri 將會在2018年的3月16日(星期五)、3月17日(星期六)、3月18日(星期日)，在東京國際交流會館舉辦。17日以及18日的綜合會議，現在正在募集演講者，請踴躍投稿您的發表主題，截止時間為**12月16日23:59(日本時間)**。
 
-For your reference:[ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
+詳情可參閱: [ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)
 
-Matsuri, meaning festival, is about time and space out of the everyday. It’s about mustering up the courage to do something cool (even though we are normally shy).
-We want to make it a fun experience, regardless of gender, race, and many different backgrounds.
-All participants, including speakers and sponsors, are asked to be respectful to each other and follow the [code of conduct](/en/code-of-conduct/).
+「Matsuri」是慶典，而非日常的時間與空間。也許平時有點害羞，也請鼓起勇氣參加看看。不論性別、種族等，與擁有多樣背景的人們一起度過互相尊重和歡樂的時間。在會議期間，發表者、參加者及贊助商都請遵守活動官方的[行爲准則（Code of Conduct）](/en/code-of-conduct/)。
 
-In particular, we want to make it a fun event for those visiting Japan from overseas.
-So here are some of the things we will do this year:
+此外，作為亞洲最大的Scala國際會議，為了讓日本及來自海外的參加者都能愉快參加，所以我們今年也將會做以下這些事：
 
-- CFP in English and Japanese < you are here
-- Speakers will be decided using survey and social impact as a reference
-- All slides in English
-- Professional interpreters (English/Japanese bidirection) in two main halls
-- Travel grant for speakers with most votes (See [travel grant](/en/cfp/#Travel-grant))
-- We'll plan hangouts at bars after the conference if you're up for it
+- 英語或日語的演講募集 < 就是這裡！
+- 演講者將以投票結果及社群影響作為入選決定依據
+- 簡報請使用英文（如果有疑問的話，我們可以提供翻譯的協助）
+- 兩個主要會場皆有專業的日文／英文口譯人員
+- 將提供旅行津貼給投票入選的演講者（請參考[旅行津貼](/zh-tw/cfp/#旅行津貼)）
+- 在會議之後，我們將一起到居酒屋聚餐
 
-We are looking for topics that you think Scala community or new learners of Scala would be interested. We have tree session length: 10 minutes, 40 minutes, and 90 minutes. Prepare an abstract of your talk (600 characters or less), and submit your proposal.
+我們正在募集您認為 Scala 的初學者或 Scala 社群會有興趣的主題演講，投稿形式以長度區分為三種：10分鐘、40分鐘以及90分鐘，請準備600字元以內的演講摘要並提出申請。
 
-We'll conduct a survey on which talks your fellow Matsuri would want to go to,
-and the organizers will decide the talks using the survey result and social impact as a reference.
-In addition to the CFP, we might invite a few speakers to make Matsuri more fun experience.
+發表的決定將綜合 Matsuri 參加者的投票結果及社群影響作為決定依據。此外，我們也會邀請幾位演講者以讓 ScalaMatsuri 更有趣。
 
-You are allowed up to three submissions. However, please note that it might end up splitting your votes,
-and that we'll ask you to select one talk even if multiple talks qualified via the survey.
+每個人最多提出三項發表申請，如果有複數以上的發表主題入選，將請您選擇其中一項。
 
 
-### Submit
+### 投稿
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScoSjPHd-HpGXn5owvs8ol9PKDqDVJhVQZMfDpxVha9LPv8NQ/viewform" class="btn btn-primary">Submit my talk</a>
-
-
-### Travel grant
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScoSjPHd-HpGXn5owvs8ol9PKDqDVJhVQZMfDpxVha9LPv8NQ/viewform" class="btn btn-primary">提出申請</a>
 
 
-ScalaMatsuri wants diverse speakers from all over the world. To help break down the barriers, we're excited to offer travel grant.
+### 旅行津貼
 
-Because ScalaMatsuri is run by a non-profit association, the travel grant must only be used for something that we can file as an expense. Here are the categories that is ok:
 
-1. Airfare and other transportation to Tokyo.
-2. Other transportation during ScalaMatsuri
-3. Hotel fares during ScalaMatsuri general sessions. (three nights for March 16th, 17th, and 18th)
+ScalaMatsuri 向來自世界各地的演講者募集發表主題，為了降低距離帶來的障礙，我們將提供旅行津貼給入選的演講者。
 
-Any other expenses, including ones incurred from sightseeing or hotel fares (priced per person in Japan) for accompanying travellers, cannot be expensed by us.
+由於 ScalaMatsuri 是由非營利法人 Japan Scala Association 所舉辦，經費的用途有所規範，屬於以下三類別時可以提出旅行津貼申請：
 
-We'll accept expense requests after ScalaMatsuri for a month. All items must have either an email forward from an airline or scans/photos of a receipt. If you need earlier financial support, we will do our best to accomodate you.
+1. 到東京的機票及其他交通費用。
+2. ScalaMatsuri 舉辦期間的其他交通費用。
+3. ScalaMatsuri 綜合會議期間的飯店住宿費用。（3/16,17,18三晚）
 
-The maximum amount of the travel grant is fixed by the origin of your travel:
+觀光、同伴的住宿費用以及其他花費均無法向 ScalaMatsuri 提出申請。
 
-- Japan $800 USD
-- [East Asia and Southeast Asia](https://en.wikipedia.org/wiki/United_Nations_geoscheme_for_Asia) (China, Korea, Philippines etc) $900 USD
-- Other Asia (India, Turkey, Israel, etc) $1500 USD
-- Oceania $1300 USD
-- Europe $1500 USD
-- Africa $2000 USD
-- North America $1500 USD
-- South America $2000 USD
+所有的費用需在 ScalaMatsuri 結束的一個月內提出申請。全部憑據請以 e-mail 寄送，機票費用的申請需轉寄航空公司的郵件，其他交通工具的收據證明則請掃描或拍照上傳。如果需要 ScalaMatsuri 提供事前的旅行津貼，請與我們連繫。
 
-Note that the amount offered as travel grant will NOT exceed the actual travel expense.
-Suppose you've been approved for the grant and the travel expense was $1000 from Europe, the maximum amount the ScalaMatsuri will reimburse will be $1000.
+旅行津貼的上限由出發地決定：
 
-Your expenses will NOT be accepted in the event that you do not attend the conference. At the sole discretion of ScalaMatsuri, some expenses may be reimbursed upon a natural disaster, death or illness of the speaker or a family member. We suggest you purchase travel insurance if these terms are not sufficient.
+- 日本 $800 USD
+- [東亞及南亞](https://en.wikipedia.org/wiki/United_Nations_geoscheme_for_Asia)（包含中國、菲律賓等）$900 USD
+- 其他亞洲國家（印度、土耳其、以色列等）$1500 USD
+- 大洋洲 $1300 USD
+- 歐洲 $1500 USD
+- 非洲 $2000 USD
+- 北美洲 $1500 USD
+- 南美洲 $2000 USD
+
+旅行津貼的給付金額不會超過實際的申請金額。舉例而言，如果您由歐洲前來，通過的旅行津貼金額為1000 USD，則 ScalaMatsuri 日後給付的費用為 1000 USD。
+
+如果您沒有前來參加會議，您的旅行津貼申請將不被受理。經由 ScalaMatsuri 主辦方的裁量，如果是由於天災、演講者或其親屬意外死亡或重病等因素，部分的旅行津貼有受理的可能性。如果不足，請考慮旅遊綜合保險。
