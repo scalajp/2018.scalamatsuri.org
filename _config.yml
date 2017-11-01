@@ -7,6 +7,7 @@ exclude:
   - "vendor"
   - "docker-compose.yml"
   - "Dockerfile"
+  - "script"
 
 defaults:
   - values:
@@ -49,7 +50,7 @@ en:
   twitter: scalamatsuri
 plans:
   - shogun
+  - tairou
   - daimyo
-  - hatamoto
   - samurai
   - ninja
