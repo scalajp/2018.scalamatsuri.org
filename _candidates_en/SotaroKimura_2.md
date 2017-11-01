@@ -7,7 +7,7 @@ language: Japanese
 twitter: kimutansk
 github: kimutansk
 icon: https://s.gravatar.com/avatar/5d869b93035410ece41ff0d86d8c5c14
-organization: 株式会社ドワンゴ
+organization: DWANGO Co., Ltd.
 tags:
   - Big Data / Fast Data
   - Tools
