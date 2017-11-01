@@ -72,16 +72,6 @@ layout: null
 </head>
 <body id="top">
 
-	<div id="fb-root"></div>
-<script>(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v2.3&appId=563078517069914";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
 	<div id="wrapper" class="clearfix">
 
 		<header class="mainHeader">
@@ -113,30 +103,45 @@ layout: null
 			<p class="smVer linkLang"><a href="/index_en.html">&raquo;&ensp;English</a></p>
 			<p class="smVer linkLang"><a href="/index_zh-tw.html">&raquo;&ensp;繁體中文</a></p>
 
-			<ul class="snsBtnArea clearfix">
-						<li class="btnpocket">
-								<a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-							</li>
-							<li class="gplusBtn">
-								<!-- +1 ボタン を表示したい位置に次のタグを貼り付けてください。 -->
-								<div class="g-plusone" data-size="medium" data-annotation="none"></div>
-								<!-- 最後の +1 ボタン タグの後に次のタグを貼り付けてください。 -->
-								<script type="text/javascript">
-									window.___gcfg = {lang: 'zh-CN'};
-									(function() {
-										var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-										po.src = 'https://apis.google.com/js/platform.js';
-										var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-									})();
-								</script>
-							</li>
-							<li>
-								<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.en.twitter }}" data-related="{{ site.en.twitter }}" data-hashtags="ScalaMatsuri" data-count="none">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-							</li>
-							<li><div class="fb-like" data-href="http://scalamatsuri.org/" data-layout="button" data-action="like" data-show-faces="true" data-share="false"></div></li>
-						</ul>
+      <ul class="snsBtnArea clearfix">
+        <li class="btnpocket">
+          <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+        </li>
+        <li class="gplusBtn">
+          <div class="g-plusone" data-size="medium" data-annotation="none"></div>
+        </li>
+        <li>
+          <a href="https://twitter.com/share"
+             class="twitter-share-button"
+             data-via="{{ site.en.twitter }}"
+             data-related="{{ site.en.twitter }}"
+             data-hashtags="ScalaMatsuri"
+             data-count="none">
+            Tweet
+          </a>
+        </li>
+        <li>
+          <div class="fb-like"
+               data-href="http://scalamatsuri.org/"
+               data-layout="button"
+               data-action="like"
+               data-show-faces="true"
+               data-share="false">
+          </div>
+        </li>
+        <li>
+          <a href="http://b.hatena.ne.jp/entry/"
+             class="hatena-bookmark-button"
+             data-hatena-bookmark-layout="basic"
+             title="このエントリーをはてなブックマークに追加">
+            <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png"
+                 alt="このエントリーをはてなブックマークに追加"
+                 width="20"
+                 height="20"
+                 style="border: none;"/>
+          </a>
+        </li>
+      </ul>
 
 
 			<div class="mainVisInner">
@@ -228,31 +233,54 @@ layout: null
 			</header>
 			<br/>
 			<div>
-				<ul class="snsBtnArea snsBtnAreaMiddle clearfix">
-							<li><div class="fb-like" data-href="http://scalamatsuri.org/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div></li>
-							<li>
-								<!-- +1 ボタン を表示したい位置に次のタグを貼り付けてください。 -->
-								<div class="g-plusone" data-size="tall"></div>
-								<!-- 最後の +1 ボタン タグの後に次のタグを貼り付けてください。 -->
-								<script type="text/javascript">
-									window.___gcfg = {lang: 'zh-CN'};
-									(function() {
-										var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-										po.src = 'https://apis.google.com/js/platform.js';
-										var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-									})();
-								</script>
-							</li>
-							<li>
-								<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.en.twitter }}" data-related="{{ site.en.twitter }}" data-hashtags="ScalaMatsuri" data-lang="en" data-count="vertical">Tweet</a>
-								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-							</li>
-							<li>
-								<a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a>
-								<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-							</li>
-						</ul>
-			</div>
+        <ul class="snsBtnArea snsBtnAreaMiddle clearfix">
+
+          <li>
+            <a href="http://b.hatena.ne.jp/entry/"
+               class="hatena-bookmark-button"
+               data-hatena-bookmark-layout="vertical-normal"
+               data-hatena-bookmark-lang="en"
+               title="このエントリーをはてなブックマークに追加">
+              <img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png"
+                   alt="このエントリーをはてなブックマークに追加"
+                   width="20"
+                   height="20"
+                   style="border: none;"/>
+            </a>
+          </li>
+
+          <li>
+            <div class="fb-like"
+                 data-href="http://scalamatsuri.org/"
+                 data-layout="box_count"
+                 data-action="like"
+                 data-show-faces="true"
+                 data-share="false">
+            </div>
+          </li>
+
+          <li>
+            <a class="twitter-share-buttoon"
+               href="https://twitter.com/share"
+               data-url="{{ site.url }}{{ page.url }}"
+               data-via="{{ site.en.twitter }}"
+               data-related="{{ site.en.twitter }}"
+               data-hashtags="ScalaMatsuri"
+               data-lang="en"
+               data-count="vertical">
+              Tweet
+            </a>
+          </li>
+
+          <li>
+            <div class="g-plusone" data-size="tall"></div>
+          </li>
+
+          <li>
+            <a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a>
+          </li>
+        </ul>
+      </div>
 			<div class="widgets">
 					<div class="widget">
 						{% include twitter_widget.html %}
@@ -371,6 +399,13 @@ layout: null
 
 	</div>
 	{% include ga.html %}
-	<div id="dialog_message"></div>
+  {% include twitter.html %}
+  {% include facebook_zh_CN.html %}
+  {% include hatena_bbutton.html %}
+  {% include widgetoon.js.html %}
+  {% include pocket.js.html %}
+  {% include g-plusone_zh-CN.js.html %}
+
+  <div id="dialog_message"></div>
 </body>
 </html>
