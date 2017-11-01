@@ -740,16 +740,16 @@ input, select {
 	overflow: hidden;
 }
 
-.snsBtnAreaMiddle{
-	padding:0px 0px 40px 0px!important;
-	width:310px!important;
-	margin:0 auto 0 auto!important;
+.snsBtnAreaMiddle {
+  padding: 0 0 40px 0 !important;
+  width: 400px !important;
+  margin: 0 auto 0 auto !important;
 }
 
-.snsBtnAreaMiddle li{
-		padding-right:5px!important;
-		padding-left:5px!important;
-		float:left!important;
+.snsBtnAreaMiddle li {
+  padding-right: 5px !important;
+  padding-left: 5px !important;
+  float: left !important;
 }
 
 .linkLang{
