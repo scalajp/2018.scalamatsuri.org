@@ -1,9 +1,9 @@
 ---
 name: 木村宗太郎(kimutansk)
 title: "Spark Structured Streamingで行う統合データ処理"
-length: 40分
-audience: 中級者
-language: 日本語
+length: 40
+audience: Intermediate
+language: Japanese
 twitter: kimutansk
 github: kimutansk
 icon: https://s.gravatar.com/avatar/5d869b93035410ece41ff0d86d8c5c14
