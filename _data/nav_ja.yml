@@ -12,8 +12,8 @@
 #  title: イベント
 # - href: "/#tickets"
 #   title: チケット
-- href: "/#sp"
-  title: スポンサー
+- href: "/notice/"
+  title: スポンサーからのお知らせ
 # - href: "/ja/commercial"
 #   title: CM
 # - href: "/ja/staff"
@@ -24,8 +24,6 @@
   title: 応募セッション一覧
 - href: "/ja/sponsors/"
   title: スポンサー募集
-# - href: "/jobs/"
-#   title: 求人情報
 #- href: "/volunteer/"
 #  title: ボランティア募集
 # - href: "/ja/travel/"
