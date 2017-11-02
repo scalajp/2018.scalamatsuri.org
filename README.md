@@ -55,6 +55,15 @@ docker-compose up
 
 終了する場合は、Ctrl-Cで終了させてください。
 
+#### 生成
+
+生成時のエラーの検知をしたい場合は、以下のコマンドを実行してください
+
+```sh
+docker-compose run --rm jekyll bundle exec jekyll build -V
+```
+
+
 ### 基本的な設定
 
 _config.yml が基本設定です。
