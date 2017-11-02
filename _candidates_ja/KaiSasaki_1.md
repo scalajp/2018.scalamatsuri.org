@@ -4,9 +4,9 @@ title: "Spark 上で動くディープラーニングフレームワークを実
 length: 40
 audience: Intermediate
 language: Japanese
-twitter: yotchang4s
-github: yotchang4s
-icon: https://www.gravatar.com/avatar/dede7dcf77241349e1d130cd2363d858?s=200
+twitter: Lewuathe
+github: Lewuathe
+icon: https://secure.gravatar.com/avatar/e88b4d85c705c6d6e66f79a13cbd9c4c
 organization: Software Engineer, Treasure Data
 tags:
   - Big Data / Fast Data
