@@ -14,15 +14,15 @@ tags:
 suggestions:
   - People who want to know the difference between batch processing and stream processing
   - People who want to understand concepts around stream processing 
-  - People who want to know practical uses cases of Spark Structured Streaming
+  - People who want to know practical use cases of Spark Structured Streaming
 ---
-Stream processing has come far beyond being an alternative to batch processing, and now it is considered as a unified data processing system.
-This session will talk about and review OSS stream processing systems like below,
-and will introduce Spark Structured Processing as a recent example of unified data processing system.
+Stream processing has progressed far beyond being an alternative to batch processing and is now considered a unified data processing system.
+This session will describe and review OSS stream processing systems such as those listed below,
+and will introduce Spark Structured Processing as a recent example of an unified data processing system.
 
 - Lambda Architecture
 - Kappa Architecture
 - Unified Data Processing
 
-Finally, I will discuss issues we encountered upon running Spark Structured Streaming in production,
-how it feels like, and caveats you should keep in mind.
+Finally, I will discuss issues that we encountered while running Spark Structured Streaming in production,
+what it felt like to run, and caveats that you should keep in mind.
