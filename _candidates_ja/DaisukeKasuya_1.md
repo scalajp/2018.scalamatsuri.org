@@ -2,8 +2,8 @@
 name: 粕谷 大輔(daiksy)
 title: "Scala製システムを3年間運用することで起きた様々なことへの対処"
 length: 40
-audience: 中級者
-language: 日本語
+audience: Intermediate
+language: Japanese
 twitter: daiksy
 github: daiksy
 icon: https://gravatar.com/avatar/4dd89003cc8fe9f21d67b0c99b773436?s=256

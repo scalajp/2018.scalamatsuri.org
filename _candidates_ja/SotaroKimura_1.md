@@ -2,8 +2,8 @@
 name: 木村宗太郎(kimutansk)
 title: "ローカル実行からお手軽に始めるSpark Structured Streaming"
 length: 40
-audience: 初心者
-language: 日本語
+audience: Beginner
+language: Japanese
 twitter: kimutansk
 github: kimutansk
 icon: https://s.gravatar.com/avatar/5d869b93035410ece41ff0d86d8c5c14
