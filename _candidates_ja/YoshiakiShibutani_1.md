@@ -4,8 +4,8 @@ title: "cafebabepy(JVMで動くPython処理系)の構文解析もScalaにおま�
 length: 40
 audience: Beginner
 language: Japanese
-twitter: https://twitter.com/yotchang4s
-github: https://github.com/yotchang4s
+twitter: yotchang4s
+github: yotchang4s
 icon: https://www.gravatar.com/avatar/dede7dcf77241349e1d130cd2363d858?s=200
 organization: 株式会社エフ・コード
 tags:
