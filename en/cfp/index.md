@@ -5,6 +5,8 @@ layout: default_en
 
 Come share your stories at ScalaMatsuri 2018!
 
+----
+
 We are excited to announce that the fifth ScalaMatsuri will be held on March 16th (Fri), 17th (Sat), and 18th (Sun), 2018 at Tokyo International Exchange Center. Please submit your talk for the general sessions that will be held on 17th (Sat) or 18th (Sun). This CFP will be closed on **December 16th 23:59 JST**.
 
 For your reference:[ScalaMatsuri blog](http://blog-en.scalamatsuri.org/)

@@ -1,17 +1,17 @@
 # - href: "/#intro"
 #   title: 開催趣旨
-- href: "/en/cfp/"
-  title: CFP
-- href: "/index_en.html#info"
-  title: Event Info
+- href: "/zh-tw/cfp/"
+  title: 投稿募集
+- href: "/index_zh-tw.html#info"
+  title: 活動資訊
 # - href: "/#gues"
 #   title: 招待講演者
 # - href: "/index_en.html#schedule"
 #   title: Schedule
 # - href: "/index_en.html#tickets"
 #   title: Tickets
-#- href: "/index_en.html#sp"
-#  title: Sponsors
+- href: "/index_en.html#sp"
+  title: Sponsors
 # - href: "/en/commercial"
 #   title: CM
 # - href: "/en/staff"
