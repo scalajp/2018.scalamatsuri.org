@@ -24,9 +24,9 @@ defaults:
       layout: candidates_en
   - scope:
       path: ""
-      type: jobs
+      type: notice
     values:
-      layout: job
+      layout: notice
 
 collections:
   candidates_ja:
@@ -35,9 +35,9 @@ collections:
   candidates_en:
     output: true
     permalink: /en/candidates/:path/
-  jobs:
+  notice:
     output: true
-    permalink: /jobs/:path/
+    permalink: /notice/:path/
 
 safe: true
 lsi: false
