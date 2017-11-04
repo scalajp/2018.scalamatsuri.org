@@ -21,7 +21,7 @@ Ruby がインストールされた環境が必要です。
 
 必要な gem をインストールします。
 
-```
+```sh
 gem install bundler
 bundle install --path vendor/bundle
 ```
@@ -29,8 +29,14 @@ bundle install --path vendor/bundle
 サーバを起動してブラウザから http://localhost:4000/ にアクセスすると確認できます。
 [Jekyllの公式ドキュメント](http://jekyllrb.com/docs/usage/)
 
-```
+```sh
 bundle exec jekyll serve -w
+```
+
+エラーを確認する際は、以下のコマンドを実行してください
+
+```sh
+bundle exec jekyll build -V
 ```
 
 ### Dockerを使う場合
