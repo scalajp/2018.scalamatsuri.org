@@ -10,7 +10,8 @@ icon: https://secure.gravatar.com/avatar/e88b4d85c705c6d6e66f79a13cbd9c4c
 organization: Software Engineer, Treasure Data
 tags:
   - Big Data / Fast Data
-  - Tools, Data Science / Machine Learning
+  - Tools
+  - Data Science / Machine Learning
   - Others
 suggestions:
   - 処理系に興味がある人
