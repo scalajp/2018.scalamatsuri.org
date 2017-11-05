@@ -1,9 +1,9 @@
 ---
 name: Richard Imaoka
 title: "Akka Typed入門"
-length: 40分
-audience: 中級者:分野の基礎知識を持っている
-language: 日本語
+length: 40
+audience: Intermediate
+language: Japanese
 twitter: richardimaoka
 github: richardimaoka
 icon: https://pbs.twimg.com/profile_images/886146776138342401/7rjMr4Qp_400x400.jpg
