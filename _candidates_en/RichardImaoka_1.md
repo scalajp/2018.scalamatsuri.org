@@ -14,6 +14,6 @@ suggestions:
   - People who are new to Akka Typed 
   - People who want to contribute to Akka
 ---
-Akka is a toolkit for building concurrent, distributed systems in Java and Scala. After 6 years from the first release, it became prevalent, but there has been criticism about lack of type safety in Akka Actor.
-Akka Typed comes with type safety and composability to solve this problem, and also an exciting and actively developed project.
-I will talk about the history, project status, fun part, but also difficulty and challenges of Akka Typed. And I hope you become eager to try it out, and also want to help prospective contributors.
+Akka is a toolkit for building concurrent, distributed systems in Java and Scala. Six years after its initial release, its use has become prevalent. However, there has been criticism regarding the lack of type safety in Akka Actor.
+To solve this problem, Akka Typed comes with type safety and composability and is also an exciting and actively developed project.
+In this session, I will discuss the history, project status, and fun parts, but also difficulties and challenges of Akka Typed. I hope this session will inspire you to try it out and I am eager to help prospective contributors.
