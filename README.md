@@ -21,7 +21,7 @@ Ruby がインストールされた環境が必要です。
 
 必要な gem をインストールします。
 
-```
+```sh
 gem install bundler
 bundle install --path vendor/bundle
 ```
@@ -29,8 +29,14 @@ bundle install --path vendor/bundle
 サーバを起動してブラウザから http://localhost:4000/ にアクセスすると確認できます。
 [Jekyllの公式ドキュメント](http://jekyllrb.com/docs/usage/)
 
-```
+```sh
 bundle exec jekyll serve -w
+```
+
+エラーを確認する際は、以下のコマンドを実行してください
+
+```sh
+bundle exec jekyll build -V
 ```
 
 ### Dockerを使う場合
@@ -84,8 +90,8 @@ front matter (ファイル先頭の `---` と `---` で囲まれた部分) に�
 * length (必須): トークの長さ (`10`, `40` または `90`)
 * audience (必須): 聴衆の対象 (`Beginner`, `Intermediate` または `Advanced`)
 * language (必須): 発表言語 (`Japanese` または `English`)
-* twitter: Twitter アカウント (連名の場合はカンマ区切りで記載する。例: `taro,hanako`)
-* github: Github アカウント (連名の場合はカンマ区切りで記載する。例: `taro,hanako`)
+* twitter: Twitter アカウント (連名の場合はカンマ区切りで記載する。例: `taro,hanako`, URLは不可)
+* github: Github アカウント (連名の場合はカンマ区切りで記載する。例: `taro,hanako`, URLは不可)
 * icon: アイコンのURL
 * organization: 所属組織
 * tags: タグ
@@ -95,7 +101,7 @@ front matter は YAML 形式です。文字列中に `:` を含む場合は `""`
 
 本文にトークの概要を書きます。以下はテンプレート:
 
-```
+```markdown
 ---
 name: X
 title: "X"
@@ -117,23 +123,25 @@ suggestions:
 ここにセッションの内容を markdown で書きます。
 ```
 
-### 求人情報追加方法
+### スポンサーからのお知らせ情報
 
-`_jobs/` 以下に `(スポンサー名).md` を作り、求人情報を記載します。
+#### 追加方法
+
+`_notice/` 以下に `(スポンサー名).md` を作り、スポンサーからのお知らせ情報を記載します。
 
 front matter (ファイル先頭の `---` と `---` で囲まれた部分) に次の内容を書きます。
 
 * title (必須): スポンサー名
 * logo (必須): 200x70px のロゴ画像URL
-* plan (必須): shogun, daimyo, hatamoto, samurai のいずれか
-* link: 求人応募先URL
-* linkTitle: 求人応募先ボタンの文字列（デフォルト: 「応募する」）
+* plan (必須): shogun, tairo, daimyo, samurai のいずれか
+* link: 遷移先URL
+* linkTitle: 遷移先ボタンの文字列（デフォルト: 「応募する」）
 
 front matter は YAML 形式です。文字列中に `:` を含む場合は `""` でクォートします。
 
 以下はテンプレート:
 
-```
+```markdown
 ---
 title: "X"
 logo: "/img/logo/x.png"
@@ -143,16 +151,16 @@ link: "http://example.com"
 X
 ```
 
-#### ロゴから直接リンク
+#### ロゴから直接リンクしたい場合
 
-求人情報ページを ScalaMatsuri サイトに追加せず、求人情報一覧ページのロゴをクリックしたときに外部サイトへ
-リンクするには、`_jobs/` 以下に `(スポンサー名).md` を作り、次の内容を記載します。
+スポンサーからのお知らせを ScalaMatsuri サイトに追加せず、スポンサーからのお知らせ一覧ページのロゴをクリックしたときに外部サイトへ
+リンクするには、`_notice/` 以下に `(スポンサー名).md` を作り、次の内容を記載します。
 
 * direct_link (必須): 外部サイトのURL
 * logo (必須): 200x70px のロゴ画像URL
-* plan (必須): shogun, daimyo, hatamoto, samurai のいずれか
+* plan (必須): shogun, tairo, daimyo, samurai のいずれか
 
-```
+```markdown
 ---
 logo: "/img/logo/x.png"
 plan: shogun
