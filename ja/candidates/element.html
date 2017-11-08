@@ -18,8 +18,16 @@
         {% when "Advanced" %} 上級者向け
         {% endcase %}
       </small>
+      <!-- タグにカンマが含まれている場合、分割して表示 -->
       {% for tag in include.candidate.tags %}
-         <span class="cfp-tag label label-default" data-tag="{{tag}}">{{tag}}</span>
+        {% if tag contains ',' %}
+          {% assign items = tag | split:"," %}
+          {% for item in items %}
+          <span class="cfp-tag label label-default" data-tag="{{item}}">{{item}}</span>
+          {% endfor %}
+        {% else %}
+          <span class="cfp-tag label label-default" data-tag="{{tag}}">{{tag}}</span>
+        {% endif %}
       {% endfor %}
     </div>
   </div>
