@@ -152,7 +152,7 @@ input, select {
 }
 
 .mainVis{
-	background: url(../img/common/2018_main_img_1280_2.jpg);
+	background-image: url(../img/common/2018_main_img_1280_2_blur.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center top;
