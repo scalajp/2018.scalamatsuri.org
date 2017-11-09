@@ -156,13 +156,12 @@ input, select {
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center top;
-	padding-bottom:48px;
 }
 
 .mainVisInner{
 	text-align:center;
 	color:#fff;
-	/*background:url(../img/common/bg_main_black.png);*/
+	background:url(../img/common/bg_main_black.png);
 	background-repeat:repeat-x;
 	background-position:center bottom;
 }
@@ -190,7 +189,7 @@ input, select {
 	width:885px;
 	margin:0 auto 0 auto;
 	padding-bottom:60px;
-	padding-top:60px;
+	padding-top:125px;
 	position: relative;
 }
 
@@ -263,7 +262,7 @@ input, select {
 	background:url(../img/common/2018_sub_img_1280.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
-	margin-top:10px;
+	margin-top:80px;
 	padding-top:40px;
 	padding-bottom:40px;
 }
