@@ -1,12 +1,12 @@
 ---
 name: 辻 陽平(crossroad0201)
 title: "実践ScalaでDDD（改訂版）"
-length: 40
+length: 90
 audience: Intermediate
 language: Japanese
 twitter: crossroad0201
 github: crossroad0201
-icon: https://ja.gravatar.com/crossroad0201
+icon: https://secure.gravatar.com/avatar/223977120819323905c8e4e55a2365ed?s=256
 organization: フリーランス
 tags:
   - Best Practices
@@ -23,5 +23,4 @@ Scalaの強力な言語機能と豊富な表現力はDDDとも相性が良いで
 このセッションでは、現場での経験をもとにScalaでのDDD実践の一例をご紹介します。
 
 ※Scala関西Summit 2017、関ジャバ'17 10月 でお話した内容の改訂版となります。
- 今回は中・上級者向けの内容に絞って、その後さらに得た知見も盛り込んでお話したいと思います。
-
+ 今回は、いままでお話しきれなかった部分、その後さらに得た知見も盛り込んでお話したいと思います。
