@@ -1,12 +1,12 @@
 ---
 name: Yohei Tsuji(crossroad0201)
 title: "Practice DDD with scala(Revised edition)"
-length: 40
+length: 90
 audience: Intermediate
 language: Japanese
 twitter: crossroad0201
 github: crossroad0201
-icon: https://ja.gravatar.com/crossroad0201
+icon: https://secure.gravatar.com/avatar/223977120819323905c8e4e55a2365ed?s=256
 organization: Freelancer
 tags:
   - Best Practices
