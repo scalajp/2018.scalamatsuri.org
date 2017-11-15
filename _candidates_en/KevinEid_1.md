@@ -1,10 +1,11 @@
-me: Kevin Eid
+---
+name: Kevin Eid
 title: "Collection of structured Web data in Scala"
 length: 10
 audience: Intermediate
 language: English
-twitter: @KEVINEID75
-github: https://github.com/kevllino
+twitter: KEVINEID75
+github: kevllino
 icon: https://www.linkedin.com/in/kevin-eid-b0168985?trk=nav_responsive_tab_profile_pic
 organization: Software Engineer at Zalando Ireland Ltd
 tags:
