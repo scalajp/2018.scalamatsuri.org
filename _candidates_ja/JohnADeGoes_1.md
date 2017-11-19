@@ -6,12 +6,12 @@ audience: Intermediate
 language: English
 twitter: jdegoes
 github: jdegoes
-icon: https://pbs.twimg.com/profile_images/881617975656071168/Zdm5smHp_400x400.jpg
+icon: https://pbs.twimg.com/profile_images/929008686407729152/JpUIu5lP_400x400.jpg
 organization: CTO SlamData
 tags:
   - Functional Programming
 suggestions:
-  -  型安全でパフォーマンスが高く、かつスケーラブルで並行なシステムを素早くScalaで開発したい人
+  - 型安全でパフォーマンスが高く、かつスケーラブルで並行なシステムを素早くScalaで開発したい人
 ---
 スケーラブルで並行なシステムをメモリリークやスレッドリークを起こさず、しかも素早く開発することは命令形プログラミングやオブジェクト指向プログラミングではほとんど不可能であることがわかってきました。
 AkkaのようなScalaフレームワークはこの問題を部分的に単純化しましたが、しかしそれは同値性の意味付け、型安全性、モジュールの結合性を犠牲にする形であり、結局は開発や保守のコストを大きく上昇させてしまいました。
