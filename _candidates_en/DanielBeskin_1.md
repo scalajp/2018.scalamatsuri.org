@@ -3,7 +3,7 @@ name: Daniel Beskin
 title: "Sharing Is Caring - How to Let the Compiler Know What You're Thinking"
 length: 40
 audience: Beginner
-language: Japanese
+language: English
 twitter:
 github: ncreep
 icon: /img/candidates/daniel-beskin.jpg
