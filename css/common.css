@@ -523,19 +523,13 @@ input, select {
 }
 
 .sectionStyle7Inner .ttlspBox1{
-	width:862px;
+	width:100%;
 	margin:0 auto 0 auto;
-}
-
-.sectionStyle7Inner .ttlspBox1{
 	background:#d30101;
 	color:#fff;
 	text-align:center;
 	padding-top:10px;
 	padding-bottom:10px;
-}
-
-.sectionStyle7Inner .ttlspBox1{
 	margin-bottom:20px;
 }
 
@@ -891,10 +885,6 @@ h1.session_title {
 
 
 	.sectionStyle7Inner{
-		width:100%;
-	}
-
-	.sectionStyle7Inner .ttlspBox1{
 		width:100%;
 	}
 
