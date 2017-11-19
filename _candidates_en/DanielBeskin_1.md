@@ -6,7 +6,7 @@ audience: Beginner
 language: Japanese
 twitter:
 github: ncreep
-icon: https://drive.google.com/file/d/0B00Dto3bDLwoOURUTWRzVGNETTA/view
+icon: /img/candidates/daniel-beskin.jpg
 organization: ironSource Mobile
 tags:
   - Functional Programming
