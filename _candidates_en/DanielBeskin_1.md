@@ -3,10 +3,10 @@ name: Daniel Beskin
 title: "Sharing Is Caring - How to Let the Compiler Know What You're Thinking"
 length: 40
 audience: Beginner
-language: Japanese
+language: English
 twitter:
 github: ncreep
-icon: https://drive.google.com/file/d/0B00Dto3bDLwoOURUTWRzVGNETTA/view
+icon: /img/candidates/daniel-beskin.jpg
 organization: ironSource Mobile
 tags:
   - Functional Programming
