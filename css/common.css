@@ -942,55 +942,56 @@ h1.session_title {
 
 @media screen and (max-width: 700px){
 
-	.logoArea{
-		padding-top:100px;
-		padding-bottom:80px;
-	}
+  .logoArea{
+    width: 100%;
+  }
+
+  .sectionStyle3 .sectionHeadArea{
+    width:100%;
+  }
 }
 
 @media screen and (max-width: 560px){
 
-		.mainVisInner h1 img{
-			width:90%;
-		}
+  .logoArea{
+    width: 100%;
+  }
 
-		.sectionStyle5 h2{
-			position: relative;
-			height:76px;
-		}
+	.mainVisInner h1 img{
+		width:90%;
+	}
 
-		.sectionTicket h2{
-			position: relative;
-			height:76px;
-		}
+	.sectionStyle5 h2{
+		position: relative;
+		height:76px;
+	}
 
-		.sectionStyle5 .sectionHeadArea .ttlSubLLeft{
-			width:12%;
-		}
+	.sectionTicket h2{
+		position: relative;
+		height:76px;
+	}
 
-		.sectionStyle5 .sectionHeadArea .ttlSubLLeft img{
-			width:100%;
-		}
+	.sectionStyle5 .sectionHeadArea .ttlSubLLeft{
+		width:12%;
+	}
 
-		.sectionStyle5 .sectionHeadArea .ttlSubLRight{
-			width:12%;
-		}
+	.sectionStyle5 .sectionHeadArea .ttlSubLLeft img{
+		width:100%;
+	}
 
-		.sectionStyle5 .sectionHeadArea .ttlSubLRight img{
-			width:100%;
-		}
+	.sectionStyle5 .sectionHeadArea .ttlSubLRight{
+		width:12%;
+	}
 
-		.sectionStyle5 .sectionHeadArea .ttlSubLCenter{
-			width:66%;
-			left:50%;
-			margin-left:-33%;
-		}
+	.sectionStyle5 .sectionHeadArea .ttlSubLRight img{
+		width:100%;
+	}
 
-
-		.sectionStyle3 .sectionHeadArea{
-			width:100%;
-		}
-
+	.sectionStyle5 .sectionHeadArea .ttlSubLCenter{
+		width:66%;
+		left:50%;
+		margin-left:-33%;
+	}
 }
 
 @media screen and (max-width: 530px){
