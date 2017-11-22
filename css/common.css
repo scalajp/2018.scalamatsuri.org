@@ -568,6 +568,14 @@ input, select {
 	margin: 1%;
 }
 
+.sectionStyleDay0 .sectionHeadArea {
+  width: 820px;
+}
+
+.sectionStyleDay0 h3 {
+  text-align: center;
+}
+
 .spLv2{
 	background:#d84c4c!important;
 }
@@ -918,12 +926,15 @@ h1.session_title {
 		margin:0 auto 0 auto;
 	}
 
-
-
 	.sectionStyle4 .contTxtArea{
 		width:96%;
 		margin:0 auto 0 auto;
 	}
+
+  .sectionStyleDay0 .sectionHeadArea {
+    width: 96%;
+    margin: 0 auto 0 auto;
+  }
 
 }
 
@@ -989,11 +1000,27 @@ h1.session_title {
 		width:100%;
 	}
 
-	.sectionStyle5 .sectionHeadArea .ttlSubLCenter{
+  .sectionStyle5 .sectionHeadArea .ttlSubLCenter{
 		width:66%;
 		left:50%;
 		margin-left:-33%;
 	}
+
+  .sectionStyleDay0 h2 {
+    position: relative;
+    height: 76px;
+  }
+
+  .sectionStyleDay0 .sectionHeadArea {
+    width: 100%;
+  }
+
+  .sectionStyleDay0 .sectionHeadArea .ttlSubLCenter {
+    width: 66%;
+    left: 50%;
+    margin-left: -33%;
+  }
+
 }
 
 @media screen and (max-width: 530px){
@@ -1045,7 +1072,7 @@ h1.session_title {
 		}
 
 		.snsBtnArea li:first-child{
-			width:70px;
+			width: auto;
 		}
 
 		.gnav p{
@@ -1086,6 +1113,11 @@ h1.session_title {
 		width:96%;
 		margin:0 auto 0 auto;
 	}
+
+  .sectionStyleDay0 .sectionHeadArea {
+    width: 96%;
+    margin: 0 auto 0 auto;
+  }
 
 }
 
