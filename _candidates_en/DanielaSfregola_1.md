@@ -9,7 +9,8 @@ github: DanielaSfregola
 icon: /img/candidates/DanielaSfregola.png
 organization: Daniela Tech LTD / Director
 tags:
-  - Functional Programming, Best Practices
+  - Functional Programming
+  - Best Practices
 suggestions:
   - People who want to know what are the pros and cons of different ways of validating data
 ---
