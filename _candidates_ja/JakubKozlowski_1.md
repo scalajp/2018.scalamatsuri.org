@@ -1,6 +1,6 @@
 ---
 name: Jakub Kozłowski
-title: "邪悪なことのためにコンパイラをハックする"
+title: "筋の悪いコードの書き方"
 length: 40
 audience: Intermediate
 language: English
