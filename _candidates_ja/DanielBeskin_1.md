@@ -9,10 +9,10 @@ github: ncreep
 icon: /img/candidates/daniel-beskin.jpg
 organization: ironSource Mobile
 tags:
-  - 関数型プログラミング
-  - ベストプラクティス
-  - ソフトウェアデザインとアーキテクチャ
-  - その他
+  - Functional Programming
+  - Best Practices
+  - Software Design and Architecture
+  - Others
 suggestions:
   - Scalaを使い始めたがコンパイラに悪戦苦闘している人々
 ---
