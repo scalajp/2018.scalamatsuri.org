@@ -9,8 +9,8 @@ github: DanielaSfregola
 icon: /img/candidates/DanielaSfregola.png
 organization: Daniela Tech LTD / Director
 tags:
-  - 関数型プログラミング
-  - ベストプラクティス
+  - Functional Programming
+  - Best Practices
 suggestions:
   - データをvalidateする様々な方法と、その長所と短所を知りたい人
 ---
