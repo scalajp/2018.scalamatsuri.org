@@ -1,6 +1,6 @@
 ---
 name: Daniela Sfregola
-title: "Easy and Efficient Data Validation with Cats"
+title: "Catsで行う簡単・効率的なバリデーション"
 length: 40
 audience: Beginner
 language: English
