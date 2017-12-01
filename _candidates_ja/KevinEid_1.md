@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: KEVINEID75
 github: kevllino
-icon: https://www.linkedin.com/in/kevin-eid-b0168985?trk=nav_responsive_tab_profile_pic
+icon: https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAi2AAAAJDNlZDNiOGM3LWExNGMtNDUzMy1iMjU5LWQ0NThmZDVhMjkzZg.jpg
 organization: Software Engineer at Zalando Ireland Ltd
 tags:
   - Big Data / Fast Data
