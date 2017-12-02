@@ -212,10 +212,12 @@ layout: null
 							</td>
 						</tr>
 
-						<tr>
-							<th>チケット</th>
-							<td>参加にはチケットが必要です。詳細は後日改めてご案内致します。</td>
-						</tr>
+            <tr>
+              <th>チケット</th>
+              <td>
+                参加にはチケットが必要です。<a href='https://scalaconfjp.doorkeeper.jp/events/{{ site.doorkeeper.event.id }}'>こちら</a>からご購入下さい、。
+              </td>
+            </tr>
 
 					</table>
 				</div>
@@ -313,7 +315,9 @@ layout: null
 				</div>
 			</div>
     </section>
-    
+
+    {% include ticket_ja.html %}
+
     {% include day0_overview.html %}
     
 		<section class="sectionInquiry">
@@ -421,6 +425,7 @@ layout: null
   {% include widgetoon.js.html %}
   {% include pocket.js.html %}
   {% include g-plusone_ja.js.html %}
+  {% include doorkeeper.js.html %}
 
   <div id="dialog_message"></div>
 </body>
