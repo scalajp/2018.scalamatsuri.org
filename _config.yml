@@ -54,3 +54,7 @@ plans:
   - daimyo
   - samurai
   - ninja
+
+doorkeeper:
+  event:
+    id: 53530
