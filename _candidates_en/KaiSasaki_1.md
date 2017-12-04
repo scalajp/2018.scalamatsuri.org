@@ -3,7 +3,7 @@ name: Kai Sasaki
 title: "Lessons learned while implementing my own distributed deep learning framework on Spark"
 length: 40
 audience: Intermediate
-language: English
+language: Japanese
 twitter: Lewuathe
 github: Lewuathe
 icon: https://secure.gravatar.com/avatar/e88b4d85c705c6d6e66f79a13cbd9c4c
