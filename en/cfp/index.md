@@ -25,7 +25,7 @@ So here are some of the things we will do this year:
 - Travel grant for speakers with most votes (See [travel grant](/en/cfp/#Travel-grant))
 - We'll plan hangouts at bars after the conference if you're up for it
 
-We are looking for topics that you think Scala community or new learners of Scala would be interested. We have tree session length: 10 minutes, 40 minutes, and 90 minutes. Prepare an abstract of your talk (600 characters or less), and submit your proposal.
+We are looking for topics that you think Scala community or new learners of Scala would be interested. We have three session length: 10 minutes, 40 minutes, and 90 minutes. Prepare an abstract of your talk (600 characters or less), and submit your proposal.
 
 We'll conduct a survey on which talks your fellow Matsuri would want to go to,
 and the organizers will decide the talks using the survey result and social impact as a reference.
