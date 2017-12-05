@@ -1,12 +1,12 @@
 ---
-name: 浅原 理人 (@m_asahara)
-title: "(Scala, Apache Spark, TensorFlow, XGBoost) => お手軽機械学習"
+name: Masato Asahara (@m_asahara)
+title: "(Scala, Apache Spark, TensorFlow, XGBoost) => Easy Machine Learning"
 length: 40
 audience: Beginner
 language: Japanese
 twitter: m_asahara
 icon: https://pbs.twimg.com/profile_images/1263549533/asahara_park_400x400.jpg
-organization: NEC システムプラットフォーム研究所
+organization: NEC R&D
 tags:
   - Tools
   - Best Practices
