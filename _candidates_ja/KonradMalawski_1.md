@@ -18,7 +18,7 @@ suggestions:
 ---
 Akkaの最近の動向や、Akka StreamsがリリースされReactive Streams(java.util.concurrent.Flow)がOpenJDK (Java 9)に含まれるという事実によって、
 あなたはもしかするとAkkaの次の開発の焦点は何なのか？と考えているかもしれません。
-実はAkkaが次の開発の焦点は、過去に行ったことのなかでまだ完成されていないものです。
+実はAkkaの次の開発の焦点は、過去に行ったことのなかでまだ完成されていないものです。
 すなわち、全てのAPIの中からより多くのものに型情報を追加することであり(Akka Streamsで実現されたように)、
 そしてこれは安定したAkka Typed APIおよびそのAPIをStreamsとClusterに統合することによって可能になります。
 別の言い方をすれば、ビルド時安全で、型検査を行うことが出来、back-pressureを扱うことができ、あなたのニーズによってスケールアウト・インすることができる
