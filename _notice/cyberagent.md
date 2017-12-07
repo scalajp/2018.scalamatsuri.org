@@ -3,6 +3,7 @@ title: "株式会社サイバーエージェント"
 logo: "/img/logo/cyberagent.svg"
 plan: shogun
 link: "https://www.cyberagent.co.jp/careers/professional/jobs3/contents_type=1043"
+linkTitle: "詳しくはこちら"
 ---
 ### サイバーエージェント　アドテクスタジオ　
 
