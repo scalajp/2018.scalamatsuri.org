@@ -9,7 +9,8 @@ github: geerdink
 icon: https://pbs.twimg.com/profile_images/911184285830348800/q0O6D7iA_400x400.jpg
 organization: ING
 tags:
-  - Big Data / Fast Data, Best Practices
+  - Big Data / Fast Data
+  - Best Practices
 suggestions:
   - Data engineers and architects
 ---
