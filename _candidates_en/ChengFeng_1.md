@@ -19,4 +19,4 @@ From 6 years ago, I started to use Storm to write my first streaming processing 
 Two years ago, I started to use Spark streaming to implement incremental machine learning application.
 Now, I am using Flink to do stateful stream processing and complex event processing.
 Along the way, Most of the application in Spark and Flink are written in Scala.
-I will explain how does the different framework work in different cases, and why we have to choose Flink in end. 
+I will explain how does the different framework work in different cases, and why we have to choose Flink in end.
