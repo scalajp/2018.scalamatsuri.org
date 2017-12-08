@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: 
 github: chengat1314
-icon: https://www.linkedin.com/in/chengfengatgrab/
+icon: /img/candidates/chenfeng.jpg
 organization: Grab
 tags:
   - Big Data / Fast Data
