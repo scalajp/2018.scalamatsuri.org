@@ -18,6 +18,6 @@ suggestions:
   - Those who are less familiar with functional programming
 ---
 Scala is a programming language that integrates both object-oriented programming and functional programming.
-However, these days, most major object-oriented languages incorporate the essence of functional programming to some degree or another. If so, then how are these languages different from Scala? One of the key notions to understand this, is the concept of composability.
+However, these days, most major object-oriented languages incorporate the essence of functional programming to some degree or another. If this is the case, then how are these languages different from Scala? One of the key notions to understand this, is the concept of composability.
 
 In this session, I will demonstrate what composability is, and how it affects our day-to-day programming. I hope to offer guiding principles to design better API and systems, and to master Scala at a deeper level.
