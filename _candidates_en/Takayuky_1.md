@@ -1,6 +1,6 @@
 ---
 name: takayuky
-title: "The first step in Cats"
+title: "The first steps in Cats"
 length: 10
 audience: Beginner
 language: Japanese
@@ -14,4 +14,4 @@ tags:
 suggestions:
   - People who are already familiar with Option, Try, for-comprehensions, and thinking about functional programming libraries like Cats.
 ---
-I will show what you can do with Cats, using easier real-life examples in an ad-tech company. There will be no difficult functional programming stories.
+I will show what you can do with Cats, using easy real-life examples from an ad-tech company. There will be no difficult functional programming stories during this talk.
