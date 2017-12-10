@@ -1,6 +1,6 @@
 ---
 name: Pathikrit Bhowmick
-title: "Introduction to Cats using Algebraic Graphs"
+title: "代数グラフを用いたCats入門"
 length: 40
 audience: Beginner
 language: English
