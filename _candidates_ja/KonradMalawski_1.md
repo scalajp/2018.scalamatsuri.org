@@ -1,6 +1,6 @@
 ---
 name: Konrad `ktoso` Malawski
-title: "あらゆるものを分散コンピューティングで扱おう(Akkaをつかって)"
+title: "分散処理に使っていいよ (Akka のすすめ)"
 length: 40
 audience: Intermediate
 language: English
