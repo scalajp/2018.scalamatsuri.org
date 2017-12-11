@@ -19,4 +19,4 @@ Scala is not a purely functional programming language, but it offers many featur
 
 In our projects, we have been utilizing the flexiblity of Scala, and gradually applied functional techniques to existing non-purely-functional code base.
 
-In this talk, I would like to share functional programming techniques both in the small and large, ways of thinking about applying them to the code base partially, mixed in with my own experiences.
+In this talk, I'd like to share functional programming techniques both in the small and large, ways of thinking about applying them to the code base partially, mixed in with my own experiences.
