@@ -1,6 +1,6 @@
 ---
 name: Pathikrit Bhowmick
-title: "代数グラフを用いたCats入門"
+title: "代数的グラフを用いた Cats 入門"
 length: 40
 audience: Beginner
 language: English
