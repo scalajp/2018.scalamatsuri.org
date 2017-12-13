@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: jdegoes
 github: jdegoes
-icon: img/candidates/JohnADeGoes.jpg
+icon: /img/candidates/JohnADeGoes.jpg
 organization: CTO SlamData
 tags:
   - Functional Programming
