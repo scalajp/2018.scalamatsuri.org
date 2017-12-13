@@ -6,7 +6,7 @@ audience: Beginner
 language: Japanese
 twitter: negokaz
 github: negokaz
-icon: https://ja.gravatar.com/negokaz
+icon: https://secure.gravatar.com/avatar/9b993cb3110ac0b1f6ddb4a689462520
 organization: TIS株式会社
 tags:
   - Software Design and Architecture
