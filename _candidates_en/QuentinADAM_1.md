@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: waxzce
 github: waxzce
-icon: http://imgur.com/a/TRZBN#0
+icon: https://i.imgur.com/dkXjYbc.jpg
 organization: CEO @ Clever Cloud
 tags:
   - Functional Programming

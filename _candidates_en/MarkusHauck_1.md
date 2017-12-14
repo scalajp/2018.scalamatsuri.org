@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: markus1189
 github: markus1189
-icon: https://www.dropbox.com/s/ifq7mrc3u4gl83e/avatar_cc_small.png
+icon: /img/candidates/MarkusHauck.png
 organization: IT Consultant, codecentric
 tags:
   - Functional Programming
