@@ -1,5 +1,5 @@
 /**
- * Copyright 2016 Tech to Value Co., Ltd. All Rights Reserved.
+ * Copyright 2017 Tech to Value Co., Ltd. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -22,11 +22,12 @@ $(function() {
   }
 
   var config = {
-    apiKey: "AIzaSyCeeItF2UVwvjKgKodlr6syToxqHnoG5b0",
-    authDomain: "scalamatsuri-cfp-voting.firebaseapp.com",
-    databaseURL: "https://scalamatsuri-cfp-voting.firebaseio.com",
-    storageBucket: "scalamatsuri-cfp-voting.appspot.com",
-    messagingSenderId: "505571501938"
+    apiKey: "AIzaSyBiWd1xiM3DJg0Z_fOYTp4tu1qaurMbecs",
+    authDomain: "scalamatsuri-2018-voting.firebaseapp.com",
+    databaseURL: "https://scalamatsuri-2018-voting.firebaseio.com",
+    projectId: "scalamatsuri-2018-voting",
+    storageBucket: "scalamatsuri-2018-voting.appspot.com",
+    messagingSenderId: "739573211191"
   };
   firebase.initializeApp(config);
 
