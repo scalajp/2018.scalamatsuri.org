@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: petr_zapletal
 github: pzapletal
-icon: https://drive.google.com/open?id=1FQDtSwU-OO3BOTEKCAKdD-Q3DnVb0A70
+icon: /img/candidates/PetrZapletal.jpg
 organization: Cake Solutions - Lead Consultant/Tech Lead
 tags:
   - Best Practices
