@@ -14,7 +14,7 @@ tags:
   - Microservices
 suggestions:
   - people who are considering using serverless 
-people who are interested in serverless with scala and sbt
+  - people who are interested in serverless with scala and sbt
   - people who want to understand what is serverless about and how to use it
 
 ---
