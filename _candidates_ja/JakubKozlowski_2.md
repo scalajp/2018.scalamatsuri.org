@@ -1,6 +1,6 @@
 ---
 name: Jakub Kozłowski
-title: "純粋関数型HTTPクライアントはFreeで無料"
+title: "純粋関数型HTTPクライアント for Free"
 length: 40
 audience: Intermediate
 language: English
