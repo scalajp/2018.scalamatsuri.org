@@ -14,6 +14,6 @@ suggestions:
   - Those who wants to implement authentication and authorization on Play 2.6
   - Those who are considering migration from play2-auth
 ---
-Authentication and authorization feature is essential for admin screens in a web application. However, supporting multiple authentication providers, and complex privileges for authorization tends to be harder than one may initially think.
+Authentication and authorization features are essential for admin screens in web applications. However, supporting multiple authentication providers as well as complex privileges for authorization tends to be harder than one may initially think.
 
-In this session, I will explain how to achieve authentication and authorization on Play with ease using Silhouette. Given play2-auth is no longer available since Play 2.6, we will also discuss migration from play2-auth to Silhouette.
+In this session, I will explain how to achieve authentication and authorization on Play with ease using Silhouette. Given play2-auth is no longer available since the release of Play 2.6, we will also discuss migration from play2-auth to Silhouette.
