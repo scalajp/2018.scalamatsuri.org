@@ -20,8 +20,8 @@ For example, ScalaTest provides an API which is similar to natural languages,
 and ScalikeJDBC leverages method chains to provide SQL-like syntax for its API.
 However, it is often very difficult to provide such sophisticated APIs.
 
-Therefore, we developed a tool which automatically generate an API from your desired DSL grammars.
-This tool allows you easily generate APIs which look like natural languages, 
-or APIs similar to other existing DSL on Scala.
-Internally this tool takes an advantage of Scala's type checking and implements a LALR parser.
+Therefore, we developed a tool which automatically generates an API from your desired DSL grammars.
+This tool allows you to easily generate APIs which look like natural languages, 
+or APIs similar to other existing DSLs on Scala.
+Internally this tool takes an advantage of Scala's type checking system and implements a LALR parser.
 This session will introduce the tool itself, and discuss how to implement it.
