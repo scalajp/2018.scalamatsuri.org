@@ -6,7 +6,7 @@ audience: Beginner
 language: Japanese
 twitter: masayadk1229
 github: 
-icon: https://twitter.com/masayadk1229
+icon: https://pbs.twimg.com/profile_images/1641220238/xrwD4j2a_400x400
 organization: 
 tags:
   - Functional Programming
