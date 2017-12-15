@@ -1,5 +1,5 @@
 ---
-name: @j5ik2o
+name: Junichi Kato
 title: "Practical introduction to reactive DDD"
 length: 40
 audience: Intermediate
