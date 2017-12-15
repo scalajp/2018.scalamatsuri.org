@@ -1,11 +1,11 @@
 ---
-name: awekuit
+name: awekuit・小椋 友芳
 title: "Akka Streams Kafka と Kafka Streams を両方運用している話"
 length: 40
 audience: Intermediate
 language: Japanese
-twitter: awekuit
-github: awekuit
+twitter: awekuit,tomoyoshi_ogura
+github: awekuit,tarugo07
 icon: https://pbs.twimg.com/profile_images/590112328756015104/kcSN89Am_400x400.jpg
 organization: Chat Work 株式会社
 tags:
