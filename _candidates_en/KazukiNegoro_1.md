@@ -16,7 +16,7 @@ suggestions:
   - People interested in developing web apps using Lagom.
   - People interested in implementing apps using event sourcing CQRS.
 ---
-The microservice architecture coordinates multiple services in a loosely-coupled way, and is said to be robust against changes, highly scalable, and fault tolerant. However, many might wonder where one should start to design and implement a system using the said architecture. In this hands-on workshop, you will experience developing a chat web app that comprises of multiple services, using Lagom framework.
+The microservice architecture coordinates multiple services in a loosely-coupled way, and is said to be robust against changes, highly scalable, and fault tolerant. However, many might wonder where one should begin when designing and implementing a system using said architecture. In this hands-on workshop, you will experience the development of a chat web app comprised of multiple services, using the Lagom framework.
 
 - Lagom: https://www.lagomframework.com/
 - This session is a revised version of the hands-on seminar that was hosted by Tech-Circle: https://techcircle.connpass.com/event/54030/
