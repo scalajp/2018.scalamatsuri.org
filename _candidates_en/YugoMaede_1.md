@@ -22,7 +22,7 @@ and you will implement and run "the minimum Akka application" described in the b
 
 Akka in Action (which I wrote the Japanese translated version) describes 
 how to design and implement a distributed system using Akka.
-The book provides a lot of sample code in Scala, and you can use run the code yourself
+The book provides a lot of sample code in Scala, and you can run the samples by yourself
 to better understand how things work.
 
 Reference article： https://codezine.jp/article/detail/10548
