@@ -1,6 +1,6 @@
 ---
 name: Masaki Toyoshima (mtoyoshi)
-title: "What I would've wanted to know when I first started Akka"
+title: "What I would've wanted to know when I first started using Akka"
 length: 10
 audience: Beginner
 language: Japanese
@@ -12,10 +12,10 @@ tags:
   - Tools
   - Best Practices
 suggestions:
-  - People who are interested in, or tried Akka a bit
+  - People who are interested in, or have tried Akka a bit
 ---
 Note: By Akka, I mostly mean Akka Actors here.
 
-It is said that when confronted with unknowns, people tend to react based on their past experiences. However, I am coming to realize that by using Akka as extension of experience, many beginners are getting stuck on similar pitfalls. I noticed them while reviewing others' code, but reflecting back, I've struggled with the similar points.
+It is said that when confronted with unknowns, people tend to react based on their past experiences. I am coming to realize that when using Akka, as an extension of experience, many beginners are getting stuck on similar pitfalls. I first noticed them while reviewing others' code, but reflecting back, I too struggled on similar points.
 
-Akka is a library rich in its features. There are lots of things we can discuss, but in this 10 minute session, I'd like to focus on a select few tips to start a smoother Akka life.
+Akka is a library rich in its features. There are lots of things we could discuss, but in this 10 minute session, I'd like to focus on a select few tips to start a smoother Akka life.
