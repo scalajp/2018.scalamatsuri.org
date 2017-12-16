@@ -12,12 +12,12 @@ tags:
   - Best Practices
   - Software Design and Architecture
 suggestions:
-  - Peoplw who want to write idiomatic Scala
+  - People who want to write idiomatic Scala
 ---
-Scala is an object oriented language, like Java is.
+Scala is an object-oriented language, like Java.
 However, if you are writing Scala code in Java-like styles, you are not fully leveraging the power of Scala.
-Then, what it looks like writing Scala code in Scala's own styles?
+What does it look like to write Scala code in Scala's own styles?
 
-In this session, I will introduce Scala features based on familiar object oriented programming concepts.
-Also I will also discuss how to choose which of Scala's language features to use,
-and class-design strategies and patterns for taking advantage of those features.
+In this session, I will introduce Scala features based on familiar object-oriented programming concepts.
+I will also discuss how to choose which of Scala's language features to use,
+as well as class-design strategies and patterns for taking advantage of those features.
