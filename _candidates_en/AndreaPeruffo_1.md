@@ -7,7 +7,6 @@ language: English
 twitter: and_prf
 github: andreaTP
 icon: https://avatars0.githubusercontent.com/u/5792097?s=400&v=4
-https://github.com/account
 organization: Nokia/Software developer
 tags:
   - Others
