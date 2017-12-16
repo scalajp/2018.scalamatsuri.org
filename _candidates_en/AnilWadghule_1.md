@@ -14,12 +14,10 @@ tags:
 suggestions:
   - Java/Scala developers interested to learn how to build distributed systems with Akka
 ---
-In this talk, we will explore how can we write a distributed system with Akka. We will cover distributed systems basics, how a distributed system is capable of enhanced performance and how it gives us higher availability.
+In this talk, we will explore how can we write a distributed system with Akka, referring to sample example
 
-Then we would start with a demonstration of a distributed system written with Akka. We will spend most of the talk discussing the demo code.
+We will go through distributed systems basics. We will also cover main advantages of Akka to build distributed systems.
 
-We will also cover main advantages of Akka to build distributed systems.
+We will explore aspects such a latency, throughput, computing power. We will understand how Akka is capable of fault tolerance, resilience. We will explore toolset provided by Akka such as Akka cluster, distributed data, distributed pub-sub in Akka cluster with sample code examples.
 
-We will explore aspects such a latency, throughput, computing power. We will understand how Akka is capable for fault tolerance, resilience. We will explore tool set provided by Akka library. 
-
-But distributed *has known limitations*. For example, issues with when a network is fully meshed, how many numbers of nodes which can scale we get in a cluster, how sending large data over distribution is an issue etc. What are solutions for it?
+But distributed *has known limitations*; I am going to cover these.
