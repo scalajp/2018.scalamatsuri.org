@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: and_prf
 github: andreaTP
-icon: https://github.com/account
+icon: https://avatars0.githubusercontent.com/u/5792097?s=400&v=4
 organization: Nokia/Software developer
 tags:
   - Others
