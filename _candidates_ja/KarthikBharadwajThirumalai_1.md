@@ -6,7 +6,7 @@ audience: Beginner
 language: English
 twitter: 
 github: karthikbharadwaj
-icon: https://github.com/karthikbharadwaj
+icon: https://avatars2.githubusercontent.com/u/5011117?s=400&v=4
 organization: Teradata
 tags:
   - Big Data / Fast Data
