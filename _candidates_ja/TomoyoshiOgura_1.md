@@ -6,7 +6,7 @@ audience: Beginner
 language: Japanese
 twitter: tomoyoshi_ogura
 github: tarugo07
-icon: https://pbs.twimg.com/profile_images/941557571831324673/_prrpo1D_400x400.jpg
+icon: https://pbs.twimg.com/profile_images/941560494074208258/lppgTP4f_400x400.jpg
 organization: ChatWork株式会社
 tags:
   - Software Design and Architecture
