@@ -1,6 +1,6 @@
 ---
 name: Dale Wijnand
-title: "Scala 2.12.1でサポートされた末尾のカンマにどうやって至ったのか？"
+title: "Scala 2.12.2でサポートされた末尾のカンマにどうやって至ったのか？"
 length: 10
 audience: Intermediate
 language: English
