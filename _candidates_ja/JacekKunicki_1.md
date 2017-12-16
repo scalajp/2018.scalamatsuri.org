@@ -9,7 +9,8 @@ github: rucek
 icon: https://dl.dropboxusercontent.com/content_link/u5nLS50yVUlCzJCFHCaU18m7vcwBLAQAS4a7IHymGaOQjT5H55z3e8uUSKdRn2Ad/file
 organization: SoftwareMill
 tags:
-  - Big Data / Fast Data, Tools
+  - Big Data / Fast Data
+  - Tools
 suggestions:
   - Reactive Streams を使い始めたばかりで、非同期ストリーム処理とノンブロッキング・バックプレッシャーのコンセプトを理解したい人
   - すでに Reactive Streams の実装を使っていて、Monix と比較してみたい人
