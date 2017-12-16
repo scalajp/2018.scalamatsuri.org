@@ -1,6 +1,5 @@
 ---
-name: 小椋 友芳
-title: "Scalaでスケーラブルかつハイアベイラビリティなサービスを開発するためのヒント"
+name: Tomoyoshi Ogura
 title: "How to develop scalable and high availability services using Scala"
 length: 40
 audience: Beginner
