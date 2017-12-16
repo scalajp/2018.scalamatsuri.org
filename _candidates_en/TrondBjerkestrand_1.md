@@ -14,6 +14,6 @@ tags:
 suggestions:
   - People curious about ScalaJS and about writing front-end code in Scala.
 ---
-Demand for a richer experience client side is continuously increasing. We can no longer generate HTML server side and will instead create JSON APIs, investige JS frameworks, learn Javascript, its tools and libraries or leave the task to a dedicated front-end developer.
+Demand for a richer experience client side is continuously increasing. We can no longer generate HTML server side and will instead create JSON APIs, investigate JS frameworks, learn JavaScript, its tools and libraries or leave the task to a dedicated front-end developer.
 
-Wait, ScalaJS is here, mature and with a growing community. It allows creating beautiful and rich front-ends without leaving our comfort zone of strong static typing protected from Javascript surprises. The talk will explore shared data objects, validation logic and easy client server communiciation in a full stack Scala app.
+Wait, ScalaJS is here, mature and with a growing community. It allows creating beautiful and rich front-ends without leaving our comfort zone of strong static typing protected from JavaScript surprises. The talk will explore shared data objects, validation logic and easy client server communication in a full stack Scala app.
