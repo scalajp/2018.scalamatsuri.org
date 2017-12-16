@@ -16,8 +16,8 @@ tags:
 suggestions:
   - People who are interested in service development using Scala
 ---
-Various problems occur in development of services that process continuous and enormous data. It is quite difficult problem to improve their throughput while keeping highly stabile and continuous service operation.
+Various problems occur in development of services that process continuous and enormous data. It is quite a difficult problem to improve their throughput while maintaining highly stable and continuous service operations.
 
-We ChatWork have achieved scalable and high availability service in our product called ChatWork Webhook, which was released in November 2017, using Apache Kafka, Akka HTTP, Akka Streams Kafka, Kubernetes.
+We at ChatWork have achieved scalable and high availability service in our product called ChatWork Webhook. This product was released in November 2017, using Apache Kafka, Akka HTTP, Akka Streams Kafka, and Kubernetes.
 
-In this session, I will share how we have achieved high performance and stability in Chatwork Webhook. It would be happy for me if this session would help your service development in future.
+In this session, I will share how we have achieved high performance and stability in ChatWork Webhook. It would make me happy if this session would help with your service development in the future.
