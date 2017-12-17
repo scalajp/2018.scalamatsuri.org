@@ -6,7 +6,7 @@ audience: Beginner
 language: Japanese
 twitter: takashima0411
 github: takashima0411
-icon: https://ja.gravatar.com/takashima0411
+icon: https://secure.gravatar.com/avatar/44ee497a638689b79d9808a8292a0601
 organization: 株式会社セプテーニ・オリジナル
 tags:
   - Best Practices
