@@ -1,6 +1,6 @@
 ---
 name: Himanshu Gupta
-title: "青い薬と赤い薬 : ストリーム処理におけるマトリックス世界"
+title: "Blue Pill / Red Pill : The Matrix of thousands of data streams"
 length: 40
 audience: Intermediate
 language: English
@@ -13,13 +13,6 @@ tags:
   - Best Practices
   - Software Design and Architecture
 suggestions:
-  - 高スループットなストリーミング分析パイプライン、もしくはそれに類するものを構築したい人々
+  - People who would like to build high throughput streaming analysis pipelines or something similar
 ---
-データストリーミング・アプリケーションを設計する際に1つか2つのストリームを扱うことは簡単です。
-拡張性と高スループット、耐障害性を提供するものならばどんなストリーミング・フレームワークでも使えるでしょう。
- 
-しかし、もしストリームの数が数百や数千にのぼるとき、それらを正しく扱うのは困難な作業です。
-どうやって数千ものストリーム間でリソースを共有し、それらを24時間休むことなく走らせ続け、状態を管理し、
-高度なストリーミング処理を施し、そしてシステムの再起動をすることなくストリームを追加・削除するのでしょう？
-
-このトークでは数千ものストリームを扱う際によくおこる問題をSpark Structured Streamingをつかってどう解決するかを紹介します。
+Designing a streaming application which has to process data from 1 or 2 streams is easy. Any streaming framework which provides scalability, high-throughput, and fault-tolerance would work. But when the number of streams start growing in order 100s or 1000s, managing them can be daunting. How would you share resources among 1000s of streams with all of them running 24x7? Manage their state, Apply advanced streaming operations, Add/Delete streams without restarting? This talk explains common scenarios & shows techniques that can handle thousands of streams using Spark Structured Streaming.
