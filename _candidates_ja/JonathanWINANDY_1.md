@@ -13,10 +13,10 @@ tags:
   - Software Design and Architecture
   - Microservices
 suggestions:
-  - Developers or architects who want to: 
-* operate or simplify their microservices using Scala and Kafka,
-* create state of the art systems based on the latest research and best practices without the costs,
-* dive progressively into extensible effects from Oleg Kiselyov (using cats-eff).
+  - 以下を成し遂げたい開発者やアーキテクト
+  - ScalaやKafkaを使用したマイクロサービスをシンプルに運用したい方
+  - コストをかけずに、最新の研究に沿った最先端のシステムを構築したい方
+  - Oleg Kiselyovによる、cats-effを使用したextensible effectsについて掘り下げたい方
 ---
 Have you ever run into a scary bug, and wished that you could go back in time to build systems differently?
 
