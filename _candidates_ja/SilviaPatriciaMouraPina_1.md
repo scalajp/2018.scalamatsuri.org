@@ -1,6 +1,6 @@
 ---
 name: Silvia Moura Pina
-title: "Beauty and/or Elegance in Functional Programming"
+title: "関数型プログラミングの美しさ、優雅さ"
 length: 40
 audience: Beginner
 language: English
@@ -13,6 +13,9 @@ tags:
   - Best Practices
   - Others
 suggestions:
-  - People who are interested on the topic of Functional Programming and would like to know how it can help them write simple, concise code that follows solid design principles.
+  - Functional Programmingのトピックに興味があり、それがどのようにして堅実な設計原則に従う、シンプルで簡潔なコードを書くのに役立つかを知りたいと思う人
 ---
-Beauty is a combination of pleasing traits, albeit subjectively perceived it still can be discussed and more or less defined. Not being exclusive to art, beauty is found in other disciplines too, such as in mathematics, and in software source code. In the software community, debates about beauty / code elegance may be implicit but they are at the heart of many concerns of modern software development. We will explore how we are using functional programming to achieve beauty in code, and how does that translate to high quality software projects. 
+美しさは、主観的には、それは多かれ少なかれ定義されているとまだ議論することができると認識された、気持ちの良いtraitの組み合わせです。
+芸術だけにとどまらず、美しさは、数学やソフトウェアのソースコードなど、他の分野でも見られます。
+ソフトウェアコミュニティでは、美しさ/コードの優雅さに関する議論は暗黙的かもしれないが、それらは現代のソフトウェア開発の多くの懸念の中心にあります。
+コードの美しさを達成するために関数型プログラミングをどのように使用しているのか、それが高品質のソフトウェアプロジェクトにどのように変換されるのかを探求します。
