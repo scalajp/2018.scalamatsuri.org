@@ -1,5 +1,5 @@
 ---
-name: 伊藤健史 @iTakeshi
+name: Takeshi Itoh @iTakeshi
 title: "Metaprogramming in Scala: the Past and the Present"
 length: 40
 audience: Intermediate
@@ -11,21 +11,21 @@ organization: Robotic Biology Institute Inc.
 tags:
   - Tools
 suggestions:
-  - scalaでメタプログラミングをしたい人
-  - メタプログラミングを使っているライブラリの中身を理解したい人
-  - メタプログラミング機能の開発に貢献したい人
+  - People who want to try metaprogramming using Scala
+  - People who want to understand internal of libraries using metaprogramming
+  - People want to contribute development of metaprogramming
 ---
 In this talk, I will introduce the bleeding edge of metaprogramming utility
-for scala.
+for Scala.
 
 Since scala.reflect was shipped along with scala 2.10, metaprogramming
 utility for scala evolved into scala.meta, and now it is moving toward
 scala.macros. Furthermore, a project named scalagen has been started to
 develop a novel static code generation tool.
-In this unforeseeing situation, we, as scala programmers, are required to
+In this unforeseeing situation, we, as Scala programmers, are required to
 catch-up with the latest development status and to prepare for the
 forthcoming revolution.
 On the other hand, this big change offers us good opportunities to
-contribute to the core functionality of scala. Even though it seems
-difficult to contribute the scala compiler itself, there is a plenty of
-room for us to contribute to the scala metaprogramming ecosystem.
+contribute to the core functionality of Scala. Even though it seems
+difficult to contribute the Scala compiler itself, there is a plenty of
+room for us to contribute to the Scala metaprogramming ecosystem.
