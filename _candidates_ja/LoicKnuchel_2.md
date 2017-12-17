@@ -4,8 +4,8 @@ title: "基本に戻れ: 私が考える関数型プログラミングの素晴�
 length: 40
 audience: Beginner
 language: English
-twitter: https://twitter.com/loicknuchel
-github: https://github.com/loicknuchel
+twitter: loicknuchel
+github: loicknuchel
 icon: https://avatars0.githubusercontent.com/u/653009?s=460&v=4
 organization: Software engineer at Criteo
 tags:
