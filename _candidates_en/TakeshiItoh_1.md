@@ -29,3 +29,5 @@ On the other hand, this big change offers us good opportunities to
 contribute to the core functionality of Scala. Even though it seems
 difficult to contribute the Scala compiler itself, there is a plenty of
 room for us to contribute to the Scala metaprogramming ecosystem.
+
+Based upon a review of the history of scala metaprogramming, I’d like to discuss about how to improve our programming experience with metaprogramming,
