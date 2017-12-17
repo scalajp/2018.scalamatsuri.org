@@ -6,7 +6,7 @@ audience: Beginner
 language: English
 twitter: smourapina
 github: smourapina
-icon: smourapina
+icon: https://pbs.twimg.com/profile_images/931110282528731136/2Hj-Z0UF_400x400.jpg
 organization: 
 tags:
   - Functional Programming
