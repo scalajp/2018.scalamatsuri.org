@@ -7,7 +7,7 @@ language: Japanese
 twitter: TaKeZo_I
 github: iTakeshi
 icon: https://avatars2.githubusercontent.com/u/1460175
-organization: Robotic Biology Institute Inc.
+organization: Robotic Biology Institute Inc., Nara Institute of Science And Technology
 tags:
   - Tools
 suggestions:
