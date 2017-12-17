@@ -12,7 +12,7 @@ tags:
   - Best Practices
   - Software Design and Architecture
 suggestions:
-  - People who prefer type safety
+  - People who are typesafe
   - People who have doubt about or feel dissatisfied with DI using Guice
 ---
 Play Framework uses Google Guice as default even though it supports both JSR330 compatible runtime DI and compile time DI.
