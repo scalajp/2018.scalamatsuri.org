@@ -1,6 +1,6 @@
 ---
 name: Andrea Peruffo
-title: "アクターの侵略! クライアントにまみれたAkkaの物語"
+title: "アクター侵攻! クライアント側に Akka が押し寄せています"
 length: 40
 audience: Intermediate
 language: English
