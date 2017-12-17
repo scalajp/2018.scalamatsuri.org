@@ -13,7 +13,7 @@ tags:
 suggestions:
   - People who want to try metaprogramming using Scala
   - People who want to understand internal of libraries using metaprogramming
-  - People want to contribute development of metaprogramming
+  - People who want to contribute to metaprogramming utilities
 ---
 In this talk, I will introduce the bleeding edge of metaprogramming utility
 for Scala.
