@@ -1,6 +1,6 @@
 ---
 name: Andrea Peruffo
-title: "Actors invasion! a tale of Akka flooding your clients"
+title: "アクターの侵略! クライアントにまみれたAkkaの物語"
 length: 40
 audience: Intermediate
 language: English
@@ -11,14 +11,14 @@ organization: Nokia/Software developer
 tags:
   - Others
 suggestions:
-  - Let forget the barriers and exploit the Actor model in new domains such as the frontend leveraging 2 awesome projects: Scala.Js and Akka
+  - 障壁を忘れて、フロントエンドにレバレッジをかけているScala.JsやAkkaといった２つの素晴らしいプロジェクトでの新しいドメインのアクターモデルを活用しよう
 ---
-The actor model rules our backend applications, given it's simplicity and powerful abstraction:
+アクターモデルは、シンプルさと強力な抽象化を備えているため、バックエンドアプリケーションを統治しています。
 
-Exploiting it's key concepts we will walk into a magic land where Akka takes naturally place into the design and implementation of frontend software.
+Akkaがフロントエンドソフトウェアの設計と実装を自然に取り入れる魔法の国に私達が踏み入るキーコンセプトを利用します。
 
-Trees of Dom nodes will naturally stick up to actors hierarchies,
-the ancient art of mastering multi-core development grows happily again
-and we are free to reuse our logic and behaviors wherever we like.
+DOMのノードのツリー構造は、自然にアクターの階層構造へ導出され、
+マルチコアに対応する開発を習熟する古代の芸術が、再び楽しく成長し、
+私たちが好きなところで私たちのロジックと振る舞いを自由に再利用することができます。
 
-Of course, we will do all of this with Akka.Js! :-)
+もちろん、全てAkka.Jsでやるよ! :-)
