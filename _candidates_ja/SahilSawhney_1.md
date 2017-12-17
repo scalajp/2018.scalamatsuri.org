@@ -1,6 +1,6 @@
 ---
 name: Sahil Sawhney
-title: "Deploying Scala Based Applications Over DCOS - The Evolution Continues"
+title: "ScalaベースのアプリケーションをDCOSへデプロイする - 継続的進化"
 length: 90
 audience: Intermediate
 language: English
@@ -15,12 +15,15 @@ tags:
   - Software Design and Architecture
   - Microservices
 suggestions:
-  - People interested to have a basic understanding of what distributed system are.
-  - People willing to learn about DCOS, the enterprise Appstore for the reactive platform.
-  - People interested to feel the power and flexibility of deploying Lagom, Akka-Http and PLay applications over DCOS.
+  - 分散システムとは何かを基本的に理解することに興味がある人
+  - リアクティブプラットフォームのための企業向けのAppstoreのようなDCOSについて知りたい人
+  - DCOSへLagom, Akka-HttpやPLay によるアプリケーションのデプロイする際のパワーと柔軟性を感じたい人
 ---
-The session revolves around understanding the deployment of Scala-based applications like Play, Akka, and Lagom etc. over DCOS, a distributed OS to manage distributed systems. Key deliverables:
-1. An overview of what distributed systems are and how are they helpful for deploying production grade applications (10 mins)
-2. A basic understanding of DCOS; its nodes, components, basic architecture etc. (30 mins)
-3. Deployment of core Scala, Play, Lagom, Akka Http [microservices] applications over DCOS (10 mins each, total 40 mins)
-4. 10 mins buffer time for a future scope with DCOS.
+このセッションは、分散システムを管理する分散OSであるDCOS上に、Play、Akka、LagomなどのScalaベースのアプリケーションの展開を理解することを中心に展開します。 
+
+主な達成事項:
+
+1. 分散システムの概要と、プロダクショングレードのアプリケーションの導入に役立つ方法 (10分)
+2. ノード、コンポーネント、基本アーキテクチャなどのDCOSの基本的な理解 (30分)
+3. DCOS上のScalaのコア、Play、Lagom、Akka Http のマイクロサービスアプリケーションのデプロイ (10分づつ, 計40分)
+4. 10分のバッファは、DCOSの将来のスコープについて話します。
