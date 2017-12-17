@@ -1,6 +1,6 @@
 ---
 name: Jan Christopher Vogt
-title: "CBT - Next generation Scala builds"
+title: "CBT - 次世代Scalaビルド"
 length: 40
 audience: Beginner
 language: English
