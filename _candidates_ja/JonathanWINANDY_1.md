@@ -1,6 +1,6 @@
 ---
 name: Jonathan WINANDY
-title: "Time Traveling Effects for Microservices in Scala using Kafka"
+title: "ScalaとKafkaを用いた、マイクロサービスにおける時間旅行Effect"
 length: 40
 audience: Intermediate
 language: English
@@ -18,13 +18,13 @@ suggestions:
   - コストをかけずに、最新の研究に沿った最先端のシステムを構築したい方
   - Oleg Kiselyovによる、cats-effを使用したextensible effectsについて掘り下げたい方
 ---
-Have you ever run into a scary bug, and wished that you could go back in time to build systems differently?
+恐ろしいバグに遭遇したとき、時間を戻して違うシステムを構築したくなることはありませんか?
 
-While microservices are more complex to operate than they monolith counterpart, they give room for architectures that allow you to fix past mistakes and prevent you from getting blindsided by future complexities.
+マイクロサービスはモノリスに対して、運用は複雑化するものの、過去の間違いを修正し、将来的に、複雑さによって盲目的にならないようにするためのアーキテクチャの余地をもたらします。
+本セッションでは、Scalaと関数型プログラミング、Kafkaを用いることによって、複雑なシステムを以下のような要素を用いて構築する方法について、一つ一つ説明していきます。
 
-We will see step-by-step how Scala, functional programming and Kafka help us build complex systems with:
-* Unified data management,
-* Root Cause Automation,
-* “Time travel” & Compensation.
+- 統一されたデータ管理
+- 根本的な要因への対処を伴う自動復旧
+- データの巻き戻しによる時間旅行と補償
 
-No prior knowledge of Monad transformation or time manipulation is required! \(^ヮ^)/
+モナド変換と時間変換についての事前知識は必要ありませんので、安心して聞きに来てくださいね! \(^ヮ^)/
