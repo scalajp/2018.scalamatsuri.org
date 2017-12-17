@@ -1,6 +1,6 @@
 ---
 name: sid
-title: "未来へようこそ"
+title: "Welcome to the Future"
 length: 40
 audience: Intermediate
 language: English
