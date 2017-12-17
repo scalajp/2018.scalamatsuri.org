@@ -17,4 +17,4 @@ suggestions:
 ---
 In 2016, Chat Work rolled out a chat messaging microservice that adopted Akka HTTP and Akka Streams as the base, and Kafka Streams for Kafka event processing. In 2017, we are developing a Webhook microservice also using Akka HTTP and Akka Streams as the base, but we've opted for Akka Streams Kafka (formerly known as Reactive Kafka) to process Kafka events.
 
-This is going a stroy of these two Kafka processing libraries, both operational in Chat Work. What are the differences? When should you use one over the other?
+This is going a story of these two Kafka processing libraries, both operational in Chat Work. What are the differences? When should you use one over the other?
