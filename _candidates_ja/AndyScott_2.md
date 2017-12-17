@@ -1,6 +1,6 @@
 ---
 name: Andy Scott
-title: "Deep dive into iota"
+title: "詳解iota"
 length: 40
 audience: Advanced
 language: English
@@ -13,16 +13,12 @@ tags:
   - Microservices
   - Others
 suggestions:
-  - This talk is intended for those who are already familiar with functional programming concepts such as coproducts and free monads.
+  - 余積(coproduct)やFreeモナドなどの関数型プログラミング言語の概念に既に慣れている人
 ---
-Freestyle's iota is a high performance functional programming library
-for very optimized coproducts. Its primary claim to fame is for
-faster evaluation of Free Monads in Freestyle. However, iota has many
-hidden features and can be used for much more than just Free.
+Freestyleのiotaは、余積(coproduct)を最適化した高パフォーマンスの関数型プログラミングライブラリです。
+そのメリットとして第一に挙げられるのは、FreestyleにおけるFreeモナドの高速な実行(evaluation)です。
+しかしながら、iotaにはFree以外にも使える隠れた機能が沢山あるのです。
 
-Let's explore the current (and upcoming) features of iota while
-looking at different functional programming patterns such as error
-handling and generic typeclass derivation.
+エラーハンドリングや汎用的な型クラス導出のようなその他の関数型プログラミングのパターンについて触れながら、iotaの現在(及び近いうちに導入される）機能について見てみましょう。
 
-Additionally, we will briefly discuss how iota works behind-the-scenes
-and take a peek at some of the underlying macros.
+それに加え、iotaの裏側の仕組みや、iotaの実装に使われているマクロについて紹介したいと思います。
