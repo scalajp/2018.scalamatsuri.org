@@ -1,6 +1,6 @@
 ---
 name: Loic Knuchel
-title: "ミューテーション解析は良いテストの品質測定の決定打、かな？"
+title: "突然変異による解析は良いテストの品質測定の決定打、かな？"
 length: 40
 audience: Beginner
 language: English
