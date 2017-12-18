@@ -13,6 +13,6 @@ tags:
 suggestions:
   - Scala beginners who want to fight the unknown concepts
 ---
-What if a Scala beginner is thrown into a Monoid? What would you do? Puzzled? Rejection? Acceptance? What action should they take?
+What if a Scala beginner is thrown into a Monoid? What would you do? Puzzled? Reject? Accept? What action should you take?
 
-Here's a story of we dealt the unknown concepts, looking back on what happened in real life.
+Here's a story of how we dealt with some unknown concepts, looking back on what happened in real life.
