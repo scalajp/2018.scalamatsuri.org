@@ -13,7 +13,7 @@ tags:
   - Best Practices
   - Software Design and Architecture
 suggestions:
-  - Java8移行やKotlinとScalaの違いが何なのか知りたい人
+  - Java8以降やKotlinとScalaの違いが何なのか知りたい人
   - よりテストしやすく使いやすいAPI設計に興味がある人
   - 関数型プログラミングと言われてもピンとこない人
 ---
