@@ -15,4 +15,4 @@ tags:
 suggestions:
   - People wondering if they should use either Akka/Scala or Spring/Kotlin on the server-side
 ---
-I will compare Akka/Scala against Spring/Kotlin by showing performance benchmarks and analyzing which one is suited for what job. Hopefully this would come in handy when selecting the technical stack for your next project.
+I will compare Akka/Scala against Spring/Kotlin by showing performance benchmarks and analyzing which one is suited for what job. Hopefully this will come in handy when selecting the technical stack for your next project.
