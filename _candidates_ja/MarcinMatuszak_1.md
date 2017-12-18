@@ -9,7 +9,7 @@ github:
 icon: https://pbs.twimg.com/profile_images/843532549720854528/0Q8YKVZO_400x400.jpg
 organization: Date Engineer / Ryanair 
 tags:
-  - Others
+  - Virtual coin / Blockchain
 suggestions:
   - ブロックチェーンの技術を理解したい人
 ---
