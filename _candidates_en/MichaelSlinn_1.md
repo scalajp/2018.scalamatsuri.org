@@ -12,6 +12,7 @@ tags:
   - Functional Programming
   - Best Practices
   - Software Design and Architecture
+  - Virtual coin / Blockchain
 suggestions:
   - Shows how a stateful JVM library (web3j) can be exposed as a functional programming API.
   - Shows how Scala's value objects are used to provide a type-safe API, without imposing run-time overhead.
