@@ -2,12 +2,12 @@
 name: Chris Vogt
 title: "My first months of real world Haskell"
 length: 40
-audience: Beginner
+audience: Intermediate
 language: English
 twitter: cvogt
 github: cvogt
 icon: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAesAAAAJGNlNjE2NDk1LWE0OGYtNGRhMi1iYmE4LTRjZDVjZDMyODRhYQ.jpg
-organization: Symbiont.io 
+organization: Symbiont.io
 tags:
   - Functional Programming
 suggestions:
