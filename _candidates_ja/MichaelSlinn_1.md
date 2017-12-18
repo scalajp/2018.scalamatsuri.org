@@ -12,6 +12,7 @@ tags:
   - Functional Programming
   - Best Practices
   - Software Design and Architecture
+  - Virtual coin / Blockchain
 suggestions:
   - ステートフルなJVMライブラリであるweb3jをどのようにして関数型言語的なAPIにするかを説明します
   - 実行時のオーバーヘッドなしに、どのようにして型安全なAPIをScalaの値オブジェクトを使って実現するかを説明します
