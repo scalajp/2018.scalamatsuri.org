@@ -1,6 +1,6 @@
 ---
 name: Tomokazu Matsushita
-title: "Case study: Made a warehouse logistics system using Scala in Kobe"
+title: "Case study: Making a warehouse logistics system using Scala in Kobe"
 length: 10
 audience: Beginner
 language: Japanese
@@ -16,7 +16,7 @@ suggestions:
   - Person or business considering migration from Java to Scala
   - Person or business interested in Scala development case studies
 ---
-As a Scala development and adoption case study, I will explain how TierLine, Inc developed the current warehouse logistics system from scratch. By going through the design and source code, I will show the development benefit of intoducing Scala.
+As a Scala development and adoption case study, I will explain how TierLine, Inc developed their current warehouse logistics system from scratch. By going through the design and source code, I will show the development benefit of introducing Scala.
 
 In our system, we use the following opensource frameworks:
 - Front end: React.js and Scala.js
