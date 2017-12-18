@@ -1,5 +1,5 @@
 ---
-name: "Leif Wickland"
+name: Leif Wickland
 title: "PureConfigとRefinedで設定ファイル時限爆弾の信管をはずす"
 length: 40
 audience: Beginner
@@ -7,7 +7,7 @@ language: English
 twitter: leifwickland
 github: leifwickland
 icon: https://static.sched.com/a10/3114660/avatar.jpg.320x320px.jpg
-organization: "Rubicon Project"
+organization: Rubicon Project
 tags:
   - Tools
   - Best Practices
