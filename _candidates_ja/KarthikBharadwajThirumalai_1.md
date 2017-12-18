@@ -1,5 +1,5 @@
 ---
-name: Karthik Bharadwaj Thirumalai
+name: Karthik Bharadwaj Thirumalai, Eduardo Gonzalez
 title: "フレームワークを跨いだ深層学習モデルの適用とデプロイ"
 length: 40
 audience: Beginner

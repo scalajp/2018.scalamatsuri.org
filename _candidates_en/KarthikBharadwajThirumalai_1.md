@@ -1,5 +1,5 @@
 ---
-name: Karthik Bharadwaj Thirumalai
+name: Karthik Bharadwaj Thirumalai, Eduardo Gonzalez
 title: "Applying and Deploying deep learning models across frameworks."
 length: 40
 audience: Beginner
