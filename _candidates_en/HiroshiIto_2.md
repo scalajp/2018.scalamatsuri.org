@@ -13,7 +13,7 @@ tags:
   - Intro to Scala
 suggestions:
   - People who have never used DB access libraries before
-  - People who want to know feature comparison of DB access libraries
-  - People who want to know new ORM called reladomo-scala
+  - People who want to understand feature comparisons of DB access libraries
+  - People who want to understand a new ORM called reladomo-scala
 ---
-In this session, I will start with definition of DB access library. Then I will compare features of representative DB access library such as Slick, Quill, ScalikeJDBC and ORM framework which is higher level abstraction layer such as Skinny-ORM, realdomo-scala. This session focuses on easy topics for beginners who are not familiar with DB access library.
+In this session, I will start with the definition of a DB access library. Then, I will compare features of representative DB access libraries such as Slick, Quill, ScalikeJDBC as well as ORM frameworks with higher level abstraction layers such as Skinny-ORM and realdomo-scala. This session focuses on easy topics for beginners who are not familiar with DB access libraries.
