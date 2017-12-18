@@ -15,6 +15,6 @@ suggestions:
   - People who want to experience a new ORM by going through a tutorial
   - People interested in seeing how to model bitemporal data in code
 ---
-reladomo-scala is an object-relational mapping (ORM) framework that was announced and made opensource in Scala Kansai Summit 2017. It's an interesting framework that wraps a Java ORM framework named Reladomo using Scala, and provides typesafe query language, bitemporal data model support, making it particularly powerful framework for enterprise usages.
+reladomo-scala is an object-relational mapping (ORM) framework that was announced and made opensource at the Scala Kansai Summit 2017. It's an interesting framework that wraps a Java ORM framework named Reladomo using Scala. It provides a typesafe query language and bitemporal data model support, making it a particularly powerful framework for enterprise uses.
 
-In this session, we will learn the framework's features and usages by going through the reladomo-scala tutoral, also known as kata in a test-driven development (TDD) manner.
+In this session, we will learn the framework's features and uses by going through the reladomo-scala tutorial (also known as a kata) in a test-driven development (TDD) manner.
