@@ -16,6 +16,6 @@ suggestions:
 ---
 In this sesssion, I will show seamless integration between Haskell and Scala using a Haskell implementation on JVM, called Eta.
 
-Eta guarantees near-perfect compatibility with modern Haskell code, but it simultaneously supports calling out to Scala/Java libraries that are semantically foreign in an ingenious way. Furthermore, since the compiled result becomes JVM bytecode, you can now easily embed the Haskell part into a Scala project. You can how have the cake from both languages and eat them too.
+Eta guarantees near-perfect compatibility with modern Haskell code, but it simultaneously supports calling out to Scala/Java libraries that are semantically foreign in an ingenious way. Furthermore, since the compiled result becomes JVM bytecode, you can now easily embed the Haskell part into a Scala project. You can now have the cake from both languages and eat it too.
 
 I will start with the basics of Haskell, explain Haskell-Scala interoperation, and show how an actual hybrid project might be structured. The session does not require any prior knowledge, so if you are intimidated by Haskell, this session is actually for you.
