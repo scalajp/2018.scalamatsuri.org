@@ -13,7 +13,7 @@ tags:
   - Best Practices
   - Software Design and Architecture
 suggestions:
-  - Those interested in Java 8 migration or the difference between Kotlin and Scala
+  - Those interested in difference between Scala and Java 8 later or Kotlin
   - Those interested in designing more testable and usable API
   - Those who are less familiar with functional programming
 ---
