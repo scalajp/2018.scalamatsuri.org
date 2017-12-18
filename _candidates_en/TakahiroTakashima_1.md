@@ -13,13 +13,13 @@ tags:
   - Others
 suggestions:
   - People who want to improve code maintainability
-  - People who are not at good at English.
+  - People who are not very good with English.
 ---
 Writing a program in ASCII code was common before.
-Although we can choose UTF-8 in your program and terminal now.
-So, you can write your program in Japanese or other languages.
+However, we can now choose UTF-8 in our program and terminal.
+So, we can write programs in Japanese or other languages.
 
-In this session, I will share the following knowledges I have achieved through programming in Japanese:
-- Benefit or writing in your native language
-- How to implement it using Scala
-- Where you still need English
+In this session, I will share the following knowledge I have gained through programming in Japanese:
+- Benefits of writing in your native language
+- How to implement this using Scala
+- Where you still need to use English
