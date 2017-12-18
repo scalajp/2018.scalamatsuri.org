@@ -6,7 +6,7 @@ audience: Beginner
 language: English
 twitter: leifwickland
 github: leifwickland
-icon: https://static.sched.com/a10/3114660/avatar.jpg.320x320px.jpg?a41
+icon: https://static.sched.com/a10/3114660/avatar.jpg.320x320px.jpg
 organization: "Rubicon Project"
 tags:
   - Tools
