@@ -25,3 +25,6 @@
 - href: "https://www.atware.co.jp/"
   title: atware
   img: "/img/logo/atware.png"
+- href: "https://developer.lightbend.com/"
+  title: lightbend
+  img: "/img/logo/lightbend.svg"
