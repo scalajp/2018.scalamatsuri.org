@@ -6,7 +6,7 @@ audience: Beginner
 language: English
 twitter: rucek
 github: rucek
-icon: https://dl.dropboxusercontent.com/content_link/u5nLS50yVUlCzJCFHCaU18m7vcwBLAQAS4a7IHymGaOQjT5H55z3e8uUSKdRn2Ad/file
+icon: /img/candidates/JacekKunicki.jpg
 organization: SoftwareMill
 tags:
   - Big Data / Fast Data
