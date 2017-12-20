@@ -25,5 +25,5 @@ Since Apache Spark became one of the leading top Apache community project with S
 
 This talk is intent to present :
 - primary data structures (RDD, DataSet, Dataframe) usage in universal large scale data processing with Hbase (Data lake), Hive (Analytical Engine).
-- We will go through importance of physical data split up techniques such as Coleanse, Partition, Repartition in Scaling TB’s of data with ~17 billions of transactional data as a use case / case study.
+- We will go through importance of physical data split up techniques such as Partition, Repartition, Coalesce in Scaling TB’s of data with ~17 billions of transactional data as a use case / case study.
 - Also, We will understand crucial part and very interesting way of understanding parallel & concurrent distributed data processing – tuning memory, cache, Disk I/O, Leaking memory, Internal shuffle, spark executor, spark driver etc.  
