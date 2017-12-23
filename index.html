@@ -142,8 +142,6 @@ layout: null
           </a>
         </li>
       </ul>
-
-
       <div class="mainVisInner">
 				<h1><img src="img/common/img_main_txt.png" alt="ScalaMatsuri 2014" /></h1>
 				<p class="timeData">
@@ -224,7 +222,9 @@ layout: null
 			</div>
 		</section>
 
-		<section class="sectionStyle5">
+    {% include program/section.html program=site.data.program_ja %}
+
+    <section class="sectionStyle5">
 			<header class="sectionHeadArea">
 				<h2 class="clearfix">
 					<span class="ttlSubLCenter">ScalaMatsuri をシェア</span>
