@@ -1,7 +1,8 @@
 {% capture relative_path %}_candidates_ja/{{include.id}}.md{% endcapture %}
 {% for candidate in site.candidates_ja %}
-  {% if candidate.relative_path == relative_path %}
-    <span class="session_title"><a href="javascript:void(0);" onclick="scalamatsuri.displayDescription('{{include.id}}',
+{% if candidate.relative_path == relative_path %}
+<span class="session_id">{{ candidate.session_id }}</span>
+<span class="session_title"><a href="javascript:void(0);" onclick="scalamatsuri.displayDescription('{{include.id}}',
      (function() {/*
 <h1 class='session_title'>{{ candidate.title }}</h1>
 <p>{{ candidate.content }}</p>
@@ -9,9 +10,9 @@
   <dt>トークの長さ</dt>
   <dd>
     {% case candidate.length %}
-    {% when 15 %} 15分
+    {% when 10 %} 10分
     {% when 40 %} 40分
-    {% when 50 %} 50分
+    {% when 90 %} 90分
     {% endcase %}
   </dd>
   <dt>発表言語</dt>
@@ -30,6 +31,12 @@
     {% when 'Advanced' %} 上級者: 分野に精通している人向けでトークでは入門の話は少なめ
     {% endcase %}
   </dd>
+  <dt>こんな人におすすめ</dt>
+  <dd>
+    {% for suggestion in candidate.suggestions %}
+      {{ suggestion }}</br>
+    {% endfor %}
+  </dd>
   <dt>発表者</dt>
   <dd>
     {% if candidate.icon %}
@@ -37,7 +44,7 @@
     {% endif %}
     {{ candidate.name }}
     {% if candidate.organization %}
-    ({{ candidate.organization}})
+    ({{ candidate.organization }})
     {% endif %}
     {% if candidate.twitter %}
     <a class='btn btn-social-icon btn-twitter btn-xs'
@@ -54,21 +61,38 @@
   </dd>
 </dl>
 */}).toString().match(/(\{\/\*)([^]*)(\*\/\})/)[2].replace(/\n|\r/g, ''));">{{ candidate.title }}</a></span>
-    <span class="session_name">
-      {% if candidate.icon %}
-        <img src="{{ candidate.icon }}" class="icon-mini">
-      {% endif %}
-      {{ candidate.name }}
-    </span>
-    {% if candidate.twitter %}
-    <a href="https://twitter.com/{{ candidate.twitter }}">@{{ candidate.twitter }}</a>
-    {% endif %}
-    <span class="session_details">{% if candidate.language == "Japanese" %}J{% elsif candidate.language == "English" %}E{% else %}E/J{% endif %}{% if candidate.audience == "Beginner" %}+{% elsif candidate.audience == "Intermediate" %}++{% else %}+++{% endif %}
-    </span>
-    <div>
-      {% if candidate.youtube %}
-      {% include youtube.html url=candidate.youtube %}
-      {% endif %}
-    </div>
+<span class="session_name">
+  {% if candidate.icon %}
+    <img src="{{ candidate.icon }}" class="icon-mini">
   {% endif %}
+  {{ candidate.name }}
+</span>
+{% if candidate.twitter %}
+<a href="https://twitter.com/{{ candidate.twitter }}">@{{ candidate.twitter }}</a>
+{% endif %}
+<span class="session_details">
+  {% if candidate.language == "Japanese" %}J
+  {% elsif candidate.language == "English" %}E
+  {% else %}E/J
+  {% endif %}
+  {% if candidate.audience == "Beginner" %}+
+  {% elsif candidate.audience == "Intermediate" %}++
+  {% else %}+++
+  {% endif %}
+</span>
+<div>
+  <ul>
+    {% if candidate.slide_url %}
+    <li>
+      <a href="{{ candidate.slide_url }}">slide</a>
+    </li>
+    {% endif %}
+    {% if candidate.youtube %}
+    <li>
+      {% include youtube.html url=candidate.youtube %}
+    </li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
 {% endfor %}

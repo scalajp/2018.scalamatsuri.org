@@ -1,0 +1,501 @@
+section:
+  title: プログラム
+  text: 本カンファレスのセッションについての情報です。
+  back_to_top: プログラムトップへ戻る
+
+schedule:
+  time: 時間
+  template: schedule_ja.html
+
+day0:
+  date: 3月16日 (金曜日)
+  abstract: ScalaMatsuri Training Day
+  rooms:
+    c:
+      name: 会場C<br>トレーニング
+      abbr: 会場C
+    d:
+      name: 会場D<br>トレーニング
+      abbr: 会場D
+    e:
+      name: 会場E<br>OSSハッカソン
+      abbr: 会場E
+  slots:
+    # 0
+    - time: 13:00 - 13:40
+      rooms:
+        c:
+          title: TBD
+        d:
+          title: TBD
+        e:
+          title: TBD
+    # 1
+    - time: 13:40 - 14:00
+      rooms:
+        c:
+          title: 休憩
+    # 2
+    - time: 14:00 - 14:40
+      rooms:
+        c:
+          title: TBD
+        d:
+          title: TBD
+        e:
+          title: TBD
+    # 3
+    - time: 14:40 - 15:00
+      rooms:
+        c:
+          title: 休憩
+    # 4
+    - time: 15:00 - 15:40
+      rooms:
+        c:
+          title: TBD
+        d:
+          title: TBD
+        e:
+          title: TBD
+    # 5
+    - time: 15:40 - 16:00
+      rooms:
+        c:
+          title: 休憩
+    # 6
+    - time: 16:00 - 16:40
+      rooms:
+        c:
+          title: TBD
+        d:
+          title: TBD
+        e:
+          title: TBD
+    # 7
+    - time: 16:40 - 17:00
+      rooms:
+        c:
+          title: 休憩
+    # 8
+    - time: 17:00 - 17:40
+      rooms:
+        c:
+          title: TBD
+        d:
+          title: TBD
+        e:
+          title: TBD
+    # 9
+    - time: 17:40 - 18:00
+      rooms:
+        c:
+          title: 休憩
+
+
+day1:
+  date: 3月17日 (土曜日)
+  abstract: 1日目 カンファレンス形式 (3パラレルセッション) 9時入場開始 20時終了予定。昼食および懇親会での軽食をご用意しています。
+  rooms:
+    a:
+      name: 会場A (400席; 通訳付き)
+      abbr: 会場A
+    b:
+      name: 会場B (100席; 通訳付き)
+      abbr: 会場B
+    c:
+      name: 会場C (100席)
+      abbr: 会場C
+  slots:
+    # 0
+    - time: 9:00 - 9:40
+      rooms:
+        a:
+          title: 受付開始
+    # 1
+    - time: 9:40 - 10:00
+      rooms:
+        a:
+          title: オープニング
+    # 2
+    - time: 10:00 - 10:40
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 3
+    - time: 10:40 - 11:00
+      rooms:
+        a:
+          title: 休憩
+    # 4
+    - time: 11:00 - 11:15
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 5
+    - time: 11:25 - 11:40
+      rooms:
+        a:
+          speacker:
+    # 6
+    - time: 11:40 - 11:50
+      rooms:
+        a:
+          title: 準備
+    # 7
+    - time: 11:50 - 12:05
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 8
+    - time: 12:15 - 12:30
+      rooms:
+        a:
+          speacker:
+    # 9
+    - time: 12:30 - 13:30
+      rooms:
+        a:
+          title: 昼食
+    # 10
+    - time: 13:30 - 14:10
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 11
+    - time: 14:10 - 14:30
+      rooms:
+        a:
+          title: 休憩
+    # 12
+    - time: 14:30 - 15:10
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 13
+    - time: 15:10 - 15:30
+      rooms:
+        a:
+          title: 休憩
+    # 14
+    - time: 15:30 - 16:10
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 15
+    - time: 16:10 - 16:30
+      rooms:
+        a:
+          title: コーヒーブレイク
+    # 16
+    - time: 16:30 - 17:10
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 17
+    - time: 17:10 - 17:30
+      rooms:
+        a:
+          title: 休憩
+    # 18
+    - time: 17:30 - 18:10
+      rooms:
+        a:
+          speacker:
+        b:
+          speacker:
+        c:
+          speacker:
+    # 19
+    - time: 18:10 - 18:30
+      rooms:
+        a:
+          title: 休憩
+    # 20
+    - time: 18:30 - 20:00
+      rooms:
+        a:
+          title: 挨拶 + 懇親会
+
+day2:
+  date: 3月18日 (日曜日)
+  abstract: 2日目 アンカンファレンス形式、ただし会場Bはカンファレンス形式 9時入場開始 17:30時終了予定。朝食と昼食をご用意しています。
+  rooms:
+    a:
+      name: 会場A<br>(400席; 通訳付き)
+      abbr: 会場A
+    b:
+      name: 会場B<br>(100席; 通訳付き)
+      abbr: 会場B
+    c:
+      name: 会場C<br>(100席)
+      abbr: 会場C
+    d:
+      name: 会場D
+      abbr: 会場D
+    e:
+      name: 会場E
+      abbr: 会場E
+    f:
+      name: 会場F
+      abbr: 会場F
+  slots:
+    # 0
+    - time: 9:00 - 10:00
+      rooms:
+        a:
+          title: 朝食
+
+    # 1
+    - time: 10:00 - 11:00
+      rooms:
+        a:
+          title: 朝会 (アンカンファレンスのネタ出し)
+
+    # 2
+    - time: 11:00 - 11:15
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 3
+    - time: 11:25 - 11:40
+      rooms:
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 4
+    - time: 11:40 - 11:50
+      rooms:
+        a:
+          title: 準備
+
+    # 5
+    - time: 11:50 - 12:05
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 6
+    - time: 12:15 - 12:30
+      rooms:
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 7
+    - time: 12:30 - 13:30
+      rooms:
+        a:
+          title: 昼食
+
+    # 8
+    - time: 13:30 - 14:10
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 9
+    - time: 14:10 - 14:30
+      rooms:
+        a:
+          title: 休憩
+
+    # 10
+    - time: 14:30 - 15:10
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 11
+    - time: 15:10 - 15:30
+      rooms:
+        a:
+          title: 休憩
+
+    # 12
+    - time: 15:30 - 16:10
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 13
+    - time: 16:10 - 16:30
+      rooms:
+        a:
+          title: 休憩
+
+    # 14
+    - time: 16:30 - 17:10
+      rooms:
+        a:
+          title: TBD
+          speacker:
+          slide: ""
+        b:
+          title: TBD
+          speacker:
+          slide: ""
+        c:
+          title: TBD
+          speacker:
+          slide: ""
+        d:
+          title: TBD
+          speacker:
+          slide: ""
+        e:
+          title: TBD
+          speacker:
+          slide: ""
+        f:
+          title: TBD
+          speacker:
+          slide: ""
+
+    # 15
+    - time: 17:10 - 17:30
+      rooms:
+        a:
+          title: クロージング + 挨拶

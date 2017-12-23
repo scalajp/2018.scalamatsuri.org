@@ -368,12 +368,16 @@ input, select {
 	padding-bottom:60px;
 }
 
-.progrumTableArea{
+.sectionStyle4 .contTxtArea a{
+  color: #fff;
+}
+
+.programTableArea{
 	width: 1024px;
 	margin:0 auto 0 auto;
 }
 
-.progrumTableArea .btnLeftPg{
+.programTableArea .btnLeftPg{
 	display:block;
 	float:left;
 	line-height:0px;
@@ -381,17 +385,17 @@ input, select {
 	width:50%;
 }
 
-.progrumTableArea .btnrightPg{
+.programTableArea .btnrightPg{
 	display:block;
 	float:left;
 	width:50%;
 }
 
-.progrumTableArea .btnLeftPg img{
+.programTableArea .btnLeftPg img{
 	width:100%;
 }
 
-.progrumTableArea .btnrightPg img{
+.programTableArea .btnrightPg img{
 	width:100%;
 }
 
@@ -399,19 +403,27 @@ input, select {
 	width:100%;
 }
 
+.programDailyTable h3 {
+  padding: 1em;
+  margin-top: 2em;
+}
 
-.progrumTableOutSide{
+.programDailyTable .txtAbstract {
+  padding-top: 0;
+}
+
+.programTableOutSide{
 	background:#fff;
 	clear:both;
 }
 
-.progrumTableOutSide p{
+.programTableOutSide p{
 	font-size:12px;
 	padding:20px;
 	line-height:20px;
 }
 
-.progrumTable{
+.programTable{
 	border-right:solid #d1d1d1 1px;
 	border-bottom:solid #d1d1d1 1px;
 	font-size:12px;
@@ -420,23 +432,39 @@ input, select {
 	margin:0 auto 0 auto;
 }
 
-.progrumTableOutSide{
+.programTableOutSide{
 	padding-bottom:20px;
 }
 
-.progrumTable td{
+.programTable td{
 	border-left:solid #d1d1d1 1px;
 	border-top:solid #d1d1d1 1px;
 	padding:20px;
 }
 
-.progrumTable th{
+.programTable th{
 	border-left:solid #d1d1d1 1px;
 	border-top:solid #d1d1d1 1px;
 	background:#f8f8f8;
 	padding:20px;
 	text-align:left;
 	font-weight:normal;
+}
+
+.programTable .sectionTimeWidth {
+  width: 130px;
+}
+
+.programTable .day0RoomWidth {
+  width: 350px;
+}
+
+.programTable .day1RoomWidth {
+  width: 350px;
+}
+
+.programTable .day2RoomWidth {
+  width: 200px;
 }
 
 .sectionTicket {
@@ -827,6 +855,7 @@ h1.session_title {
 
 #dialog_contents h1 {
 	padding-bottom: 0.4em;
+  line-height: 1.0em;
 }
 
 .w700 {
@@ -888,7 +917,7 @@ h1.session_title {
 		width:100%;
 	}
 
-	.progrumTableArea{
+	.programTableArea{
 		width:100%;
 	}
 }
@@ -911,7 +940,7 @@ h1.session_title {
 
 @media screen and (max-width: 860px){
 
-	.progrumTableArea{
+	.programTableArea{
 		width:100%;
 	}
 
