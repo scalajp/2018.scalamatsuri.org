@@ -9,9 +9,10 @@ github: loicknuchel
 icon: https://avatars0.githubusercontent.com/u/653009?s=460&v=4
 organization: Software engineer at Criteo
 tags:
-- Functional Programming, Best Practices
+  - Functional Programming
+  - Best Practices
 suggestions:
-- 関数型プログラミングの基本をよりよく理解し、コードベースに何をもたらすか知りたい人
+  - 関数型プログラミングの基本をよりよく理解し、コードベースに何をもたらすか知りたい人
 ---
 ５年前、私は関数型プログラミングと恋に落ちました。驚異的なコレクション API によってコード行数が Java に対して１０分の一になる経験をして以来、関数型プログラミングを日々より深く探究しています。
 
