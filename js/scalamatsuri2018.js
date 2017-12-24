@@ -31,38 +31,117 @@ scalamatsuri.displayDescription = function (id, raw) {
 };
 
 $(document).ready(function () {
-  var i, maxRoom = 6;
 
-  function roomClass(i) {
-    var room = String.fromCharCode("A".charCodeAt(0) + i);
-    return ".room" + room;
+  var rooms = [
+    {name: "day0", maxNo: 3, firstRoom: "C"},
+    {name: "day1", maxNo: 3, firstRoom: "A"},
+    {name: "day2", maxNo: 6, firstRoom: "A"}
+  ];
+
+  /**
+   * classを生成する
+   * @param prefix
+   * @param firstRoom
+   * @param roomIndex
+   * @returns {string}
+   */
+  function roomClass(prefix, firstRoom, roomIndex) {
+    // index分roomをshiftする
+    var room = String.fromCharCode(firstRoom.charCodeAt(0) + roomIndex);
+    return "." + prefix + "Room" + room;
   }
 
-  function btnClass(i) {
-    var btn = i + 1;
-    return ".btn" + btn + "space";
+  /**
+   * idを生成する
+   * @param room
+   * @param index
+   * @returns {string}
+   */
+  function makeId(room, index) {
+    return "#" + room.name + "Switch" + (index + 1);
+  }
+
+  /**
+   * 表示
+   * @param room
+   * @param index
+   */
+  function showRoom(room, index) {
+    $(roomClass(room.name, room.firstRoom, index)).show();
+  }
+
+  /**
+   * リセット
+   * @param room
+   */
+  function resetRoom(room) {
+    for (var roomIdx = 0; roomIdx < room.maxNo; roomIdx++) {
+      var resetId = makeId(room, roomIdx);
+
+      $(resetId).toggleClass("onNavLink", false);
+      $(roomClass(room.name, room.firstRoom, roomIdx)).hide();
+    }
   }
 
   $(".gnavSmClick").click(function () {
     $(".smVerGnav").slideToggle();
   });
 
-  for (i = 0; i < maxRoom; i++) {
-    (function (j) {
-      $(btnClass(j)).click(function () {
-        resetTable();
-        $(roomClass(j)).show();
-        $(this).addClass("onNavLink");
-      });
-    })(i);
+  rooms.forEach(function (room) {
+    for (var idx = 0; idx < room.maxNo; idx++) {
+      var id = makeId(room, idx);
+
+      // 各nav linkに即時適用させる必要があるため
+      (function (targetId) {
+        $(targetId)
+          .click(function () {
+            var clickedId = $(this).attr('id');
+
+            var prefix = clickedId.substring(0, 4);
+            var currentIndex = +(clickedId.replace(prefix + 'Switch', '')) - 1;
+
+            var room = rooms
+              .filter(function (room) {
+                return room.name === prefix;
+              })
+              .pop();
+
+            resetRoom(room);
+
+            showRoom(room, currentIndex);
+            $(this).toggleClass("onNavLink");
+          });
+
+      })(id);
+    }
+  });
+
+  function showTables() {
+    rooms.forEach(function (room) {
+      for (var idx = 0; idx < room.maxNo; idx++) {
+        showRoom(room, idx);
+      }
+    });
   }
 
-  function resetTable() {
-    var i;
-    for (i = 0; i < maxRoom; i++) {
-      $(btnClass(i)).removeClass("onNavLink");
-      $(roomClass(i)).hide();
-    }
+  function resetTables() {
+    rooms.forEach(function (room) {
+      resetRoom(room);
+    });
+  }
+
+  function showFirstRoom() {
+    rooms.forEach(function (room) {
+      showRoom(room, 0);
+    });
+  }
+
+  function addOnNavLinkToFirstSwitch() {
+    rooms.forEach(function (room) {
+      var id = makeId(room, 0);
+
+      $(id).toggleClass("onNavLink", true);
+    });
   }
 
   function initSchedule() {
@@ -70,16 +149,17 @@ $(document).ready(function () {
       $('.day0roomswitch').hide();
       $('.day1roomswitch').hide();
       $('.day2roomswitch').hide();
-      for (i = 0; i < maxRoom; i++) {
-        $(roomClass(i)).show();
-      }
+
+      showTables();
     } else {
-      resetTable();
+      resetTables();
+
       $('.day0roomswitch').show();
       $('.day1roomswitch').show();
       $('.day2roomswitch').show();
-      $(".btn1space").addClass("onNavLink");
-      $(".roomA").show();
+
+      addOnNavLinkToFirstSwitch();
+      showFirstRoom();
     }
   }
 
@@ -92,5 +172,6 @@ $(document).ready(function () {
       initSchedule();
     }
   });
+
   initSchedule();
 });
