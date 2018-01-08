@@ -12,7 +12,6 @@ tags:
   - Big Data / Fast Data
   - Tools
   - Data Science / Machine Learning
-  - Others
 suggestions:
   - 処理系に興味がある人
   - Pythonに興味がある人
