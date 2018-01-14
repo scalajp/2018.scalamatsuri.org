@@ -858,6 +858,10 @@ h1.session_title {
   line-height: 1.0em;
 }
 
+#dialog_contents .session_content {
+  margin: 1em 0;
+}
+
 .w700 {
 	width: 700px;
 }
