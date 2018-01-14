@@ -2,10 +2,11 @@
 {% for candidate in site.candidates_ja %}
 {% if candidate.relative_path == relative_path %}
 <span class="session_id">{{ candidate.session_id }}</span>
-<span class="session_title"><a href="javascript:void(0);" onclick="scalamatsuri.displayDescription('{{include.id}}',
+<span class="session_title">
+  <a href="javascript:void(0);" onclick="scalamatsuri.displayDescription('{{include.id}}',
      (function() {/*
 <h1 class='session_title'>{{ candidate.title }}</h1>
-<p>{{ candidate.content }}</p>
+<div class='session_content'>{{ candidate.content | replace: '"','&quot;' }}</div>
 <dl class='dl-horizontal'>
   <dt>トークの長さ</dt>
   <dd>
@@ -34,7 +35,7 @@
   <dt>こんな人におすすめ</dt>
   <dd>
     {% for suggestion in candidate.suggestions %}
-      {{ suggestion }}</br>
+      {{ suggestion | replace: '"','&quot;' }}</br>
     {% endfor %}
   </dd>
   <dt>発表者</dt>
@@ -60,7 +61,8 @@
     {% endif %}
   </dd>
 </dl>
-*/}).toString().match(/(\{\/\*)([^]*)(\*\/\})/)[2].replace(/\n|\r/g, ''));">{{ candidate.title }}</a></span>
+*/}).toString().match(/(\{\/\*)([^]*)(\*\/\})/)[2].replace(/\n|\r/g, ''));">{{ candidate.title }}</a>
+</span>
 <span class="session_name">
   {% if candidate.icon %}
     <img src="{{ candidate.icon }}" class="icon-mini">
