@@ -6,8 +6,8 @@
   title: 活动资讯
 # - href: "/#gues"
 #   title: 招待講演者
-# - href: "/index_zh-cn.html#schedule"
-#   title: Schedule
+- href: "/index_zh-cn.html#schedule"
+  title: Schedule
 - href: "/index_zh-cn.html#tickets"
   title: 票务资讯
 - href: "/index_zh-cn.html#sp"
