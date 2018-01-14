@@ -25,11 +25,11 @@ day0:
     - time: 13:00 - 13:40
       rooms:
         c:
-          title: TBD
+          title: Scala入門ハンズオン
         d:
-          title: TBD
+          title: Scala myth basters
         e:
-          title: TBD
+          title:
     # 1
     - time: 13:40 - 14:00
       rooms:
@@ -39,11 +39,11 @@ day0:
     - time: 14:00 - 14:40
       rooms:
         c:
-          title: TBD
+          title: Scala入門ハンズオン
         d:
-          title: TBD
+          title: Scalaで分散アーキテクチャ
         e:
-          title: TBD
+          title: OSS hackathon
     # 3
     - time: 14:40 - 15:00
       rooms:
@@ -53,11 +53,11 @@ day0:
     - time: 15:00 - 15:40
       rooms:
         c:
-          title: TBD
+          title: Scala入門ハンズオン
         d:
-          title: TBD
+          title: ScalaでBig Data
         e:
-          title: TBD
+          title: OSS hackathon
     # 5
     - time: 15:40 - 16:00
       rooms:
@@ -67,11 +67,11 @@ day0:
     - time: 16:00 - 16:40
       rooms:
         c:
-          title: TBD
+          title: IntelliJ ハンズオン
         d:
-          title: TBD
+          title: Implicit / 型クラス入門
         e:
-          title: TBD
+          title: OSS hackathon
     # 7
     - time: 16:40 - 17:00
       rooms:
@@ -81,11 +81,11 @@ day0:
     - time: 17:00 - 17:40
       rooms:
         c:
-          title: TBD
+          title: IntelliJ ハンズオン
         d:
-          title: TBD
+          title: CTO座談会
         e:
-          title: TBD
+          title: OSS hackathon
     # 9
     - time: 17:40 - 18:00
       rooms:
@@ -108,7 +108,7 @@ day1:
       abbr: 会場C
   slots:
     # 0
-    - time: 9:00 - 9:40
+    - time: 9:00 - 9:50
       rooms:
         a:
           title: 受付開始
@@ -121,133 +121,152 @@ day1:
     - time: 10:00 - 10:40
       rooms:
         a:
-          speacker:
+          speaker: ManabuNakamura_1
         b:
-          speacker:
+          speaker: NaokiAoyama_1
         c:
-          speacker:
+          speaker: TorigoeTakatomo_1
     # 3
     - time: 10:40 - 11:00
       rooms:
         a:
           title: 休憩
     # 4
-    - time: 11:00 - 11:15
+    - time: 11:00 - 11:40
       rooms:
         a:
-          speacker:
+          speaker: MartinThompson_1
         b:
-          speacker:
+          speaker: JakubKozlowski_1
         c:
-          speacker:
+          speaker: TaisukeOe_1
     # 5
-    - time: 11:25 - 11:40
+    - time: 11:40 - 12:00
       rooms:
         a:
-          speacker:
+          title: 休憩
     # 6
-    - time: 11:40 - 11:50
+    - time: 12:00 - 12:40
       rooms:
         a:
-          title: 準備
+          speaker: JohnADeGoes_1
+        b:
+          speaker: BhavyaAggarwal_1
+        c:
+          speaker: EugeneYokota_1
     # 7
-    - time: 11:50 - 12:05
+    - time: 12:40 - 13:40
       rooms:
         a:
-          speacker:
+          title: ランチ
         b:
-          speacker:
+          title: ランチ
         c:
-          speacker:
+          title: ランチ
     # 8
-    - time: 12:15 - 12:30
+    - time: 12:50 - 13:00
       rooms:
         a:
-          speacker:
+          speaker: YoshiakiShibutani_2
     # 9
-    - time: 12:30 - 13:30
+    - time: 13:00 - 13:05
       rooms:
         a:
-          title: 昼食
+          title: 休憩
     # 10
-    - time: 13:30 - 14:10
+    - time: 13:05 - 13:15
       rooms:
         a:
-          speacker:
-        b:
-          speacker:
-        c:
-          speacker:
+          speaker: Jooohn1234_1
     # 11
-    - time: 14:10 - 14:30
+    - time: 13:15 - 13:20
       rooms:
         a:
           title: 休憩
     # 12
-    - time: 14:30 - 15:10
+    - time: 13:20 - 13:30
       rooms:
         a:
-          speacker:
-        b:
-          speacker:
-        c:
-          speacker:
+          speaker: KotaroTanahashi_YoshihitoHotta_1
     # 13
-    - time: 15:10 - 15:30
+    - time: 13:30 - 13:40
       rooms:
         a:
           title: 休憩
     # 14
-    - time: 15:30 - 16:10
+    - time: 13:40 - 14:20
       rooms:
         a:
-          speacker:
+          speaker: DanielaSfregola_2
         b:
-          speacker:
+          speaker: TakeshiItoh_1
         c:
-          speacker:
+          speaker: KotaMizushima_1
     # 15
-    - time: 16:10 - 16:30
+    - time: 14:20 - 14:30
       rooms:
         a:
-          title: コーヒーブレイク
+          title: 休憩
     # 16
-    - time: 16:30 - 17:10
+    - time: 14:30 - 15:10
       rooms:
-        a:
-          speacker:
+#        a:
+#          speaker:
         b:
-          speacker:
+          speaker: AnilWadghule_1
         c:
-          speacker:
+          speaker: CheshireCat_1
     # 17
-    - time: 17:10 - 17:30
+    - time: 15:10 - 15:30
       rooms:
         a:
           title: 休憩
     # 18
-    - time: 17:30 - 18:10
+    - time: 15:30 - 16:10
       rooms:
         a:
-          speacker:
+          speaker: KazuhiroSera_1
         b:
-          speacker:
+          speaker: DaisukeKasuya_1
         c:
-          speacker:
+          speaker: ToshiyukiTakahashi_1
     # 19
-    - time: 18:10 - 18:30
+    - time: 16:10 - 16:30
       rooms:
         a:
           title: 休憩
     # 20
-    - time: 18:30 - 20:00
+    - time: 16:30 - 17:10
+      rooms:
+        a:
+          speaker: GabrielePetronella_2
+        b:
+          speaker: JorgeSanchez_1
+        c:
+          speaker: YoshiteruTakeshita_1
+    # 21
+    - time: 17:10 - 17:30
+      rooms:
+        a:
+          title: 休憩
+    # 22
+    - time: 17:30 - 18:10
+      rooms:
+        a:
+          speaker: JunichiKato_1
+        b:
+          speaker: MarcinMatuszak_1
+        c:
+          speaker: Halcat_1
+    # 23
+    - time: 18:10 - 20:00
       rooms:
         a:
           title: 挨拶 + 懇親会
 
 day2:
   date: 3月18日 (日曜日)
-  abstract: 2日目 アンカンファレンス形式、ただし会場Bはカンファレンス形式 9時入場開始 17:30時終了予定。朝食と昼食をご用意しています。
+  abstract: 2日目 アンカンファレンス形式、ただし会場Cはカンファレンス形式 9時入場開始 18:00時終了予定。朝食と昼食をご用意しています。
   rooms:
     a:
       name: 会場A<br>(400席; 通訳付き)
@@ -281,221 +300,235 @@ day2:
           title: 朝会 (アンカンファレンスのネタ出し)
 
     # 2
-    - time: 11:00 - 11:15
+    - time: 11:00 - 11:40
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         c:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
 
     # 3
-    - time: 11:25 - 11:40
+    - time: 11:40 - 12:00
       rooms:
-        b:
-          title: TBD
-          speacker:
-          slide: ""
+        a:
+          title: 休憩
 
     # 4
-    - time: 11:40 - 11:50
-      rooms:
-        a:
-          title: 準備
-
-    # 5
-    - time: 11:50 - 12:05
+    - time: 12:00 - 12:40
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         c:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
 
-    # 6
-    - time: 12:15 - 12:30
-      rooms:
-        b:
-          title: TBD
-          speacker:
-          slide: ""
-
-    # 7
-    - time: 12:30 - 13:30
+    # 5
+    - time: 12:40 - 13:10
       rooms:
         a:
           title: 昼食
 
-    # 8
-    - time: 13:30 - 14:10
+    # 6
+    - time: 13:10 - 13:50
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         c:
-          title: TBD
-          speacker:
-          slide: ""
+          speaker: YoheiTSUJI_1
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
+          slide: ""
+
+    # 7
+    - time: 13:50 - 14:00
+      rooms:
+        a:
+          title: 休憩
+
+    # 8
+    - time: 14:00 - 14:40
+      rooms:
+        a:
+          title: TBD
+          speaker:
+          slide: ""
+        b:
+          title: TBD
+          speaker:
+          slide: ""
+#        c:
+#          title: TBD
+#          speaker:
+#          slide: ""
+        d:
+          title: TBD
+          speaker:
+          slide: ""
+        e:
+          title: TBD
+          speaker:
+          slide: ""
+        f:
+          title: TBD
+          speaker:
           slide: ""
 
     # 9
-    - time: 14:10 - 14:30
+    - time: 14:40 - 15:00
       rooms:
         a:
           title: 休憩
 
     # 10
-    - time: 14:30 - 15:10
+    - time: 15:00 - 15:40
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         c:
-          title: TBD
-          speacker:
-          slide: ""
+          speaker: YugoMaede_1
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
 
     # 11
-    - time: 15:10 - 15:30
+    - time: 15:40 - 16:00
       rooms:
         a:
           title: 休憩
 
     # 12
-    - time: 15:30 - 16:10
+    - time: 16:00 - 16:40
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
-        c:
-          title: TBD
-          speacker:
-          slide: ""
+#        c:
+#          title: TBD
+#          speaker:
+#          slide: ""
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
 
     # 13
-    - time: 16:10 - 16:30
+    - time: 16:40 - 17:00
       rooms:
         a:
           title: 休憩
 
     # 14
-    - time: 16:30 - 17:10
+    - time: 17:00 - 17:40
       rooms:
         a:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         b:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         c:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         d:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         e:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
         f:
           title: TBD
-          speacker:
+          speaker:
           slide: ""
 
     # 15
-    - time: 17:10 - 17:30
+    - time: 17:40 - 18:00
       rooms:
         a:
           title: クロージング + 挨拶
