@@ -871,6 +871,11 @@ h1.session_title {
 	padding-top: 20px;
 }
 
+.utageLogo {
+  width: 200px;
+  height: 70px;
+}
+
 @media screen and (max-width: 1024px){
 
 	.snsBtnArea{
