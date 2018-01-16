@@ -108,7 +108,7 @@ day1:
       abbr: Room C
   slots:
     # 0
-    - time: 9:00 - 9:50
+    - time: 9:00 - 9:40
       rooms:
         a:
           title: Registration open
