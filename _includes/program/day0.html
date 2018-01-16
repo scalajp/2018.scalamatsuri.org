@@ -117,8 +117,8 @@
         {% include {{template}} id=speaker %}
       </td>
       <td class="day0RoomD">
-        {% capture speaker %}{{ day0.slots[9].rooms.d.speaker }}{% endcapture %}
-        {% include {{template}} id=speaker %}
+        {% capture title %}{{ day0.slots[9].rooms.d.title }}{% endcapture %}
+        {% include program/slot.html title=title %}
       </td>
       <td class="day0RoomE">
         {% capture title %}{{ day0.slots[9].rooms.e.title }}{% endcapture %}
