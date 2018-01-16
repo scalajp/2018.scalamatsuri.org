@@ -4,9 +4,9 @@ title: "逆引き！Scala x ビッグデータ"
 length: 40
 audience: Beginner
 language: Japanese
-twitter:
+twitter: iyunoriue
 github:
-icon:
+icon: https://pbs.twimg.com/profile_images/530298842156003328/10bY4mf8_400x400.png
 organization: 株式会社サイバーエージェント
 tags:
 suggestions:

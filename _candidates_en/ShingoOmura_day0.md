@@ -4,9 +4,9 @@ title: "Akkaで分散システム入門"
 length: 40
 audience: Beginner
 language: Japanese
-twitter:
-github:
-icon:
+twitter: everpeace
+github: everpeace
+icon: https://pbs.twimg.com/profile_images/631722419829403649/HSESxALp_400x400.png
 organization: Preferred Networks
 tags:
 suggestions:
