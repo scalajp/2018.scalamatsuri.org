@@ -48,7 +48,7 @@ day0:
         d:
           speaker: ShingoOmura_day0
         e:
-          title: OSS hackathon
+          title:
     # 4
     - time: 15:10 - 15:30
       rooms:
@@ -62,7 +62,7 @@ day0:
         d:
           speaker: YuriInoue_day0
         e:
-          title: OSS hackathon
+          title:
     # 6
     - time: 16:10 - 16:30
       rooms:
@@ -76,7 +76,7 @@ day0:
         d:
           speaker: ManabuNakamura_day0
         e:
-          title: OSS hackathon
+          title:
     # 8
     - time: 17:10 - 17:40
       rooms:
@@ -90,7 +90,7 @@ day0:
         d:
           title: CTO座談会
         e:
-          title: OSS hackathon
+          title:
 
 
 day1:
