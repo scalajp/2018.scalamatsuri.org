@@ -62,11 +62,11 @@
         {% capture speaker %}{{ day1.slots[4].rooms.a.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
-      <td class="day1RoomB" >
+      <td class="day1RoomB">
         {% capture speaker %}{{ day1.slots[4].rooms.b.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
-      <td class="day1RoomC" >
+      <td class="day1RoomC">
         {% capture speaker %}{{ day1.slots[4].rooms.c.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
@@ -83,11 +83,11 @@
         {% capture speaker %}{{ day1.slots[6].rooms.a.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
-      <td class="day1RoomB" >
+      <td class="day1RoomB">
         {% capture speaker %}{{ day1.slots[6].rooms.b.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
-      <td class="day1RoomC" >
+      <td class="day1RoomC">
         {% capture speaker %}{{ day1.slots[6].rooms.c.speaker }}{% endcapture %}
         {% include {{template}} id=speaker %}
       </td>
@@ -95,9 +95,9 @@
     <!--slot7-->
     <tr>
       <th>{{ day1.slots[7].time }}</th>
-      <td >{{ day1.slots[7].rooms.a.title }}</td>
-      <td rowspan="7">{{ day1.slots[7].rooms.b.title }}</td>
-      <td rowspan="7">{{ day1.slots[7].rooms.c.title }}</td>
+      <td class="day1RoomA">{{ day1.slots[7].rooms.a.title }}</td>
+      <td class="day1RoomB" rowspan="7">{{ day1.slots[7].rooms.b.title }}</td>
+      <td class="day1RoomC" rowspan="7">{{ day1.slots[7].rooms.c.title }}</td>
     </tr>
     <!--slot8-->
     <tr>
@@ -110,7 +110,7 @@
     <!-- slot9 -->
     <tr>
       <th>{{ day1.slots[9].time }}</th>
-      <td >{{ day1.slots[9].rooms.a.title }}</td>
+      <td class="day1RoomA">{{ day1.slots[9].rooms.a.title }}</td>
     </tr>
     <!--slot10-->
     <tr>
@@ -123,7 +123,7 @@
     <!-- slot11 -->
     <tr>
       <th>{{ day1.slots[11].time }}</th>
-      <td >{{ day1.slots[11].rooms.a.title }}</td>
+      <td class="day1RoomA">{{ day1.slots[11].rooms.a.title }}</td>
     </tr>
     <!--slot12-->
     <tr>
@@ -136,7 +136,7 @@
     <!-- slot13 -->
     <tr>
       <th>{{ day1.slots[13].time }}</th>
-      <td >{{ day1.slots[13].rooms.a.title }}</td>
+      <td class="day1RoomA">{{ day1.slots[13].rooms.a.title }}</td>
     </tr>
     <!--slot14-->
     <tr>
@@ -157,14 +157,14 @@
     <!-- slot15 -->
     <tr>
       <th>{{ day1.slots[15].time }}</th>
-      <td colspan="2">{{ day1.slots[15].rooms.a.title }}</td>
+      <td class="day1RoomB" colspan="2">{{ day1.slots[15].rooms.a.title }}</td>
     </tr>
     <!--slot16-->
     <tr>
       <th>{{ day1.slots[16].time }}</th>
       <!--<td class="day1RoomA">-->
-        <!--{% capture speaker %}{{ day1.slots[16].rooms.a.speaker }}{% endcapture %}-->
-        <!--{% include {{template}} id=speaker %}-->
+      <!--{% capture speaker %}{{ day1.slots[16].rooms.a.speaker }}{% endcapture %}-->
+      <!--{% include {{template}} id=speaker %}-->
       <!--</td>-->
       <td class="day1RoomB">
         {% capture speaker %}{{ day1.slots[16].rooms.b.speaker }}{% endcapture %}
@@ -242,10 +242,11 @@
     <tr>
       <th>{{ day1.slots[23].time }}</th>
       <td colspan="3">
-	      {{ day1.slots[23].rooms.a.title }}
-	      <br/>
-	      <a href="https://www.opt.ne.jp/opttechnologies/"><img width="200px" height="70px" src="img/logo/opt.png"/></a>
-	      <a href="https://www.st-komuten.jp/"><img width="200px" height="70px" src="img/logo/st-komuten.png"/></a>
+        <p>{{ day1.slots[23].rooms.a.title }}</p>
+        <div>
+          <a href="https://www.opt.ne.jp/opttechnologies/"><img class="utageLogo" src="/img/logo/opt.png"/></a>
+          <a href="https://www.st-komuten.jp/"><img class="utageLogo" src="/img/logo/st-komuten.png"/></a>
+        </div>
       </td>
     </tr>
   </table>
