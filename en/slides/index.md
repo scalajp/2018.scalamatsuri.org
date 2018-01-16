@@ -21,7 +21,8 @@ Like the above sample decks, please create a black text box to fit **2 lines** i
 ## Submit your slides
 
 Please submit your slide decks by February 18th to cfp2018@scalamatsuri.org .
-
+Please send it as PowerPoint, Google slide show, or Keynote format. 
+We recommend 4:3 aspect, but also 16:9 OK.
 
 ScalaMatsuri staff will provide the translation, and also check for Code of Conduct compliance.
 Since the translation will be done based on text, if you could submit a text file with all the texts along with your slide deck, it will be appreciated (like a lot)!

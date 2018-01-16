@@ -7,7 +7,6 @@ title: 発表資料について
 アジア最大規模の Scala イベントとして、ScalaMatsuri を日本国内からの参加者だけでなく海外からの参加者も楽しめるイベントにしたいと思っています。そのため、日本語の発表資料には英語の字幕を。英語の発表資料には日本語の字幕をお願いしています。
 もちろん、英語/日本語に不安のある方にはこちらで翻訳のチェックやサポートを行いますのでご安心下さい。
 
-# 字幕の付け方
 
 - [Apache Spark を用いた Big Data パイプラインの統一](http://www.slideshare.net/scalaconfjp/building-a-unified-data-pipline-in-spark)
 - [The Evolution of Scala / Scala進化論](http://www.slideshare.net/scalaconfjp/the-evolution-of-scala-scala)
@@ -20,7 +19,7 @@ title: 発表資料について
 
 ## 発表資料の提出
 
-発表資料は **2/18** までに cfp2018@scalamatsuri.org 提出して下さい。
+発表資料は **2/18** までに cfp2018@scalamatsuri.org へ提出して下さい。
 提出の形式は、PowerPoint,Google スライドショー、Keynoteのいずれかでお願いします。
 画面の比率は4:3が望ましいですが、16:9でも大丈夫です。
 
