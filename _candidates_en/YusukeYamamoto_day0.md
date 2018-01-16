@@ -1,7 +1,7 @@
 ---
 name: 山本裕介
 title: "IntelliJハンズオン"
-length: 120
+length: 40
 audience: Beginner
 language: Japanese
 twitter: yusuke
