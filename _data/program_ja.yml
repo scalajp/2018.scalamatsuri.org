@@ -18,7 +18,7 @@ day0:
       name: 会場D<br>トレーニング
       abbr: 会場D
     e:
-      name: 会場E<br>OSSハッカソン
+      name: 会場E
       abbr: 会場E
   slots:
     # 0
