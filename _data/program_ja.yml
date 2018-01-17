@@ -155,10 +155,10 @@ day1:
         c:
           speaker: EugeneYokota_1
     # 7
-    - time: 12:40 - 13:40
+    - time: 12:40 - 12:50
       rooms:
         a:
-          title: 準備
+          title: 休憩
         b:
           title: ランチ
         c:
