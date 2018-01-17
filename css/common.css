@@ -482,7 +482,7 @@ input, select {
   font-size: 20px;
 }
 
-.sectionTicket .txtBlock {
+.sectionTicketInner .txtBlock {
   margin-bottom: 40px;
   line-height: 28px;
 }
@@ -606,6 +606,13 @@ input, select {
 
 .sectionStyleDay0 h3 {
   text-align: center;
+}
+
+.sectionStyleDay0 .sectionTicketInner {
+  margin: 0 auto;
+  padding-bottom: 40px;
+  text-align: center;
+  padding-top: 40px;
 }
 
 .spLv2{
