@@ -25,7 +25,7 @@ ScalaMatsuri staff will provide the translation, and also check for Code of Cond
 Since the translation will be done based on text, if you could submit a text file with all the texts along with your slide deck, it will be appreciated (like a lot)!
 The slide deck will also be submitted to the interpreters.
 If you send it as PowerPoint, Google slide show, or Keynote format, we put/fix "subtitles" directly. Otherwise, we send you a translated/fixed text file, so you put/fix by yourself.
-We recommend 4:3 aspect rasio, but also 16:9 OK.
+We recommend 4:3 aspect ratio, but also 16:9 OK.
 
 If you have any changes by then, feel free to submit the new deck along with the change description such as "changed the text on page 3." Any changes after February 10th will be at your own risk.
 
