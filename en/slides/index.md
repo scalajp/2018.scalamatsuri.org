@@ -5,8 +5,7 @@ title: Your presentation deck
 # Subtitles on your presentation deck
 
 We want to make it a fun event for both the Japanese audience and those visiting Japan from overseas.
-So please put "subtitles" to the slides in Japanese if you can.If you not, don't worry. The ScalaMatsuri staff will provide the translation.
-もし可能ならば、スライドに日本語の字幕を入れて下さい。日本語がわからない場合でも、スタッフが翻訳をします。
+Please leave a room on the bottom of each slide so we can put subtitles in your sides. The ScalaMatsuri staff will provide the translation.
 
 # How to put "subtitles"
 
