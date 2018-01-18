@@ -58,3 +58,5 @@ plans:
 doorkeeper:
   event:
     id: 66684
+  day0:
+    id: 69370
