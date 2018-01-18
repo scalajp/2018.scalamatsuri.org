@@ -22,7 +22,7 @@ Like the above sample decks, please create a black text box to fit **2 lines** i
 Please submit your slide decks by February 18th to cfp2018@scalamatsuri.org .
 
 ScalaMatsuri staff will provide the translation, and also check for Code of Conduct compliance.
-Since the translation will be done based on text, if you could submit a text file with all the texts along with your slide deck, it will be appreciated (like a lot)!
+Since the translation will be done based on text, if you could please submit a text file with all the texts along with your slide deck, it would be most appreciated (like a lot)!
 The slide deck will also be submitted to the interpreters.
 If you send it as PowerPoint, Google slide show, or Keynote format, we put/fix "subtitles" directly. Otherwise, we send you a translated/fixed text file, so you put/fix by yourself.
 We recommend 4:3 aspect ratio, but also 16:9 OK.
