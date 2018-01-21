@@ -155,7 +155,7 @@ day1:
         c:
           speaker: EugeneYokota_1
     # 7
-    - time: 12:50 - 14:00
+    - time: 12:50 - 13:00
       rooms:
         a:
           title: 休憩
