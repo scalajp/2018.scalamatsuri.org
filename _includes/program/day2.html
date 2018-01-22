@@ -52,9 +52,8 @@
         {% include program/slot.html title=title speaker=speaker %}
       </td>
       <td class="day2RoomB" >
-        {% capture title %}{{ day2.slots[2].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% include {{template}} id=speaker %}
       </td>
       <td class="day2RoomC" >
         {% capture title %}{{ day2.slots[2].rooms.c.title }}{% endcapture %}
@@ -91,14 +90,12 @@
         {% include program/slot.html title=title speaker=speaker %}
       </td>
       <td class="day2RoomB" >
-        {% capture title %}{{ day2.slots[4].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% include {{template}} id=speaker %}
       </td>
       <td class="day2RoomC" >
-        {% capture title %}{{ day2.slots[4].rooms.c.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.c.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% include {{template}} id=speaker %}
       </td>
       <td class="day2RoomD" >
         {% capture title %}{{ day2.slots[4].rooms.d.title }}{% endcapture %}

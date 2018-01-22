@@ -225,24 +225,8 @@
     <!--slot22-->
     <tr>
       <th>{{ day1.slots[22].time }}</th>
-      <td class="day1RoomA">
-        {% capture speaker %}{{ day1.slots[22].rooms.a.speaker }}{% endcapture %}
-        {% include {{template}} id=speaker %}
-      </td>
-      <td class="day1RoomB">
-        {% capture speaker %}{{ day1.slots[22].rooms.b.speaker }}{% endcapture %}
-        {% include {{template}} id=speaker %}
-      </td>
-      <td class="day1RoomC">
-        {% capture speaker %}{{ day1.slots[22].rooms.c.speaker }}{% endcapture %}
-        {% include {{template}} id=speaker %}
-      </td>
-    </tr>
-    <!-- slot23 -->
-    <tr>
-      <th>{{ day1.slots[23].time }}</th>
       <td colspan="3">
-        <p>{{ day1.slots[23].rooms.a.title }}</p>
+        <p>{{ day1.slots[22].rooms.a.title }}</p>
         <div>
           <a href="https://www.opt.ne.jp/opttechnologies/"><img class="utageLogo" src="/img/logo/opt.png"/></a>
           <a href="https://www.st-komuten.jp/"><img class="utageLogo" src="/img/logo/st-komuten.png"/></a>
