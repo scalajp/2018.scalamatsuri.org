@@ -258,6 +258,8 @@ day1:
 day2:
   date: 3月18日 (日曜日)
   abstract: 2日目 アンカンファレンス形式、ただし会場Cはカンファレンス形式 9時入場開始 18:00時終了予定。朝食と昼食をご用意しています。
+  about: アンカンファレンスとは?
+  explanation: /ja/unconference/
   rooms:
     a:
       name: 会場A<br>(400席; 通訳付き)

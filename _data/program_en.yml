@@ -261,6 +261,8 @@ day2:
     Day 2 will be in unconference format, except for Room C.
     Doors open at 9:00, and scheduled to end at 18:00.
     Breakfast and lunch will be served.
+  about: What is unconference?
+  explanation: /ja/unconference/
   rooms:
     a:
       name: Room A<br>(400 seats; live interpreters)
