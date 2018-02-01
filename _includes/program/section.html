@@ -21,6 +21,11 @@
         </a>
       </p>
       <p>
+        <a href="#utage">
+          <i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp;{{ include.program.schedule.party.title }}
+        </a>
+      </p>
+      <p>
         <a href="#day2">
           <i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp;{{ include.program.day2.date }}
         </a>
@@ -49,6 +54,8 @@
           </a>
         </p>
       </div>
+
+      {% include program/utage.html %}
 
       {% include program/day2.html %}
 

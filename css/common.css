@@ -615,6 +615,47 @@ input, select {
   padding-top: 40px;
 }
 
+.sectionUtage {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.sectionUtage .sectionHeadArea {
+  padding-top: 40px;
+}
+
+.sectionUtage h3 {
+  color: black;
+}
+
+.sectionUtage h4 {
+  color: black;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.sectionUtage .subTtlSm {
+  color: black;
+  padding-bottom: 15px;
+}
+
+.sectionUtage ul li {
+  width: 48%;
+  margin-right: 1%;
+  margin-left: 1%;
+  margin-top: 20px;
+  float: left;
+}
+
+.sectionUtage .utagePanelBody {
+  text-align: center;
+}
+
+.sectionUtage .utagePanelBody p {
+  padding: 0.5em 0;
+}
+
 .spLv2{
 	background:#d84c4c!important;
 }
@@ -985,6 +1026,11 @@ h1.session_title {
     margin: 0 auto 0 auto;
   }
 
+  .sectionUtage ul li {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 }
 
 @media screen and (min-width: 700px) {
