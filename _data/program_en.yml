@@ -6,6 +6,13 @@ section:
 schedule:
   time: Time
   template: schedule_en.html
+  party:
+    title: party
+    sponsor: Utage sponsor
+    venue: venue
+    conference: Conference venue
+    seagull: Sky Restaurant SEAGULL
+    description: Party sponsored by Utage sponsors
 
 day0:
   date: Friday, March 16th

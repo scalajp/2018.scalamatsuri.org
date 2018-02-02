@@ -6,6 +6,13 @@ section:
 schedule:
   time: 時間
   template: schedule_ja.html
+  party:
+    title: 懇親会
+    sponsor: 宴スポンサー
+    venue: 会場
+    conference: カンファレンス会場
+    seagull: スカイレストラン「シーガル」
+    description: 宴スポンサー協賛による懇親会
 
 day0:
   date: 3月16日 (金曜日)
