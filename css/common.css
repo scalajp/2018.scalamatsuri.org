@@ -412,6 +412,11 @@ input, select {
   padding-top: 0;
 }
 
+.programDailyTable .txtUnconference {
+  padding-top: 0;
+  font-size: 1em;
+}
+
 .programTableOutSide{
 	background:#fff;
 	clear:both;
