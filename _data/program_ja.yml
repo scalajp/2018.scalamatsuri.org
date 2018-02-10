@@ -85,12 +85,12 @@ day0:
         e:
           title:
     # 8
-    - time: 17:10 - 17:40
+    - time: 17:10 - 17:30
       rooms:
         c:
           title: 休憩
     # 9
-    - time: 17:40 - 18:10
+    - time: 17:30 - 18:10
       rooms:
         d:
           speaker: YusukeYamamoto_day0
