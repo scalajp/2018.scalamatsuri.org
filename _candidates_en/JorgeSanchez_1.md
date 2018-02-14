@@ -7,7 +7,7 @@ language: English
 twitter: Jorgesg1986
 github: Flowcont
 icon: https://vignette.wikia.nocookie.net/ghostintheshell/images/f/fe/Laughing_man.svg/revision/latest/scale-to-width-down/300?cb=20100909044445&path-prefix=en
-organization: Big Data Engineer - Betsson Group
+organization: Big Data Engineer
 tags:
   - Big Data / Fast Data
   - Functional Programming
