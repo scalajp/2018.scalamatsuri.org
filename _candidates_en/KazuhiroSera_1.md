@@ -6,7 +6,7 @@ audience: Intermediate
 language: English
 twitter: seratch
 github: seratch
-icon: https://pbs.twimg.com/profile_images/795070591313186816/gzv01T2E_400x400.jpg
+icon: https://pbs.twimg.com/profile_images/957160792117338113/G8p-lIHN_400x400.jpg
 organization: 
 tags:
   - Best Practices
