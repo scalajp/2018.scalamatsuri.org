@@ -102,7 +102,7 @@ day0:
 
 day1:
   date: Saturday, March 17th
-  abstract: Day 1 is in conference format (3 parallel sessions). Doors open at 9:00, scheduled to end at 20:00. Lunch and light refreshment will be served at the party.
+  abstract: Day 1 is in conference format (3 parallel sessions). Doors open at 9:20, scheduled to end at 20:00. Lunch and light refreshment will be served at the party.
   rooms:
     a:
       name: Room A (400 seats; live interpreters)
@@ -115,7 +115,7 @@ day1:
       abbr: Room C
   slots:
     # 0
-    - time: 9:00 - 9:50
+    - time: 9:20 - 9:50
       rooms:
         a:
           title: Registration open
