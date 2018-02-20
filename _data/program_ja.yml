@@ -156,7 +156,7 @@ day1:
     - time: 12:10 - 12:50
       rooms:
         a:
-          speaker: JohnADeGoes_1
+          speaker: GabrielePetronella_2
         b:
           speaker: BhavyaAggarwal_1
         c:
@@ -307,7 +307,9 @@ day2:
           speaker:
           slide: ""
         b:
-          speaker: GabrielePetronella_2
+          title: TBD
+          speaker:
+          slide: ""
         c:
           title: TBD
           speaker:
