@@ -1,6 +1,6 @@
 ---
 name: 棚橋 耕太郎, 堀田義仁
-title: "Scalaによる量子アニーリングマシン専用言語(DSL)の開発"
+title: "Recursive Schemeを用いた量子アニーリングマシン専用言語(DSL)の開発"
 length: 10
 audience: Intermediate
 language: Japanese

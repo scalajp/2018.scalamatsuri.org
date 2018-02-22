@@ -1,6 +1,6 @@
 ---
 name: Kotaro Tanahashi, Yoshihito Hotta
-title: "Development of Scala-based DSL for Quantum Annealing"
+title: "Development of DSL for Quantum Annealing with Recursive Scheme"
 length: 10
 audience: Intermediate
 language: Japanese
