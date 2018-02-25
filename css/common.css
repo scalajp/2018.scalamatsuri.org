@@ -744,6 +744,9 @@ input, select {
 	line-height: 28px;
 }
 
+.bold {
+  font-weight: bold;
+}
 
 .navLinks ul li{
 	width:33.3%;
