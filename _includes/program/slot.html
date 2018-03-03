@@ -1,7 +1,5 @@
 {% assign title = include.title  %}
 {% assign speaker = include.speaker  %}
 
-<p>
-  {{ title }}
-  {% if speaker.size > 0 %}&nbsp;-&nbsp;{{ speaker }}{% endif %}
-</p>
+{{ title }}
+{% if speaker.size > 0 %}&nbsp;-&nbsp;{{ speaker }}{% endif %}
