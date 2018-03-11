@@ -79,7 +79,7 @@ day0:
     - time: 16:30 - 17:10
       rooms:
         d:
-          speaker: YusukeYamamoto_day0
+          title:
         c:
           speaker: ManabuNakamura_day0
         e:
@@ -93,7 +93,7 @@ day0:
     - time: 17:30 - 18:10
       rooms:
         d:
-          speaker: YusukeYamamoto_day0
+          title:
         c:
           title: CTO座談会
         e:
