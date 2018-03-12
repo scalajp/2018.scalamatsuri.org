@@ -266,7 +266,7 @@ day2:
   date: Sunday, March 18th
   abstract: |
     Day 2 will be in unconference format, except for Room C.
-    Doors open at 9:00, and scheduled to end at 18:00.
+    Doors open at 9:20, and scheduled to end at 18:00.
     Breakfast and lunch will be served.
   about: What is unconference?
   explanation: /ja/unconference/
@@ -291,7 +291,7 @@ day2:
       abbr: Room F
   slots:
     # 0
-    - time: 9:00 - 10:00
+    - time: 9:20 - 10:00
       rooms:
         a:
           title: Breakfast
