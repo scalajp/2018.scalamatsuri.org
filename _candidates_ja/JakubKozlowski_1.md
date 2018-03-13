@@ -1,6 +1,6 @@
 ---
 name: Jakub Kozłowski
-title: "熟成されたレガシーコード"
+title: "1日目からレガシー化"
 length: 40
 audience: Intermediate
 language: English
