@@ -12,6 +12,8 @@ schedule:
     venue: 会場
     conference: カンファレンス会場
     seagull: スカイレストラン「シーガル」
+    seagull_guide_path: /ja/seagull
+    seagull_guide: 会場への道案内はこちら
     description: 宴スポンサー協賛による懇親会
 
 day0:

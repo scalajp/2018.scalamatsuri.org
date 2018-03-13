@@ -12,6 +12,8 @@ schedule:
     venue: venue
     conference: Conference venue
     seagull: Sky Restaurant SEAGULL
+    seagull_guide_path: /en/seagull
+    seagull_guide: guide to seagull
     description: Party sponsored by Utage sponsors
 
 day0:
