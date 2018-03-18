@@ -420,11 +420,11 @@ day2:
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: 酒のんでGoogle Code Jamの過去問をやる会
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: Scala engineer recruiting Project
           speaker:
           slide: ""
 
@@ -438,21 +438,21 @@ day2:
     - time: 15:00 - 15:40
       rooms:
         a:
-          title: TBD
+          title: Building a REST API using HTTP4S abstracting over the effect types
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Patterns for ScalaJS
           speaker:
           slide: ""
         c:
           speaker: YugoMaede_1
         d:
-          title: TBD
+          title: Metrics and Monitoring for JVM Web application
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: ユースケースを継続モナドで作ってコードに表現する
           speaker:
           slide: ""
         f:
@@ -470,11 +470,11 @@ day2:
     - time: 16:00 - 16:40
       rooms:
         a:
-          title: TBD
+          title: Java 10 is released in 3 days, but are you interested?
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Scala Design pattern
           speaker:
           slide: ""
 #        c:
@@ -482,15 +482,15 @@ day2:
 #          speaker:
 #          slide: ""
         d:
-          title: TBD
+          title: HangerFlight about Business System in Scala
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Scala de gRPC
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: Women's Association
           speaker:
           slide: ""
 
