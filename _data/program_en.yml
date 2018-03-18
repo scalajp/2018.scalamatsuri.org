@@ -474,7 +474,7 @@ day2:
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: CQRS discussion
           speaker:
           slide: ""
 #        c:
@@ -504,23 +504,23 @@ day2:
     - time: 17:00 - 17:40
       rooms:
         a:
-          title: TBD
+          title: Lens/Prism lean now
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Python for JVM
           speaker:
           slide: ""
         c:
-          title: TBD
+          title: What use finagle?
           speaker:
           slide: ""
         d:
-          title: TBD
+          title: Scala biginner
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Dotty new CQRS discussion
           speaker:
           slide: ""
         f:
