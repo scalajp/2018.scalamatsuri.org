@@ -471,7 +471,7 @@ day2:
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: CQRS discussion かとじゅん
           speaker:
           slide: ""
 #        c:
@@ -501,23 +501,23 @@ day2:
     - time: 17:00 - 17:40
       rooms:
         a:
-          title: TBD
+          title: 今から始めるLens/Prism
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: JVMでPython処理系を作ってるよ
           speaker:
           slide: ""
         c:
-          title: TBD
+          title: finagleどう使っているか聞きたい
           speaker:
           slide: ""
         d:
-          title: TBD
+          title: Scala初級の人でも分かる話
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Dottyの新機能
           speaker:
           slide: ""
         f:
