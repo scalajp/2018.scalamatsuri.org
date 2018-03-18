@@ -308,23 +308,23 @@ day2:
     - time: 11:00 - 11:40
       rooms:
         a:
-          title: TBD
+          title: Scala Native
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: ScalaJS for Backend(node.js)
           speaker:
           slide: ""
         c:
-          title: TBD
+          title: 結局圏論が理解出来なかった俺達の復習
           speaker:
           slide: ""
         d:
-          title: TBD
+          title: Mob Programing
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Scalaで開発する時に入れると便利なツールやIDEの便利機能を教え合う会
           speaker:
           slide: ""
         f:
@@ -342,7 +342,7 @@ day2:
     - time: 12:00 - 12:40
       rooms:
         a:
-          title: TBD
+          title: 依存型プログラミング入門
           speaker:
           slide: ""
         b:
@@ -350,7 +350,7 @@ day2:
         c:
           speaker: YoshiteruTakeshita_1
         d:
-          title: TBD
+          title: VS Code and Scala
           speaker:
           slide: ""
         e:
@@ -358,7 +358,7 @@ day2:
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: エンジニア組織づくり秘密会議
           speaker:
           slide: ""
 
@@ -372,17 +372,17 @@ day2:
     - time: 13:10 - 13:50
       rooms:
         a:
-          title: TBD
+          title: Generic programming without Refrection(Cats, Haskell)
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Scalaの言語機構を悪用して最強のDSLを作る方法
           speaker:
           slide: ""
         c:
           speaker: YoheiTSUJI_1
         d:
-          title: TBD
+          title: JDKのリリースサイクルの変更がScalaにどう影響するか聞きたい
           speaker:
           slide: ""
         e:
@@ -404,7 +404,7 @@ day2:
     - time: 14:00 - 14:40
       rooms:
         a:
-          title: TBD
+          title: Typesafe, Akka-HTTP, Client/Server codegeneration from Swagger Specifications
           speaker:
           slide: ""
         b:
@@ -524,7 +524,7 @@ day2:
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: Scalaで転職すると年収が上がるって本当ですかに答える会
           speaker:
           slide: ""
 
