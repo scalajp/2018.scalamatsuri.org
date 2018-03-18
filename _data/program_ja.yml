@@ -483,8 +483,8 @@ day2:
           speaker:
           slide: ""
         e:
-          title: Scala で gRPC @xuwei-k
-          speaker:
+          title: Scala で gRPC
+          speaker: @xuwei-k
           slide: ""
         f:
           title: 女子会
