@@ -386,7 +386,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Indexed Monad
           speaker:
           slide: ""
         f:
@@ -420,7 +420,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: 酒のんでGoogle Code Jamの過去問をやる会
+          title: Let's study past problems of Google Code Jam in Drinking!
           speaker:
           slide: ""
         f:
@@ -452,7 +452,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: ユースケースを継続モナドで作ってコードに表現する
+          title: Make use case with Continuation Monad into code
           speaker:
           slide: ""
         f:
