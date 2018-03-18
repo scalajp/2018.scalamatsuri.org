@@ -354,7 +354,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: (Scala使いのための) Elmのススメ
           speaker:
           slide: ""
         f:
@@ -416,7 +416,7 @@ day2:
 #          speaker:
 #          slide: ""
         d:
-          title: TBD
+          title: AmmoniteによるScala Script入門
           speaker:
           slide: ""
         e:
