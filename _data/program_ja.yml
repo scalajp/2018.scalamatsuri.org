@@ -352,7 +352,7 @@ day2:
           slide: ""
         e:
           title: (Scala使いのための) Elmのススメ
-          speaker: @ababupdownba
+          speaker: "@ababupdownba"
           slide: ""
         f:
           title: TBD
@@ -414,11 +414,11 @@ day2:
 #          slide: ""
         d:
           title: AmmoniteによるScala Script入門
-          speaker: @blac_k_ey
+          speaker: "@blac_k_ey"
           slide: ""
         e:
           title: 酒のんでGoogle Code Jamの過去問をやる会
-          speaker: @takezoux2
+          speaker: "@takezoux2"
           slide: ""
         f:
           title: 人材ブラックホール化計画
@@ -440,7 +440,7 @@ day2:
           slide: ""
         b:
           title: Scala Design Patterns
-          speaker: @gakuzzzz
+          speaker: "@gakuzzzz"
           slide: ""
         c:
           speaker: YugoMaede_1
@@ -450,7 +450,7 @@ day2:
           slide: ""
         e:
           title: ユースケースを継続モナドで作ってコードに表現する
-          speaker: @s10myk4
+          speaker: "@s10myk4"
           slide: ""
         f:
           title: TBD
@@ -480,11 +480,11 @@ day2:
 #          slide: ""
         d:
           title: 業務システム in Scalaについての知見共有会
-          speaker: @grimrose
+          speaker: "@grimrose"
           slide: ""
         e:
           title: Scala で gRPC
-          speaker: @xuwei-k
+          speaker: "@xuwei-k"
           slide: ""
         f:
           title: 女子会
