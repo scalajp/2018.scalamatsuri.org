@@ -417,11 +417,11 @@ day2:
 #          slide: ""
         d:
           title: Introduction to Scala Script by Ammonite
-          speaker:
+          speaker: @blac_k_ey
           slide: ""
         e:
           title: Let's study past problems of Google Code Jam while Drinking!
-          speaker:
+          speaker: @takezoux2
           slide: ""
         f:
           title: Scala engineer recruiting Project
@@ -443,7 +443,7 @@ day2:
           slide: ""
         b:
           title: Scala Design Patterns
-          speaker:
+          speaker: @gakuzzzz
           slide: ""
         c:
           speaker: YugoMaede_1
@@ -453,7 +453,7 @@ day2:
           slide: ""
         e:
           title: Make use case with Continuation Monad into code
-          speaker:
+          speaker: @s10myk4
           slide: ""
         f:
           title: TBD
@@ -483,7 +483,7 @@ day2:
 #          slide: ""
         d:
           title: HangerFlight about Business System in Scala
-          speaker:
+          speaker: @grimrose
           slide: ""
         e:
           title: Scala de gRPC
