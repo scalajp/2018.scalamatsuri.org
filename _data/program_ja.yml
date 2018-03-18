@@ -435,11 +435,11 @@ day2:
     - time: 15:00 - 15:40
       rooms:
         a:
-          title: TBD
+          title: Building a REST API using HTTP4S abstracting over the effect types
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Patterns for ScalaJS
           speaker:
           slide: ""
         c:
@@ -467,11 +467,11 @@ day2:
     - time: 16:00 - 16:40
       rooms:
         a:
-          title: TBD
+          title: あと3日でJava 10がリリースですが、興味ある人いますか?
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Scala Design pattern
           speaker:
           slide: ""
 #        c:
