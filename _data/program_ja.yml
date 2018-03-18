@@ -355,7 +355,7 @@ day2:
           speaker:
           slide: ""
         f:
-          title: エンジニア組織づくり秘密会議
+          title: TBD
           speaker:
           slide: ""
 
@@ -387,7 +387,7 @@ day2:
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: エンジニア組織づくり秘密会議
           speaker:
           slide: ""
 
@@ -413,7 +413,7 @@ day2:
 #          speaker:
 #          slide: ""
         d:
-          title: TBD
+          title: AmmoniteによるScala Script入門
           speaker:
           slide: ""
         e:
