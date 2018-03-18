@@ -305,23 +305,23 @@ day2:
     - time: 11:00 - 11:40
       rooms:
         a:
-          title: TBD
+          title: Scala Native
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: ScalaJS for Backend(node.js)
           speaker:
           slide: ""
         c:
-          title: TBD
+          title: 結局圏論が理解出来なかった俺達の復習
           speaker:
           slide: ""
         d:
-          title: TBD
+          title: Mob Programing
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Scalaで開発する時に入れると便利なツールやIDEの便利機能を教え合う会
           speaker:
           slide: ""
         f:
