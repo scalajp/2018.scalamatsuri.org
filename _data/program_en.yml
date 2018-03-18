@@ -316,7 +316,7 @@ day2:
           speaker:
           slide: ""
         c:
-          title: 結局圏論が理解出来なかった俺達の復習
+          title: Revice category theory for beginners
           speaker:
           slide: ""
         d:
@@ -342,7 +342,7 @@ day2:
     - time: 12:00 - 12:40
       rooms:
         a:
-          title: 依存型プログラミング入門
+          title: Dependent Type with Idris
           speaker:
           slide: ""
         b:
@@ -354,7 +354,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: (Scala使いのための) Elmのススメ
+          title: Introduction to Elm for Scala users
           speaker:
           slide: ""
         f:
@@ -376,13 +376,13 @@ day2:
           speaker:
           slide: ""
         b:
-          title: Scalaの言語機構を悪用して最強のDSLを作る方法
+          title: How to make the strongest DSL by exploiting Scala's language mechanism
           speaker:
           slide: ""
         c:
           speaker: YoheiTSUJI_1
         d:
-          title: JDKのリリースサイクルの変更がScalaにどう影響するか聞きたい
+          title: How the change in JDK's release cycle affects Scala ?
           speaker:
           slide: ""
         e:
@@ -416,7 +416,7 @@ day2:
 #          speaker:
 #          slide: ""
         d:
-          title: AmmoniteによるScala Script入門
+          title: Introduction to Scala Script by Ammonite
           speaker:
           slide: ""
         e:
@@ -524,7 +524,7 @@ day2:
           speaker:
           slide: ""
         f:
-          title: Scalaで転職すると年収が上がるって本当ですかに答える会
+          title: Is It true that income will rises when you change job at Scala ?
           speaker:
           slide: ""
 
