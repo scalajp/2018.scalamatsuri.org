@@ -11,19 +11,19 @@
     <p>{{ include.program.section.text }}</p>
     <div>
       <p>
-        <a href="#day0">
+        <!--<a href="#day0">-->
           <i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp;{{ include.program.day0.date }}
-        </a>
+        <!--</a>-->
       </p>
       <p>
-        <a href="#day1">
+        <!--<a href="#day1">-->
           <i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp;{{ include.program.day1.date }}
-        </a>
+        <!--</a>-->
       </p>
       <p>
-        <a href="#utage">
+        <!--<a href="#utage">-->
           <i class="fa fa-arrow-down" aria-hidden="true"></i>&nbsp;{{ include.program.schedule.party.title }}
-        </a>
+        <!--</a>-->
       </p>
       <p>
         <a href="#day2">
@@ -34,28 +34,6 @@
   </div>
   <div class="programTableArea">
     <div class="programTableOutSide">
-
-      {% include program/day0.html %}
-
-      <div>
-        <p class="pdogTop">
-          <a href="#day0">
-            <i class="fa fa-arrow-up" aria-hidden="true"></i>&nbsp;{{ include.program.day0.date }}
-          </a>
-        </p>
-      </div>
-
-      {% include program/day1.html %}
-
-      <div>
-        <p class="pdogTop">
-          <a href="#day1">
-            <i class="fa fa-arrow-up" aria-hidden="true"></i>&nbsp;{{ include.program.day1.date }}
-          </a>
-        </p>
-      </div>
-
-      {% include program/utage.html %}
 
       {% include program/day2.html %}
 
