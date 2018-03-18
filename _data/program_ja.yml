@@ -383,7 +383,7 @@ day2:
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Indexed Monad
           speaker:
           slide: ""
         f:
@@ -417,11 +417,11 @@ day2:
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: 酒のんでGoogle Code Jamの過去問をやる会
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: 人材ブラックホール化計画
           speaker:
           slide: ""
 
@@ -435,21 +435,21 @@ day2:
     - time: 15:00 - 15:40
       rooms:
         a:
-          title: TBD
+          title: Building a REST API using HTTP4S abstracting over the effect types
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Patterns for ScalaJS
           speaker:
           slide: ""
         c:
           speaker: YugoMaede_1
         d:
-          title: TBD
+          title: JVM Webアプリケーション メトリクス、モニタリング
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: ユースケースを継続モナドで作ってコードに表現する
           speaker:
           slide: ""
         f:
@@ -467,11 +467,11 @@ day2:
     - time: 16:00 - 16:40
       rooms:
         a:
-          title: TBD
+          title: あと3日でJava 10がリリースですが、興味ある人いますか?
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Scala Design pattern
           speaker:
           slide: ""
 #        c:
@@ -479,15 +479,15 @@ day2:
 #          speaker:
 #          slide: ""
         d:
-          title: TBD
+          title: 業務システム in Scalaについての知見共有会
           speaker:
           slide: ""
         e:
-          title: TBD
+          title: Scala de gRPC
           speaker:
           slide: ""
         f:
-          title: TBD
+          title: 女子会
           speaker:
           slide: ""
 
