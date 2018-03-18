@@ -405,7 +405,7 @@ day2:
           speaker:
           slide: ""
         b:
-          title: TBD
+          title: Patterns for ScalaJS
           speaker:
           slide: ""
 #        c:
@@ -439,7 +439,7 @@ day2:
           speaker:
           slide: ""
         b:
-          title: Patterns for ScalaJS
+          title: Scala Design pattern 
           speaker:
           slide: ""
         c:
@@ -471,7 +471,7 @@ day2:
           speaker:
           slide: ""
         b:
-          title: Scala Design pattern
+          title: TBD
           speaker:
           slide: ""
 #        c:
