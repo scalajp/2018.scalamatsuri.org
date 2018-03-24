@@ -98,6 +98,7 @@ day0:
           title:
         c:
           title: CTO座談会
+          youtube: https://youtu.be/cwiSjVY1U8U
         e:
           title:
 
@@ -306,8 +307,8 @@ day2:
       rooms:
         a:
           title: Scala Native
-          speaker:
-          slide: ""
+          speaker: "@xuwei-k"
+          slide: http://xuwei-k.github.io/slides/native-2018/#1
         b:
           title: ScalaJS for Backend(node.js)
           speaker:
@@ -355,7 +356,7 @@ day2:
           speaker: "@ababupdownba"
           slide: ""
         f:
-          title: TBD
+          title:
           speaker:
           slide: ""
 
@@ -380,8 +381,8 @@ day2:
           speaker: YoheiTSUJI_1
         d:
           title: JDKのリリースサイクルの変更がScalaにどう影響するか聞きたい
-          speaker:
-          slide: ""
+          speaker: "@kis"
+          slide: https://www.slideshare.net/nowokay/new-thing-in-jdk10-even-that-scalaer-should-know
         e:
           title: Indexed Monad
           speaker:
@@ -415,7 +416,7 @@ day2:
         d:
           title: AmmoniteによるScala Script入門
           speaker: "@blac_k_ey"
-          slide: ""
+          slide: https://nomadblacky.github.io/pages/2018-03-18-111619-scalamatsuri.md.html
         e:
           title: 酒のんでGoogle Code Jamの過去問をやる会
           speaker: "@takezoux2"
@@ -441,7 +442,7 @@ day2:
         b:
           title: Scala Design Patterns
           speaker: "@gakuzzzz"
-          slide: ""
+          slide: https://gist.github.com/gakuzzzz/6cbf407928fbc637c64a371bcc20f050
         c:
           speaker: YugoMaede_1
         d:
@@ -451,9 +452,9 @@ day2:
         e:
           title: ユースケースを継続モナドで作ってコードに表現する
           speaker: "@s10myk4"
-          slide: ""
+          slide: http://labs.septeni.co.jp/entry/2018/03/18/135106
         f:
-          title: TBD
+          title:
           speaker:
           slide: ""
 
@@ -485,7 +486,7 @@ day2:
         e:
           title: Scala で gRPC
           speaker: "@xuwei-k"
-          slide: ""
+          slide: https://speakerdeck.com/xuwei_k/scaladegrpc
         f:
           title: 女子会
           speaker:
