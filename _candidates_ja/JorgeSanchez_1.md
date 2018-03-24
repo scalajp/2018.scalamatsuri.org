@@ -14,6 +14,8 @@ tags:
   - Best Practices
 suggestions:
   - Scala コードでもっと関数型プログラミングスタイルを取り入れてみたい人
+slide_url: https://www.slideshare.net/JorgeSnchez40/using-functional-programming-to-improve-your-code-a-working-example
+youtube: 
 ---
 このトークでは、Spark を使った実例を通して、関数型プログラミングの定石を実装することで私達のコードをどう改善できるのかを解説します。
 関心の分離 (ビジネスロジックと実装の切り分けなど) が私達のコードを論理的に考察することに役立つこと、そしてテストのしやすさが向上することを確認します。

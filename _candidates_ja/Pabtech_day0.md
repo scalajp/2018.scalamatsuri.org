@@ -10,4 +10,6 @@ icon:
 organization: 株式会社ドワンゴ
 tags:
 suggestions:
+slide_url: https://docs.google.com/presentation/d/1tMEHC8T1BD56gGLdYkoIuJPXnNAMpBBs2-5t9Jhhv1U/edit#slide=id.p
+youtube: 
 ---

@@ -16,6 +16,8 @@ suggestions:
   - Java8以降やKotlinとScalaの違いが何なのか知りたい人
   - よりテストしやすく使いやすいAPI設計に興味がある人
   - 関数型プログラミングと言われてもピンとこない人
+slide_url: http://gakuzzzz.github.io/slides/why_composability_matters/#1
+youtube: https://youtu.be/8tgZAIRK5Yw
 ---
 Scala はオブジェクト指向言語に関数型プログラミングを統合したプログラミング言語です。
 また今日ではメジャーなオブジェクト指向言語の多くが大なり小なり関数型プログラミングのエッセンスを取り入れています。

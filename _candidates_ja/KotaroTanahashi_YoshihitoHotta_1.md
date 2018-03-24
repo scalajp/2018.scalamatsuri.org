@@ -15,6 +15,8 @@ tags:
 suggestions:
   - 最適化問題をScalaで解きたい人
   - 量子アニーリングに興味がある人
+slide_url:
+youtube: https://youtu.be/wYnqtwvfzos
 ---
 弊社では早稲田大学やカナダのD-Wave Systems Inc.と量子アニーリング(QA)に関する共同研究を行っています。
 QAマシンで問題を解くためには、問題をQUBOと呼ばれる特別な形で表現し、ハードウェアの構造に合わせてマップする必要があります。

@@ -15,6 +15,8 @@ tags:
 suggestions:
   - DDDを実装する言語としてScalaを検討されている方。
   - DDDをScalaで実装されている方。
+slide_url: https://speakerdeck.com/crossroad0201/scala-on-ddd
+youtube: 
 ---
 昨今のプロダクト開発において、DDD(ドメイン駆動設計)はもはや当たり前になりつつあります。
 

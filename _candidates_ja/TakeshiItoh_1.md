@@ -14,6 +14,8 @@ suggestions:
   - scalaでメタプログラミングをしたい人
   - メタプログラミングを使っているライブラリの中身を理解したい人
   - メタプログラミング機能の開発に貢献したい人
+slide_url: https://speakerdeck.com/itakeshi/metaprogramming-in-scala-the-past-and-the-present  
+youtube: 
 ---
 刻々と変化しつづけているscalaのメタプログラミング機能について、開発の最新情報をお届けします。
 
