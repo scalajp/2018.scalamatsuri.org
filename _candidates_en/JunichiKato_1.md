@@ -12,6 +12,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - People who are interested in Akka and DDD
+slide_url: https://speakerdeck.com/j5ik2o/introduction-to-the-practice-reactive-ddd
+youtube: https://youtu.be/o04DRRLiAw0
 ---
 Reactive DDD is used to architect reactive systems using domain driven design (DDD).
 ChatWork has already fully integrated Akka into its systems and has operated these systems for some time.

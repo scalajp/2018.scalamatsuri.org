@@ -15,6 +15,8 @@ tags:
 suggestions:
   - People who are considering Scala as a language to implement DDD
   - People who are implementing DDD with Scala
+slide_url: https://speakerdeck.com/crossroad0201/scala-on-ddd
+youtube: 
 ---
 DDD (domain driven design) is becoming obsolete in recent product development.
 

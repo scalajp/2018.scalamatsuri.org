@@ -14,6 +14,8 @@ tags:
 suggestions:
   - Haskell experts who aren't familiar with Scala
   - Scala experts who aren't familiar with Haskell
+slide_url: http://kmizu.github.io/ScalaMatsuri2018/#/
+youtube:
 ---
 It is often said that Scala is largely influenced by Haskell.
 

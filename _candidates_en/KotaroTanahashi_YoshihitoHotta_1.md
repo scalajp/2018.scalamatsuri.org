@@ -15,6 +15,8 @@ tags:
 suggestions:
   - People who want to solve optimization problems using Scala
   - People who are interested in quantum annealing
+slide_url:
+youtube: https://youtu.be/wYnqtwvfzos
 ---
 We have been involved in joint research on Quantum Annealing (QA) with Waseda University and D-Wave Systems Inc. (based in Canada).
 To solve an optimization problem in a QA machine, you need to describe the problem in a special format called QUBO and map it based on hardware structure.

@@ -12,6 +12,8 @@ tags:
   - Best Practices
 suggestions:
   - Scala beginners who want to fight the unknown concepts
+slide_url: 
+youtube: https://youtu.be/H-zuAw9PKKo
 ---
 What if a Scala beginner is thrown into a Monoid? What would you do? Puzzled? Reject? Accept? What action should you take?
 

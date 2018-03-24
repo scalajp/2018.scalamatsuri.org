@@ -13,6 +13,8 @@ tags:
   - Intro to Scala
 suggestions:
   - Anyone who is interested in working on Scala OSS projects
+slide_url: https://speakerdeck.com/seratch/all-i-learned-while-working-on-a-scala-oss-project-for-over-six-years-number-scalamatsuri
+youtube: https://youtu.be/y7BxvT-Jm6w
 ---
 In 2011, I started a Scala open source project named ScalikeJDBC. 
 Thanks to many contributors, I am still working on the project after six years. 

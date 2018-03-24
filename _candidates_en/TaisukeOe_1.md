@@ -14,6 +14,8 @@ tags:
 suggestions:
   - Scala newcomers feeling they haven't got used to implicit.
   - Scala programmers wanting to utilize implicit more.
+slide_url: https://www.slideshare.net/TaisukeOe/how-to-get-along-with-implicits-91008535
+youtube: 
 ---
 Scala has `implicit` in its keyword.
 Library author can leverage implicit arguments to design concise, flexible and safer API which can be checked in compile time.

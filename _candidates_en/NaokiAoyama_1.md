@@ -14,6 +14,8 @@ tags:
 suggestions:
   - Those interested in practical functional programming
   - Those frustrated with runtime Dependency Injection
+slide_url: https://www.slideshare.net/AoiroAoino/purelyfunctionalplayframeworkapplication
+youtube:
 ---
 There is no doubt that Play is a wonderful Web framework. It has many features and embodies the term "scalable", as it can be used in a multitude of scenarios, from a small-scale throwaway app to a large-scale application. With its long history, and an official support, it is no overstatement to say that it's the de facto standard Web framework of Scala.
 
