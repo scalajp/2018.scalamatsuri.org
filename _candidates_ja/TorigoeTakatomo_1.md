@@ -14,6 +14,8 @@ tags:
 suggestions:
   - 量子コンピュータと聞いてワクワクする方
   - 数値計算の実装に興味のある方
+slide_url: https://www.slideshare.net/TaokatomoTorigoe/lets-simulate-a-quantum-computer-with-pretty-scala
+youtube: https://youtu.be/eFT2MIcZZeA
 ---
 夢の超並列計算機、量子コンピュータの実用化が熱を帯びていますね。
 量子の世界というと「シュレディンガーの猫」のようなSF話も面白いものですが、プログラマーとしてはまずアルゴリズムに興味があるところではないでしょうか？

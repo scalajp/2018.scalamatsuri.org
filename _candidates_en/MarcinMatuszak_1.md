@@ -12,6 +12,8 @@ tags:
   - Virtual coin / Blockchain
 suggestions:
   - who want to understand blockchain technology 
+slide_url: 
+youtube: https://youtu.be/zCo_hvP7qvE
 ---
 Blockchain is a distributed database that is used to maintain a continuously growing list of records. 
 During this talk I will try to explain basic building blocks and algorithms of blockchain using examples in Scala. 

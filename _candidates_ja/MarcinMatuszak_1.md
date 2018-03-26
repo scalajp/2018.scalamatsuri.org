@@ -12,6 +12,8 @@ tags:
   - Virtual coin / Blockchain
 suggestions:
   - ブロックチェーンの技術を理解したい人
+slide_url: 
+youtube: https://youtu.be/zCo_hvP7qvE
 ---
 ブロックチェーンは、レコードのリストを継続的に成長させるのに向いている分散データベースだ。
 このトーク中、オレは、Scalaを用いた例でブロックチェーンの基本的構成要素とアルゴリズムを説明してみるつもりだ。

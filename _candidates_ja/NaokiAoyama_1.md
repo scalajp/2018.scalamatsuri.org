@@ -15,7 +15,7 @@ suggestions:
   - 関数型プログラミングの実用に興味のある人
   - 実行時 DI に不満のある人
 slide_url: https://www.slideshare.net/AoiroAoino/purelyfunctionalplayframeworkapplication
-youtube:
+youtube: https://youtu.be/LtnT8SPKAqU
 ---
 PlayFramework はとても素晴らしい Web フレームワークです。  高機能であり、小規模な書き捨てのアプリケーションから大規模なものまで使うことができ、まさに Scalable を体現しています。  
 歴史もあり、公式もサポートする、Scala における Web フレームワークのデファクトスタンダードといっても過言ではありません。

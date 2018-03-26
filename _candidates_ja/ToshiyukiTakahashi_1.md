@@ -13,6 +13,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - Scalaらしいコードを書きたい人
+slide_url:
+youtube: https://youtu.be/7Pp22ZNp2lg
 ---
 ScalaはJava同様にオブジェクト指向言語という側面があります。でも単純にJava的なコードを書くのはもったいないことです。ではScalaらしいコードとはなんでしょうか？
 

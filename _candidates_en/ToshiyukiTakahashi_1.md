@@ -13,6 +13,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - People who want to write idiomatic Scala
+slide_url:
+youtube: https://youtu.be/7Pp22ZNp2lg
 ---
 Scala is an object-oriented language, like Java.
 However, if you are writing Scala code in Java-like styles, you are not fully leveraging the power of Scala.

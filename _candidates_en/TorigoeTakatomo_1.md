@@ -14,6 +14,8 @@ tags:
 suggestions:
   - People who are passionate about quantum computers
   - People who are interested in implementation of numerical computation
+slide_url: https://www.slideshare.net/TaokatomoTorigoe/lets-simulate-a-quantum-computer-with-pretty-scala
+youtube: https://youtu.be/eFT2MIcZZeA
 ---
 There has been heated discussions about the dream of practical quantum computers.
 Talking about quantum theories, although Sci-Fi stories like "Schrödinger's cat" are interesting,

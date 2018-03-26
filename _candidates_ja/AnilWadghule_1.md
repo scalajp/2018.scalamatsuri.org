@@ -13,6 +13,8 @@ tags:
   - Others
 suggestions:
   - Akka を用いた分散システムの構築に興味がある Java/Scala の開発者
+slide_url: 
+youtube: https://youtu.be/inQVVmAMuUk
 ---
 このトークでは、具体例を使いながら Akka を用いた分散システムの書き方を考察します。
 

@@ -14,7 +14,7 @@ tags:
 suggestions:
   - Scala/Java programmers who consider Haskell to be a big hurdle
 slide_url: https://speakerdeck.com/ytaka23/operation-haskell-plus-scala
-youtube: 
+youtube: https://youtu.be/u9WACa-JRA4
 ---
 In this sesssion, I will show seamless integration between Haskell and Scala using a Haskell implementation on JVM, called Eta.
 

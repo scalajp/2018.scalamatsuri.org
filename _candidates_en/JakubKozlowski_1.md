@@ -14,7 +14,7 @@ tags:
 suggestions:
   - All Scala developers who want to write good code :)
 slide_url: https://kubukoz.github.io/legacy-day1/#/
-youtube: 
+youtube: https://youtu.be/6FYISbNdanE
 ---
 Reinventing the wheel, premature optimization, sabotaging the compiler, ignoring the type system - you name it.
 

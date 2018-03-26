@@ -12,6 +12,8 @@ tags:
   - Tools
 suggestions:
   - sbt ユーザ
+slide_url: 
+youtube: https://youtu.be/tb1ZXtChCQY
 ---
 数年の開発期間を経て 2017年8月にリリースされた sbt 1。  
 このトークでは、開発工程の話や Zinc 1、sbt server、統一スラッシュ構文などの新機能の紹介と sbt 0.13 からのマイグレーションに関して sbt メンテナの Yokota が解説します。

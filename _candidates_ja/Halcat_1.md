@@ -15,7 +15,7 @@ suggestions:
   - Extensible Effectsに興味がある人
   - Dottyの新機能に興味がある人
 slide_url: https://www.slideshare.net/SanshiroYoshida/extensible-effects-in-dotty
-youtube: 
+youtube: https://youtu.be/QeW8Cka28vs
 ---
 近年、Scalaプログラマーの間でもFreeモナドやモナド変換子の話題で盛り上がりを見せるようになりました。また、Extensible Effectsもそれらの拡張または代案として注目を集め始めています。
 そして、次世代のScalaコンパイラであるDottyはバージョン0.5.0-RC1(2017/12/16時点)を迎え、魅力的な新機能を実際に試すことができるようになりました。

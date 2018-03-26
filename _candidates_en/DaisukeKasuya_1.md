@@ -15,6 +15,8 @@ suggestions:
   - Those interested in Scala-based production systems
   - Those thinking about creating a new system in Scala
   - Those interested in operating a homegrown system
+slide_url: 
+youtube: https://youtu.be/tgqUirSkgmQ
 ---
 It's been three years since the official rollout of Mackerel, a service that my team at Hatena builds using Scala on the server-side.
 
