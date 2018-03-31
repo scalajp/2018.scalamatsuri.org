@@ -13,6 +13,8 @@ tags:
   - Intro to Scala
 suggestions:
   - Anyone who is interested in working on Scala OSS projects
+slide_url: https://speakerdeck.com/seratch/all-i-learned-while-working-on-a-scala-oss-project-for-over-six-years-number-scalamatsuri
+youtube: https://youtu.be/y7BxvT-Jm6w
 ---
 私が個人的なニーズを満たすために 2011 年に始めた ScalikeJDBC という Scala  のデータベースライブラリは公開と開発を始めてから既に 6 年以上が経過しました。
 ありがたいことに多くのコントリビュータのおかげでプロジェクトを継続できただけでなく、より良いものにし続けることができました。

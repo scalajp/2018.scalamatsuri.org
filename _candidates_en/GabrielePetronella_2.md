@@ -13,6 +13,8 @@ tags:
   - Best Practices
 suggestions:
   - Scala developers who are interested in learning new FP abstractions to make their life simpler :)
+slide_url: https://speakerdeck.com/gabro/monad-transformers-down-to-earth-4
+youtube: https://youtu.be/t9WvQuqJVU0
 ---
 Monad Transformers. "WAT?" "Exactly"
 In this session we'll see what monad transformers are, where their need comes from and how to use them effectively

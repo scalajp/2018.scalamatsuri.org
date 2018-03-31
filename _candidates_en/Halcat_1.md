@@ -14,6 +14,8 @@ tags:
 suggestions:
   - People who are interested in Extensible Effects
   - People who are interested in Dotty's new features
+slide_url: https://www.slideshare.net/SanshiroYoshida/extensible-effects-in-dotty
+youtube: https://youtu.be/QeW8Cka28vs
 ---
 Recently, free monads and monad transformers have attracted increasing attention from Scala programmers. We are also paying close attention to an extension or alternative to these, Extensible Effects.
 Dotty, the next generation Scala compiler, will reach version 0.5.0-RC1 on Dec. 16, 2018. It will enable us to use attractive new features.

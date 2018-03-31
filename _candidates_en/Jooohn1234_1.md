@@ -14,6 +14,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - People interested in using functional programming techniques in production
+slide_url: 
+youtube: https://youtu.be/nulGcyCqPh8
 ---
 Scala is not a purely functional programming language, but it offers many features useful in functional programming.
 

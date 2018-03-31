@@ -12,6 +12,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - AkkaやDDDに興味がある方
+slide_url: https://speakerdeck.com/j5ik2o/introduction-to-the-practice-reactive-ddd
+youtube: https://youtu.be/o04DRRLiAw0
 ---
 リアクティブシステムとドメイン駆動設計を組み合わせることがリアクティブDDDです。ChatWorkではすでにAkkaをフル活用した同様のシステムが運用されており、その経験から得られた知見を元に新しいDDDの設計スタイルを提案します。
 

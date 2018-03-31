@@ -13,6 +13,8 @@ tags:
   - Others
 suggestions:
   - 圏論について、数学的なものではなく実用的で工学的な観点から学びたい人
+slide_url: https://speakerdeck.com/danielasfregola/scalamatsuri-2018-a-pragmatic-introduction-to-category-theory
+youtube: https://youtu.be/9Ab5JhCQAF0
 ---
 圏論はコミュニティの注目の話題の1つとなっています。 なぜ開発者達はこの理論に突如関心を示し始めたのか？ クールな若者たちはなぜそれについて話しているのか？
 

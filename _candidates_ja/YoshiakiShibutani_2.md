@@ -12,6 +12,8 @@ tags:
   - Best Practices
 suggestions:
   - Scala初心者でわからない概念と戦っていきたい人
+slide_url: 
+youtube: https://youtu.be/H-zuAw9PKKo
 ---
 もしScala初心者がMonoidを投げ込まれたら…あなたならどうしますか？
 困惑？拒絶？容認？どのようなアクションを取るのでしょうか。

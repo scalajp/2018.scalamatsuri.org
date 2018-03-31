@@ -13,6 +13,8 @@ tags:
   - Others
 suggestions:
   - Haskell にハードルの高さを感じている Scala/Java プログラマ
+slide_url: https://speakerdeck.com/ytaka23/operation-haskell-plus-scala
+youtube: https://youtu.be/u9WACa-JRA4
 ---
 本セッションでは、JVM 用 Haskell である Eta を利用して、Haskell/Scala 間のシームレスな連携を実現する技法を解説します。
 

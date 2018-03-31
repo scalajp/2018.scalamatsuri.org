@@ -14,6 +14,8 @@ tags:
 suggestions:
   - 暗黙に対して苦手意識のある人
   - 暗黙をもっと使いこなしたい人
+slide_url: https://www.slideshare.net/TaisukeOe/how-to-get-along-with-implicits-91008535
+youtube: https://youtu.be/ZKFIqwGp_B4
 ---
 Scalaには『暗黙』というキーワードがあります。
 ライブラリ設計者は暗黙の引数をうまく取り入れることで、

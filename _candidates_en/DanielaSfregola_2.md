@@ -13,6 +13,8 @@ tags:
   - Others
 suggestions:
   - People who want to learn more about Category Theory, from a practical engineering point of view rather than a mathematical one.
+slide_url: https://speakerdeck.com/danielasfregola/scalamatsuri-2018-a-pragmatic-introduction-to-category-theory
+youtube: https://youtu.be/9Ab5JhCQAF0
 ---
 Category Theory has become one of the hot topics in the community. Why is this theory suddenly so interesting for developers? Why are the cool kids talking so much about it? 
 

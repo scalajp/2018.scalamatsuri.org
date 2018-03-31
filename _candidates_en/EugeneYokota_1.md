@@ -12,6 +12,8 @@ tags:
   - Tools
 suggestions:
   - sbt users
+slide_url: 
+youtube: https://youtu.be/tb1ZXtChCQY
 ---
 sbt 1 was released in August, 2017 after years of development.
 In this talk, an sbt maintainer Eugene explains the development process, new features (such as Zinc 1, sbt server, unified slash syntax), and the migration from sbt 0.13.

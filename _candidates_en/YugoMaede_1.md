@@ -16,6 +16,8 @@ suggestions:
   - People interested in how Akka applications work
   - People who read "Akka in Action" but did not try out the code by themselves
   - Those who fully understood "Akka in Action" won't need to attend this workshop
+slide_url: https://www.slideshare.net/yugolf/akka-in-action-workshop-scalamatsuri-2018
+youtube: 
 ---
 This is a workshop based on the famous "Akka in Action" book. 
 In this session, we will implement and run "the minimum Akka application" described in the book.

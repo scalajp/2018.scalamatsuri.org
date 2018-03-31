@@ -10,4 +10,6 @@ icon: https://pbs.twimg.com/profile_images/1431608839/ceb5e4f7-bec8-4a68-a86c-32
 organization: (株) Tech to Value
 tags:
 suggestions:
+slide_url: http://gakuzzzz.github.io/slides/implicit_introduction/#1
+youtube: https://youtu.be/_8pnfNUufz8
 ---

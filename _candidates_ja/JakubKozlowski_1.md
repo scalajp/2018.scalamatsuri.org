@@ -13,6 +13,8 @@ tags:
   - Best Practices
 suggestions:
   - 良いコードを書きたいすべての Scala 開発者 :)
+slide_url: https://kubukoz.github.io/legacy-day1/#/
+youtube: https://youtu.be/6FYISbNdanE
 ---
 車輪の再発明、早すぎる最適化、コンパイラを妨害、型システムを無視 - とにかく何でも。
 

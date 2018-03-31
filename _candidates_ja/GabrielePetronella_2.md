@@ -13,6 +13,8 @@ tags:
   - Best Practices
 suggestions:
   - 関数型プログラミングによる抽象化の新しい手法を学んで快適に過ごしたいScala開発者 :)
+slide_url: https://speakerdeck.com/gabro/monad-transformers-down-to-earth-4
+youtube: https://youtu.be/t9WvQuqJVU0
 ---
 モナド変換子。「なんですって？」「言ったとおりだよ。」
 このセッションではモナド変換子がどういったものであるか、なぜ必要なのか、そして効果的に使う方法を見ていきます。

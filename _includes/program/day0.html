@@ -114,7 +114,9 @@
       <th>{{ day0.slots[9].time }}</th>
       <td class="day0RoomC">
         {% capture title %}{{ day0.slots[9].rooms.c.title }}{% endcapture %}
-        {% include program/slot.html title=title %}
+        {% capture youtube %}{{ day0.slots[9].rooms.c.youtube }}{% endcapture %}
+        {% capture slide %}{{ day0.slots[9].rooms.c.slide }}{% endcapture %}
+        {% include program/slot.html title=title youtube=youtube slide_url=slide %}
       </td>
       <td class="day0RoomD">
         {% capture speaker %}{{ day0.slots[9].rooms.d.speaker }}{% endcapture %}

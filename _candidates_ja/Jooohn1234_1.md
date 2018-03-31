@@ -14,6 +14,8 @@ tags:
   - Software Design and Architecture
 suggestions:
   - 関数型プログラミングのテクニックをプロダクションで使いたい人
+slide_url: 
+youtube: https://youtu.be/nulGcyCqPh8
 ---
 Scalaは純粋関数型プログラミング言語ではありませんが、関数型プログラミングに便利な機能をいくつも提供しています。
 私達のプロジェクトでは、Scalaのこの柔軟性を活かし、既存の非純粋関数型的なコードベースに少しずつ関数型のテクニックを適用してきました。

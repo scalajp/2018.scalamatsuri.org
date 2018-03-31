@@ -15,6 +15,8 @@ suggestions:
   - Scala製システムの長期運用に興味がある人
   - これから新しくScalaでシステムを作ろうとしている人
   - 内製システムの運用について知りたい人
+slide_url: 
+youtube: https://youtu.be/tgqUirSkgmQ
 ---
 ぼくの所属するチームではMackerelというサービスのサーバーサイドをScalaで構築しており、正式リリース後の運用を開始してから3年が経ちました。
 

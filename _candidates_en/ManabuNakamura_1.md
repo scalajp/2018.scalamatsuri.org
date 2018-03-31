@@ -16,6 +16,8 @@ suggestions:
   - Those interested in difference between Scala and Java 8 later or Kotlin
   - Those interested in designing more testable and usable API
   - Those who are less familiar with functional programming
+slide_url: http://gakuzzzz.github.io/slides/why_composability_matters/#1
+youtube: https://youtu.be/8tgZAIRK5Yw
 ---
 Scala is a programming language that integrates both object-oriented programming and functional programming.
 However, these days, most major object-oriented languages incorporate the essence of functional programming to some degree or another. If this is the case, then how are these languages different from Scala? One of the key notions to understand this, is the concept of composability.

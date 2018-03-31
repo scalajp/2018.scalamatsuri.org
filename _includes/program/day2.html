@@ -52,32 +52,44 @@
       <td class="day2RoomA" >
         {% capture title %}{{ day2.slots[2].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB" >
         {% capture title %}{{ day2.slots[2].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomC" >
         {% capture title %}{{ day2.slots[2].rooms.c.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.c.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.c.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.c.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomD" >
         {% capture title %}{{ day2.slots[2].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE" >
         {% capture title %}{{ day2.slots[2].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF" >
         {% capture title %}{{ day2.slots[2].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[2].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[2].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[2].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot3-->
@@ -91,7 +103,9 @@
       <td class="day2RoomA" >
         {% capture title %}{{ day2.slots[4].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[4].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[4].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB" >
         {% capture speaker %}{{ day2.slots[4].rooms.b.speaker }}{% endcapture %}
@@ -104,17 +118,23 @@
       <td class="day2RoomD" >
         {% capture title %}{{ day2.slots[4].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[4].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[4].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE" >
         {% capture title %}{{ day2.slots[4].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[4].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[4].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF" >
         {% capture title %}{{ day2.slots[4].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[4].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[4].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[4].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot5-->
@@ -128,12 +148,16 @@
       <td class="day2RoomA">
         {% capture title %}{{ day2.slots[6].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[6].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[6].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[6].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB">
         {% capture title %}{{ day2.slots[6].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[6].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[6].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[6].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomC" rowspan="3">
         {% capture speaker %}{{ day2.slots[6].rooms.c.speaker }}{% endcapture %}
@@ -142,17 +166,23 @@
       <td class="day2RoomD">
         {% capture title %}{{ day2.slots[6].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[6].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[6].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[6].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE">
         {% capture title %}{{ day2.slots[6].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[6].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[6].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[6].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF">
         {% capture title %}{{ day2.slots[6].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[6].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[6].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[6].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot7-->
@@ -167,32 +197,44 @@
       <td class="day2RoomA">
         {% capture title %}{{ day2.slots[8].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[8].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[8].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[8].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB">
         {% capture title %}{{ day2.slots[8].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[8].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[8].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[8].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <!--<td class="day2RoomC">-->
         <!--{% capture title %}{{ day2.slots[8].rooms.c.title }}{% endcapture %}-->
         <!--{% capture speaker %}{{ day2.slots[8].rooms.c.speaker }}{% endcapture %}-->
-        <!--{% include program/slot.html title=title speaker=speaker %}-->
+        <!--{% capture slide %}{{ day2.slots[8].rooms.c.slide }}{% endcapture %}-->
+        <!--{% capture youtube %}{{ day2.slots[8].rooms.c.youtube }}{% endcapture %}-->
+        <!--{% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}-->
       <!--</td>-->
       <td class="day2RoomD">
         {% capture title %}{{ day2.slots[8].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[8].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[8].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[8].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE">
         {% capture title %}{{ day2.slots[8].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[8].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[8].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[8].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF">
         {% capture title %}{{ day2.slots[8].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[8].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[8].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[8].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot9-->
@@ -206,12 +248,16 @@
       <td class="day2RoomA">
         {% capture title %}{{ day2.slots[10].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[10].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[10].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[10].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB">
         {% capture title %}{{ day2.slots[10].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[10].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[10].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[10].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomC" rowspan="3">
         {% capture speaker %}{{ day2.slots[10].rooms.c.speaker }}{% endcapture %}
@@ -220,17 +266,23 @@
       <td class="day2RoomD">
         {% capture title %}{{ day2.slots[10].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[10].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[10].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[10].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE">
         {% capture title %}{{ day2.slots[10].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[10].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[10].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[10].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF">
         {% capture title %}{{ day2.slots[10].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[10].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[10].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[10].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot11-->
@@ -245,32 +297,44 @@
       <td class="day2RoomA">
         {% capture title %}{{ day2.slots[12].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[12].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[12].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[12].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB">
         {% capture title %}{{ day2.slots[12].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[12].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[12].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[12].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <!--<td class="day2RoomC">-->
         <!--{% capture title %}{{ day2.slots[12].rooms.c.title }}{% endcapture %}-->
         <!--{% capture speaker %}{{ day2.slots[12].rooms.c.speaker }}{% endcapture %}-->
-        <!--{% include program/slot.html title=title speaker=speaker %}-->
+        <!--{% capture slide %}{{ day2.slots[12].rooms.c.slide }}{% endcapture %}-->
+        <!--{% capture youtube %}{{ day2.slots[12].rooms.c.youtube }}{% endcapture %}-->
+        <!--{% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}-->
       <!--</td>-->
       <td class="day2RoomD">
         {% capture title %}{{ day2.slots[12].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[12].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[12].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[12].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE">
         {% capture title %}{{ day2.slots[12].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[12].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[12].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[12].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF">
         {% capture title %}{{ day2.slots[12].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[12].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[12].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[12].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot13-->
@@ -284,32 +348,44 @@
       <td class="day2RoomA">
         {% capture title %}{{ day2.slots[14].rooms.a.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.a.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.a.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.a.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomB">
         {% capture title %}{{ day2.slots[14].rooms.b.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.b.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.b.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.b.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomC">
         {% capture title %}{{ day2.slots[14].rooms.c.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.c.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.c.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.c.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomD">
         {% capture title %}{{ day2.slots[14].rooms.d.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.d.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.d.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.d.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomE">
         {% capture title %}{{ day2.slots[14].rooms.e.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.e.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.e.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.e.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
       <td class="day2RoomF">
         {% capture title %}{{ day2.slots[14].rooms.f.title }}{% endcapture %}
         {% capture speaker %}{{ day2.slots[14].rooms.f.speaker }}{% endcapture %}
-        {% include program/slot.html title=title speaker=speaker %}
+        {% capture slide %}{{ day2.slots[14].rooms.f.slide }}{% endcapture %}
+        {% capture youtube %}{{ day2.slots[14].rooms.f.youtube }}{% endcapture %}
+        {% include program/slot.html title=title speaker=speaker youtube=youtube slide_url=slide %}
       </td>
     </tr>
     <!--slot15-->

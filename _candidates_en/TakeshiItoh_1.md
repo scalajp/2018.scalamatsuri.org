@@ -14,6 +14,8 @@ suggestions:
   - People who want to try metaprogramming using Scala
   - People who want to understand internal of libraries using metaprogramming
   - People who want to contribute to metaprogramming utilities
+slide_url: https://speakerdeck.com/itakeshi/metaprogramming-in-scala-the-past-and-the-present  
+youtube: https://youtu.be/xuHbnQCiUjo
 ---
 In this talk, I will introduce the bleeding edge of metaprogramming utility
 for Scala.

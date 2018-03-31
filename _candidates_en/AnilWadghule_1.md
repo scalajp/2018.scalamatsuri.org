@@ -13,6 +13,8 @@ tags:
   - Others
 suggestions:
   - Java/Scala developers interested to learn how to build distributed systems with Akka
+slide_url: 
+youtube: https://youtu.be/inQVVmAMuUk
 ---
 In this talk, we will explore how can we write a distributed system with Akka, referring to sample example
 
