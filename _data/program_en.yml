@@ -488,7 +488,7 @@ day2:
         e:
           title: Scala de gRPC
           speaker: "@xuwei-k"
-          slide: https://speakerdeck.com/xuwei_k/scaladegrpc
+          slide: https://xuwei-k.github.io/slides/gRPC-matsuri-2018/#1
         f:
           title: Women's Association
           speaker:
