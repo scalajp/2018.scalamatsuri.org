@@ -16,6 +16,7 @@ suggestions:
   - People who are concerned with increase in the cost of communication
   - People who want to improve operational efficiency
   - People who want to know the strength of Scala
+slide_url: https://www.slideshare.net/yoshiterutakeshita3/developing-largescale-smartphone-game-servers-by-a-single-person
 
 ---
 I am Yoshiteru Takeshita, a lead engineer at Geisha Tokyo Entertainment Inc.,which is one of the earliest Scala adopters in Japan.
