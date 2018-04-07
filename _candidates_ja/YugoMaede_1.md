@@ -17,7 +17,7 @@ suggestions:
   - Akka実践バイブルを読んでない人or読んだけどまだ自分で動かしていない人
   - Akka実践バイブルを読んで完全に理解できた人は対象外
 slide_url: https://www.slideshare.net/yugolf/akka-in-action-workshop-scalamatsuri-2018
-youtube: 
+youtube: https://youtu.be/KvaXfpvtsdY
 ---
 本ワークショップは、「Akka実践バイブル」で解説している「最小のAkkaアプリケーション」を一緒に読み解き、動かしてみる体験型ワークショップです。
 
