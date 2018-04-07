@@ -14,6 +14,8 @@ tags:
   - Best Practices
 suggestions:
   - People who want to use a more functional programming style in their Scala code.
+slide_url: https://www.slideshare.net/JorgeSnchez40/using-functional-programming-to-improve-your-code-a-working-example
+youtube: https://youtu.be/IwKDoPKvoVc
 ---
 In this talk we will explore how to improve our code by implementing some functional programming constructs through a working example in Spark.
 We will be able to verify how the separation of concerns (Business Logic/Implementation) will help us to reason about our code and improve its testability.
