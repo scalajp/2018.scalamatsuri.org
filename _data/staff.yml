@@ -1,0 +1,199 @@
+# メンバー毎に次の内容を埋めます。
+# いずれも optional です。
+#
+# nameJa: 日本語名
+# nameEn: 英語名
+# handle: ハンドルネーム
+# twitter: twitter アカウント名
+# github: github アカウント名
+# gravatar: gravatar メールアドレスのハッシュ。
+#   gravatar 登録後、
+#   https://ja.gravatar.com/site/check/ここにメールアドレス
+#   から確認可能。
+# note: 何か一言 (担当したこととか)
+# NoteEn: 英語で一言
+
+# 運営メンバー
+member:
+  - github: yutayokoi
+    gravatar: 6e896f5163da7967a8d135d8bd517f7e
+    handle: yutayokoi
+    nameEn: yutayokoi
+    nameJa: 横井雄太
+    note: 会場、ノベルティ周り
+    twitter: yutayokoi0117
+  - github: takezoux2
+    gravatar: 5e1313c5d1166060f2e2ca677b4e40da
+    handle: takezoux2
+    nameEn: Yoshiteru Takeshita
+    nameJa: 竹下義晃
+    note: 会場、プログラム、当日仕切り
+    twitter: takezoux2
+  - github: NoriakiHoriuchi
+    gravatar: d433f997353167f84c13db6829b2220e
+    handle: NoriakiHoriuchi
+    nameEn: Noriaki Horiuchi
+    nameJa: 堀内紀彰
+    note: 雑用係
+    twitter: NoriakiHoriuchi
+  - github: rysh
+    gravatar: 184bb1d4907877239bd4f9ddeb5f1283
+    handle: rysh
+    nameEn: Ishibashi Ryuhei
+    nameJa: 石橋 隆平
+    note: 受付、クローク、ジョブボード
+    twitter: cactaceae
+  - github: daiksy
+    gravatar: 4dd89003cc8fe9f21d67b0c99b773436
+    handle: daiksy
+    nameEn: Daisuke Kasuya
+    nameJa: 粕谷大輔
+    note: 司会・受付・レシーバー係など
+    twitter: daiksy
+  - github: https://github.com/nisshii0313
+    gravatar: 3f001aaf60bab10db9740d0d95dd85d2
+    handle: nisshii
+    nameEn: Yuta Imanishi
+    nameJa: 今西勇太
+    note: 受付、レシーバー配布
+    twitter: ''
+  - github: ''
+    gravatar: f10bf73ac662a43ad9cb644151fdcbf8
+    handle: takahashi
+    nameEn: takahashi
+    nameJa: takahashi
+    note: 事務サポート
+    twitter: ''
+  - github: okapies
+    gravatar: ef45a84b10aa3cb5acd2ea0c9846bd3b
+    handle: okapies
+    nameEn: Yuta Okamoto
+    nameJa: 岡本 雄太
+    note: 翻訳
+    twitter: okapies
+  - github: omiend
+    gravatar: 93f52b85c90d3fc6afdfa7c61ce2a89e
+    handle: omiend
+    nameEn: omiend
+    nameJa: omiend
+    note: トートバッグ制作を担当させていただきました
+    twitter: omiend
+  - github: tkawachi
+    gravatar: 35ea8f83cd8d191f834c69a5481613e9
+    handle: kawachi
+    nameEn: Takashi Kawachi
+    nameJa: 河内 崇
+    note: 司会や4Fの準備片付けなど
+    twitter: kawachi
+  - github: richardimaoka
+    gravatar: 14bfbc98a7d5ed3574be08f6b176ce70
+    handle: richardimaoka
+    nameEn: Richard Imaoka
+    nameJa: リチャード　伊真岡
+    note: OSSハッカソン、Training Day
+    twitter: RichardImaokaJP
+  - github: cedretaber
+    gravatar: 8f4860855bc98d47af58e43652aae1e7
+    handle: cedretaber
+    nameEn: cedretaber
+    nameJa: cedretaber
+    note: カンファレンス会場懇親会準備
+    twitter: cedretaber
+  - github: NomadBlacky
+    gravatar: 86d62651aafabeb3628501005331d98c
+    handle: 黒鍵
+    nameEn: Takumi Kadowaki
+    nameJa: 門脇 拓巳
+    note: 受付、タイムキーパーなど
+    twitter: blac_k_ey
+  - github: ''
+    gravatar: 30bfb0621f8a63e5c43b128dd6773253
+    handle: ''
+    nameEn: Masaru Irisawa
+    nameJa: 入澤 賢
+    note: タイムキーパー、受付
+    twitter: ''
+  - github: amano--
+    gravatar: 7fc3e7cba77d7f6b5acda4beae2e9056
+    handle: __amano
+    nameEn: masahiro amano
+    nameJa: 天野正浩
+    note: 主に受付を担当していました
+    twitter: __amano
+  - github: taisukeoe
+    gravatar: 25fb3e7054e52e524817044853c2d4c3
+    handle: OE_uia
+    nameEn: Taisuke Oe
+    nameJa: 麻植泰輔
+    note: 座長という名の落穂ひろい
+    twitter: OE_uia
+  - github: kimutansk
+    gravatar: 5d869b93035410ece41ff0d86d8c5c14
+    handle: kimutansk
+    nameEn: Kimura, Sotaro
+    nameJa: 木村 宗太郎
+    note: 食事とコーヒー出し小間使い
+    twitter: kimutansk
+  - github: https://github.com/harukifumino
+    gravatar: ''
+    handle: miharun
+    nameEn: Haruki Fumino
+    nameJa: 文野 栄樹
+    note: 翻訳レシーバー、雑用
+    twitter: ''
+  - github: yohei1126
+    gravatar: 1b9ba3d8f6c42ad36480468f2e06a247
+    handle: ''
+    nameEn: Yohei Onishi
+    nameJa: 大西洋平
+    note: 翻訳、受付、その他
+    twitter: legoboku
+  - github: https://github.com/aoiroaoino
+    gravatar: 0b8291daeda1cd55e445af644d402bb0
+    handle: aoiroaoino
+    nameEn: Naoki Aoyama
+    nameJa: 青山 直紀
+    note: 主にノベルティとか
+    twitter: https://twitter.com/AoiroAoino
+  - github: higashijima
+    gravatar: 939f8842bd5051784532835bc851deb4
+    handle: ひがっしー
+    nameEn: Higashijima Masataka
+    nameJa: 東島雅隆
+    note: 懇親会会場案内
+    twitter: tklogyk
+  - github: https://github.com/Keita-N
+    gravatar: c7570ecdf1dd5867313d053a4a9b4f1e
+    handle: Keita-N
+    nameEn: Keita Nagatomi
+    nameJa: 永冨敬太
+    note: 翻訳、コーヒー係etc
+    twitter: ''
+  - github: ik11235
+    gravatar: 0bf6cf78d2177b6eeccc798b3be1fcb1
+    handle: ik-fib
+    nameEn: IKEDA YUICHI
+    nameJa: 池田 祐一
+    note: プログラム、翻訳レシーバー受付
+    twitter: ik11235
+  - github: daneko
+    gravatar: d2490ac07518af943faba9c0eb6ed329
+    handle: 駄猫
+    nameEn: 駄猫
+    nameJa: 駄猫
+    note: ほんのちょっとだけwebページ修正しました。次はもっとがんばります！
+    twitter: daneko0123
+  - github: eed3si9n
+    gravatar: 8f41595db400be30176f6f04630c2842
+    handle: eed3si9n
+    nameEn: Eugene Yokota
+    nameJa: Eugene Yokota
+    note: 翻訳など
+    twitter: eed3si9n
+  - github: grimrose
+    gravatar: afef2fcf56cef5e90af94a1640d95fbc
+    handle: grimrose
+    nameEn: grimrose
+    nameJa: grimrose
+    note: Web周り
+    twitter: grimrose

@@ -12,8 +12,8 @@
   title: スポンサーからのお知らせ
 # - href: "/ja/commercial"
 #   title: CM
-# - href: "/ja/staff"
-#   title: スタッフ
+- href: "/ja/staff"
+  title: スタッフ
 - href: "/ja/code-of-conduct/"
   title: 行動規範
 - href: "/ja/candidates/"
