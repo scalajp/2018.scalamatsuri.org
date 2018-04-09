@@ -311,14 +311,17 @@ day2:
           title: Scala Native
           speaker: "@xuwei-k"
           slide: http://xuwei-k.github.io/slides/native-2018/#1
+          youtube: https://youtu.be/l15MKcPKXkU
         b:
           title: ScalaJS for Backend(node.js)
           speaker:
           slide: ""
+          youtube: https://youtu.be/CeVVqZh8vVs
         c:
           title: Revice category theory for beginners
           speaker:
           slide: ""
+          youtube: https://youtu.be/ZB4TVLoOHtw
         d:
           title: Mob Programing
           speaker:
@@ -345,6 +348,7 @@ day2:
           title: Dependent Type with Idris
           speaker:
           slide: ""
+          youtube: https://youtu.be/adNkNl9nzKA
         b:
           speaker: JorgeSanchez_1
         c:
@@ -379,6 +383,7 @@ day2:
           title: How to make the strongest DSL by exploiting Scala's language mechanism
           speaker:
           slide: ""
+          youtube: https://youtu.be/zYwpTmQxLXk
         c:
           speaker: YoheiTSUJI_1
         d:
@@ -407,10 +412,12 @@ day2:
           title: Typesafe, Akka-HTTP, Client/Server codegeneration from Swagger Specifications
           speaker:
           slide: ""
+          youtube: https://youtu.be/54gupDZafdo
         b:
           title: Patterns for ScalaJS
           speaker:
           slide: ""
+          youtube: https://youtu.be/a7nHO1p3LEQ
 #        c:
 #          title: TBD
 #          speaker:
@@ -441,10 +448,12 @@ day2:
           title: Building a REST API using HTTP4S abstracting over the effect types
           speaker:
           slide: ""
+          youtube: https://youtu.be/pGfj_l-h3M8
         b:
           title: Scala Design Patterns
           speaker: "@gakuzzzz"
           slide: https://gist.github.com/gakuzzzz/6cbf407928fbc637c64a371bcc20f050
+          youtube: https://youtu.be/POehXDps7hU
         c:
           speaker: YugoMaede_1
         d:
@@ -473,10 +482,12 @@ day2:
           title: Java 10 is released in 3 days, but are you interested?
           speaker:
           slide: ""
+          youtube: https://youtu.be/-64VoXMAgJY
         b:
           title: CQRS discussion
           speaker:
           slide: ""
+          youtube: https://youtu.be/LYC3tv9LdUQ
 #        c:
 #          title: TBD
 #          speaker:
@@ -507,14 +518,17 @@ day2:
           title: Lens/Prism lean now
           speaker:
           slide: ""
+          youtube: https://youtu.be/0BObboKdSiI
         b:
           title: Python for JVM
           speaker:
           slide: ""
+          youtube: https://youtu.be/IU0jwpzaKo4
         c:
           title: What use finagle?
           speaker:
           slide: ""
+          youtube: https://youtu.be/vedEjGgTtFI
         d:
           title: Scala biginner
           speaker:
