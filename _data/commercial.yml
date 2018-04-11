@@ -1,0 +1,96 @@
+shogun:
+  name: 将軍スポンサー
+  nameEn: Shogun sponsor
+  sponsors:
+    - name: 株式会社ファンコミュニケーションズ
+      nameEn: F@N Communications, Inc.
+      youtube: https://www.youtube.com/embed/KJtfCK6nOFg
+    - name: Paidy
+      nameEn: Paidy
+      youtube: https://www.youtube.com/embed/GklC0WAD8FY
+    - name: 株式会社セプテーニ・オリジナル
+      nameEn: Septeni Original,Inc.
+      youtube: https://www.youtube.com/embed/vBV-8eQRWas
+    - name: 株式会社サイバーエージェント
+      nameEn: CyberAgent, Inc.
+      youtube: https://www.youtube.com/embed/YNhQK2CK_Ao
+    - name: マーベリック株式会社
+      nameEn: Maverick.,inc.
+      youtube: https://www.youtube.com/embed/0h6Gy5abOrk
+tairo:
+  name: 大老スポンサー
+  nameEn: Tairo sponsor
+  sponsors:
+    - name: スタートトゥデイテクノロジーズ
+      nameEn: Start Today Technologies Inc.
+      youtube: https://www.youtube.com/embed/TMd_5doLewM
+    - name: 株式会社FOLIO
+      nameEn: FOLIO Co.,Ltd.
+      youtube: https://www.youtube.com/embed/Iea3c2Tl7LM
+daimyo:
+  name: 大名スポンサー
+  nameEn: Daimyo sponsor
+  sponsors:
+    - name: 株式会社ビズリーチ
+      nameEn: BizReach, Inc.
+      youtube: https://www.youtube.com/embed/SdF5chTs2kQ
+    - name: 株式会社ネクストビート
+      nameEn: Nextbeat Co., Ltd.
+      youtube: https://www.youtube.com/embed/EOwXYCWtJyA
+    - name: 株式会社オプト
+      nameEn: OPT Inc.
+      youtube: https://www.youtube.com/embed/wIKHH9iV4OQ
+    - name: 株式会社アットウェア
+      nameEn: atWare,inc.
+      youtube: https://www.youtube.com/embed/wuoMNt52ICQ
+    - name: 株式会社リクルートコミュニケーションズ
+      nameEn: Recruit Communications Co., Ltd.
+      youtube: https://www.youtube.com/embed/Eu_Y7zxi1-U
+
+    - name: WAmazing株式会社
+      nameEn: WAmazing Inc.
+      youtube: https://www.youtube.com/embed/6aadH1rnQEc
+    - name: 芸者東京株式会社
+      nameEn: Geisha Tokyo, Inc.
+      youtube: https://www.youtube.com/embed/qD1uRelqn7Q
+    - name: Lightbend
+      nameEn: Lightbend, Inc.
+      youtube: https://www.youtube.com/embed/JhFFR5-An3w
+    - name: 株式会社VOYAGE GROUP
+      nameEn: VOYAGE GROUP Inc.
+      youtube: https://www.youtube.com/embed/qPIGf3QF4ns
+    - name: 株式会社ドワンゴ
+      nameEn: DWANGO Co.,Ltd.
+      youtube: https://www.youtube.com/embed/GfU4aH_AAhI
+samurai:
+  name: 侍スポンサー
+  nameEn: Samurai sponsor
+  sponsors:
+    - name: キャッシュビー株式会社
+      nameEn: CASHb, Inc.
+      youtube: https://www.youtube.com/embed/jUBihf-eA_E
+    - name: ソルフレア株式会社
+      nameEn: Solflare Inc.
+      youtube: https://www.youtube.com/embed/U1sKTaQG5Hg
+    - name: 株式会社クラウドワークス
+      nameEn: CrowdWorks Inc.
+      youtube: https://www.youtube.com/embed/V15Dm1evy_s
+    - name: エムスリー株式会社
+      nameEn: M3, Inc.
+      youtube: https://www.youtube.com/embed/LEpUT8_fPL4
+    - name: SUGAR株式会社
+      nameEn: SUGAR INC.
+      youtube: https://www.youtube.com/embed/g-prd1eBJDg
+
+    - name: スマートニュース株式会社
+      nameEn: SmartNews, Inc.
+      youtube: https://www.youtube.com/embed/S50cXaySCVs
+    - name: TIS株式会社
+      nameEn: TIS Inc.
+      youtube: https://www.youtube.com/embed/3GhJlMldtS0
+    - name: エムオーテックス株式会社
+      nameEn: MOTEX Inc.
+      youtube: https://www.youtube.com/embed/Y3vNPFSd0Z8
+    - name: 日本インサイトテクノロジー株式会社
+      nameEn: Nihon Insight Technologies Corporation
+      youtube: https://www.youtube.com/embed/CruawK2Wnuc
